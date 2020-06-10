@@ -25,7 +25,7 @@ Fans circulating air between 4 levels, dehumidifying system
 
 On top of glulam columns and beams, decking made of nail laminated timber (NLT) panels<!-- constructed in partnership with Georgia Works-->. Locally salvaged wood and FSC-certified southern yellow pine. 2”x 6” boards nailed to 2”x 4” spacers, creating floor panels that measure roughly 10’x10’ each.<!-- https://gfagrow.org/timber-in-georgias-first-living-building/ -->  
 
-<a href="https://modelearth.github.io/home/sketchup/721-Grant-Street.skp">SketchUp Model (22 MB)</a>  
+<a href="sketchup/721-Grant-Street.skp">SketchUp Model (22 MB)</a>  
 [Basement](basement)<!--[Livingroom](livingroom/img/)-->  
 [Kitchen](kitchen)  
 
