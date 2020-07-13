@@ -15,14 +15,18 @@ https://clustrmaps.com/a/1qv6on/
 
 ---
 
-
-Robust insulation - EF Blocks made of recycled styrofoam  
+Energy-efficient radiant cooling and heating in the main floor coreslab  
+Fans circulating air between 4 levels, dehumidifying system  
+White waterproofing membrane on flat portion to reflect the sun  
 Triple-pane glass windows and automated external blinds  
 Passive envelope - Separate from existing house, a 1906 duplex  
-Energy-efficient radiant cooling and heating in the flooring  
-Fans circulating air between 4 levels, dehumidifying system  
+Robust insulation - made of recycled styrofoam and nanowood, if available   
+Considering 50-gallon water tanks for Rheem electric heat pump in attic  
+
 
 <!--
+Hines Interests Limited Partnership, a global real estate investment firm, sought out glulam and DLT to construct the frame and decking of T3 West Midtown
+
 On top of glulam columns and beams, decking made of nail laminated timber (NLT) panels constructed in partnership with Georgia Works. Locally salvaged wood and FSC-certified southern yellow pine. 2”x 6” boards nailed to 2”x 4” spacers, creating floor panels that measure roughly 10’x10’ each. https://gfagrow.org/timber-in-georgias-first-living-building/ 
 -->  
 
