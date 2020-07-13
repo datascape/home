@@ -1,8 +1,4 @@
-
-
-# Residential Mass Timber
-
-![](livingroom/img/T3_Construction_1-800x800.jpg)
+<img src="livingroom/img/T3_Construction_1-800x800.jpg" width="100%">
 
 <!--
 ![](livingroom/img/8-C12-main-sun-CR-Andrew-Pogue_800.jpg)
@@ -14,25 +10,27 @@ Home details
 https://clustrmaps.com/a/1qv6on/
 -->
 
-<a href="https://model.earth/community/projects/wood/">Mass Timber Panels (Dowel or Nail Laminated)</a> akin to the [Kendeda Living Building](https://livingbuilding.gatech.edu/) - [News](https://livingbuilding.gatech.edu/news/wsj-georgia-techs-kendeda-building-pits-latest-sustainable-tech-against-atlantas-swampy-climate)  
+<a href="https://model.earth/community/projects/wood/">Mass Timber Panels (Dowel or Nail Laminated)</a>  
+[Kendeda Living Building](https://livingbuilding.gatech.edu/) - [Kendeda News](https://livingbuilding.gatech.edu/news/wsj-georgia-techs-kendeda-building-pits-latest-sustainable-tech-against-atlantas-swampy-climate)  
 
 ---
+
+
 Robust insulation - EF Blocks made of recycled styrofoam  
 Triple-pane glass windows and automated external blinds  
 Passive envelope - Separate from existing house, a 1906 duplex  
 Energy-efficient radiant cooling and heating in the flooring  
 Fans circulating air between 4 levels, dehumidifying system  
 
-On top of glulam columns and beams, decking made of nail laminated timber (NLT) panels<!-- constructed in partnership with Georgia Works-->. Locally salvaged wood and FSC-certified southern yellow pine. 2”x 6” boards nailed to 2”x 4” spacers, creating floor panels that measure roughly 10’x10’ each.<!-- https://gfagrow.org/timber-in-georgias-first-living-building/ -->  
+<!--
+On top of glulam columns and beams, decking made of nail laminated timber (NLT) panels constructed in partnership with Georgia Works. Locally salvaged wood and FSC-certified southern yellow pine. 2”x 6” boards nailed to 2”x 4” spacers, creating floor panels that measure roughly 10’x10’ each. https://gfagrow.org/timber-in-georgias-first-living-building/ 
+-->  
 
-<a href="sketchup/721-Grant-Street.skp">SketchUp Model (22 MB)</a>  
+<a href="sketchup/721-Grant-Street.skp">SketchUp Model (30 MB)</a>  
 [Basement](basement)<!--[Livingroom](livingroom/img/)-->  
 [Kitchen](kitchen)  
 
-<img src="exterior/img/southeast.png" style="width:100%; max-width: 1200px"><br><br> 
-<!--
-<img src="exterior/img/southeast.jpg" style="width:100%; max-width: 1200px"><br><br> 
--->
+
 <img src="floorplan/img/survey.jpg" style="width:100%; max-width: 1200px"><br><br> 
 
 <!-- TGI Wood Engineered Joists - better quality than dimensional lumber
@@ -61,8 +59,12 @@ Metalbenderz.com - 16" floors too thick
 62 ft² per floor - North jut-out adjenct to existing kitchen.  
 1,403.7 ft² total new addition
 
-Two Floors (excluding attic and basement): 2,355.4 + 1,403.7 = 3,759.1 ft²  
-Survey says: Allowable house 3,750 ft², however we may be able to exceed since the home is a duplex.  
+Two Floors (excluding attic and basement):  
+2,355.4 + 1,403.7 = 3,759.1 ft²  
+<!--
+Survey says: Allowable house 3,750 ft²,  
+however we may be able to exceed since the home is a duplex.  
+-->
 <!-- Total: 5,079.9 ft² -->
 
 ### Existing Main Floor Thickness   
