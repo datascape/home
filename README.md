@@ -35,7 +35,7 @@ On top of glulam columns and beams, decking made of nail laminated timber (NLT) 
 [Kitchen](kitchen)  
 
 
-<img src="floorplan/img/survey.jpg" style="width:100%; max-width: 1200px"><br><br> 
+<a href="floorplan/img/survey.jpg"><img src="floorplan/img/survey.jpg" style="width:100%; max-width: 1200px"></a><br><br> 
 
 <!-- TGI Wood Engineered Joists - better quality than dimensional lumber
 
