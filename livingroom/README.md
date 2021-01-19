@@ -20,9 +20,7 @@ Wood stain - White distressed, Provincial, Farmhouse, Whitewashed Red Chestnut. 
 ![](img/wood-colors-white-distressed.jpg)
 [source](https://www.etsy.com/listing/903462334/wood-samples-wood-stain-sample-stain)
 
-![](img/wood-table.jpg)
-![](img/8-C12-main-sun-CR-Andrew-Pogue_800.jpg)
+
 ![](img/masstimber.jpg)
-![](img/MGA-mass-timber-wood-innovation-design-centre-hero-886x590.jpg)
 ![](img/T3_Construction_1-800x800.jpg)
 ![](img/mass-timber-frame-e1569231844722.jpg)
