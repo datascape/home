@@ -4,53 +4,31 @@
 # Basement
 
 <img src="../basement/img/basement.jpg" style="width:100%; max-width: 1200px">  
+<br>
+
+## Coreslab
 
 <img src="../basement/img/coreslab.jpg" style="width:100%; max-width: 1200px">  
+<br>
+
+# Areas for consideration...  
 
 ### Zero Emission Concrete
 
 Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system since 2016.
 [CNN Article](https://money.cnn.com/2018/06/12/technology/concrete-carboncure/index.html)  
 
-"CarbonCure involves injecting carbon dioxide captured from various other industrial processes into concrete during the mixing process. A chemical reaction would “mineralize” that carbon dioxide, which would have the added benefit of making the concrete compressively stronger." “We have seen no downsides to using CarbonCure,”  Drew Millwood, the Thomas Concrete technician who oversaw the Kendeda job, wrote to me in an email. “It allows for cement reduction in any mix it is used in and provides strength at or above design. No cost increase is involved in a mix containing CO2 as the savings from cement reduction offset the cost of CO2 delivery. Equipment costs are easily recouped due to the savings.” - [source](https://livingbuilding.kendedafund.org/2019/07/16/carboncure/)  
+"CarbonCure involves injecting carbon dioxide captured from various other industrial processes into concrete during the mixing process. A chemical reaction would “mineralize” that carbon dioxide, which would have the added benefit of making the concrete compressively stronger." “We have seen no downsides to using CarbonCure,”  Drew Millwood, the Thomas Concrete technician who oversaw the Kendeda job, writes: “It allows for cement reduction in any mix it is used in and provides strength at or above design. No cost increase is involved in a mix containing CO2 as the savings from cement reduction offset the cost of CO2 delivery. Equipment costs are easily recouped due to the savings.” - [source](https://livingbuilding.kendedafund.org/2019/07/16/carboncure/)  
 
-### Radiant pumping, chiller and air-handling unit.
-
-Considering as a means to avoid duct work. Kendeda Living Building 
 
 ### Hollow Core
 
-Energy-efficient cooling. Heat-sink in the main floor coreslab  
+Heat-sink in the main floor coreslab stores solar energy to radiat out at night.  
 
 8” slab + 2” concrete topping. 10” total.  
-
-4’ wide hollow core slabs.  2 @ 24’ 5 ½”, 4 @ 20’ 11 ½”, 3 @ , 3 @ 10’ 11”, o1 @ 4’ 3 ¾”, 1 @ 3’ 10 ½”  
-
-
-## Insulating Concrete Form (ICF) Considerations
-
-### EF Block - A composite ICF  
-[EF Block](http://www.efbm.com/EF-Block.html) is made from a mix of expanded polystyrene (EPS) and Portland cement.  
-[YouTube](https://www.youtube.com/watch?v=LuSkt1rm3Zs) from Andrew Lane, 706-296-6631  
 <!--
-Andrew Lane, Master of Sustainable Solutions: Arizona State University Dec 2016
-Major US Army(Retired)
-Mobile: 706-296-6631
-Mail: aslane1 asu.edu
-https://www.linkedin.com/in/andrew-lane-31930762/
+4’ wide hollow core slabs.  2 @ 24’ 5 ½”, 4 @ 20’ 11 ½”, 3 @ , 3 @ 10’ 11”, o1 @ 4’ 3 ¾”, 1 @ 3’ 10 ½”  
 -->
-
-[Ledger Board](https://www.youtube.com/watch?v=rNclzrZ-PUs&app=desktop)  
-
-Coatings: Portland stuccos and acrylic polymers (textured acrylic finishes) applied directly to blocks.  
-PermaCrete <!-- PermaCrete.Com --> by EF Block 
-
-### Basement ICF Forms
-
-[Logix icf](https://logixicf.com/blog/insight-and-advice/designing-walls-built-with-insulated-concrete-forms-save-time-and-money/)  
-
-[Polysteel Insulating Concrete Forms](http://www.polysteel.com/construction.htm) - Roof angle  
-Similar: Fox Blocks  
 
 
 #### [Concrete Industries - Indiana](https://concreteindustries.com/hollowcore/)
@@ -86,6 +64,34 @@ cellulose-infused concrete sets faster
 
 
 
+## Insulating Concrete Form (ICF) 
+
+### Basement ICF Forms
+
+[Logix icf](https://logixicf.com/blog/insight-and-advice/designing-walls-built-with-insulated-concrete-forms-save-time-and-money/)  
+
+[Polysteel Insulating Concrete Forms](http://www.polysteel.com/construction.htm) - Roof angle  
+Similar: Fox Blocks 
+
+### EF Block - A composite ICF  
+[EF Block](http://www.efbm.com/EF-Block.html) is made from a mix of expanded polystyrene (EPS) and Portland cement.  
+[YouTube](https://www.youtube.com/watch?v=LuSkt1rm3Zs) from Andrew Lane, 706-296-6631  
+<!--
+Andrew Lane, Master of Sustainable Solutions: Arizona State University Dec 2016
+Major US Army(Retired)
+Mobile: 706-296-6631
+Mail: aslane1 asu.edu
+https://www.linkedin.com/in/andrew-lane-31930762/
+-->
+
+[Ledger Board](https://www.youtube.com/watch?v=rNclzrZ-PUs&app=desktop)  
+
+Coatings: Portland stuccos and acrylic polymers (textured acrylic finishes) applied directly to blocks.  
+PermaCrete <!-- PermaCrete.Com --> by EF Block 
+
+ 
+
+
 ### Foam Floors
 
 [Quadlock](https://www.quadlock.com/ICF-Floors-and-Roofs/quad-deck.htm)  
@@ -96,3 +102,13 @@ ICF insulated concrete foundation
 ICF Builder
 triple pane windows with argon fill on the north side of the house
 -->
+
+### Radiant pumping, chiller and air-handling unit.
+
+A means to avoid duct work applied at the Kendeda Living Building.  
+
+Our central elevator shaft will allow chilled air to fall from attic AC unit.  
+Additional AC unit within front porch ceiling.  
+Optional chiller in basement could pump cold air up duck on side of elevator shaft.  
+Two existing HVAC units will reside under grate on north side of house.  
+
