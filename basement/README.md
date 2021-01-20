@@ -3,10 +3,9 @@
 
 # Basement
 
-<img src="../exterior/img/coreslab.jpg" style="width:100%; max-width: 1200px"> 
+<img src="../basement/img/basement.jpg" style="width:100%; max-width: 1200px">  
 
-<img src="img/wood/721-grant-framework.jpg" style="width:100%; max-width: 1200px">  
-
+<img src="../basement/img/coreslab.jpg" style="width:100%; max-width: 1200px">  
 
 ### Zero Emission Concrete
 
@@ -20,6 +19,8 @@ Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system sinc
 Considering as a means to avoid duct work. Kendeda Living Building 
 
 ### Hollow Core
+
+Energy-efficient cooling. Heat-sink in the main floor coreslab  
 
 8” slab + 2” concrete topping. 10” total.  
 
@@ -59,8 +60,6 @@ Similar: Fox Blocks
 
 <!--
 ![Alt text](img/concrete/hollowcore-02.jpg "Hollowcore")  
-
-<img src="img/concrete/concrete-frame.jpg" style="max-width:500px">
 
 Student researcher explaining an innovative [seismic retrofit](https://www.constructionspecifier.com/new-research-council-formed-for-concrete-industry/). 
 Send suggestions to [ACI Foundation](https://www.acifoundation.org/research/suggestresearch.aspx)  

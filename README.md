@@ -1,38 +1,24 @@
-<img src="livingroom/img/T3_Construction_1-800x800.jpg" width="100%">
 
-<!--
-![](livingroom/img/8-C12-main-sun-CR-Andrew-Pogue_800.jpg)
-![](livingroom/img/masstimber.jpg)
-![](livingroom/img/MGA-mass-timber-wood-innovation-design-centre-hero-886x590.jpg)
-![](livingroom/img/mass-timber-frame-e1569231844722.jpg)
-
-Home details
-https://clustrmaps.com/a/1qv6on/
--->
-
-<a href="https://model.earth/community/projects/wood/">Mass Timber Panels (Dowel or Nail Laminated)</a>  
-[Kendeda Living Building](https://livingbuilding.gatech.edu/) - [Kendeda News](https://livingbuilding.gatech.edu/news/wsj-georgia-techs-kendeda-building-pits-latest-sustainable-tech-against-atlantas-swampy-climate)  
-
----
-
-Energy-efficient radiant cooling and heating in the main floor coreslab  
-Fans circulating air between 4 levels, dehumidifying system  
-White waterproofing membrane on flat portion to reflect the sun  
-Triple-pane glass windows and automated external blinds  
-Passive envelope - Separate from existing house, a 1906 duplex  
-Robust insulation - made of recycled styrofoam and nanowood, if available   
-Considering 50-gallon water tanks for Rheem electric heat pump in attic  
+## Survey and Dimensions
 
 
-<!--
-Hines Interests Limited Partnership, a global real estate investment firm, sought out glulam and DLT to construct the frame and decking of T3 West Midtown
+### Existing:
+2,438 ft² with laundry areas, which will be removed. (Dimension source: Funton county website)    
+2,355.4 ft² two floors retained (with laundry area removed, includes stairwell)  
+1,177.7 ft² per floor retained (includes stairwell)  
 
-On top of glulam columns and beams, decking made of nail laminated timber (NLT) panels constructed in partnership with Georgia Works. Locally salvaged wood and FSC-certified southern yellow pine. 2”x 6” boards nailed to 2”x 4” spacers, creating floor panels that measure roughly 10’x10’ each. https://gfagrow.org/timber-in-georgias-first-living-building/ 
--->  
+### Addition:
+639 ft² per floor (includes stairway openings. Does not include exterior walls)   
+48.13 ft² per floor - North jut-out adjenct to existing kitchen.  
+1374.26 ft² total new addition
 
-<a href="sketchup/721-Grant-Street.skp">SketchUp Model (30 MB)</a>  
-[Basement](basement)<!--[Livingroom](livingroom/img/)-->  
-[Kitchen](kitchen)  
+Total (excluding attic and basement):  
+2,355.4 + 1374.26 = 3729.66 ft²  
+
+Allowable house 3750 ft² (from survey)  
+Land Area 7,501 ft² from [clustrmaps.com](https://clustrmaps.com)<!-- source https://clustrmaps.com/a/1qv6on/ -->
+
+<!-- Total with unfinished basement and attic: 5050.46 ft² -->
 
 
 <a href="floorplan/img/survey.jpg"><img src="floorplan/img/survey.jpg" style="width:100%; max-width: 1200px"></a><br><br> 
@@ -51,25 +37,8 @@ Metalbenderz.com - 16" floors too thick
 
 
 
-## Dimensions
 
-### Existing:
-2,438 ft² with laundry areas, which will be removed. (Dimension source: Funton county website)    
-2,355.4 ft² two floors retained (with laundry area removed)  
-1,177.7 ft² per floor retained (includes stairwell)  
 
-### New Addition:
-639.85 ft² per floor (includes stairway openings and all walls)   
-62 ft² per floor - North jut-out adjenct to existing kitchen.  
-1,403.7 ft² total new addition
-
-Two Floors (excluding attic and basement):  
-2,355.4 + 1,403.7 = 3,759.1 ft²  
-<!--
-Survey says: Allowable house 3,750 ft²,  
-however we may be able to exceed since the home is a duplex.  
--->
-<!-- Total: 5,079.9 ft² -->
 
 ### Existing Main Floor Thickness   
 (Existing, above crawl space)  
@@ -94,3 +63,22 @@ The roof pitch is 7' in 12' for 30.26°
 
 Rafters are 5 13/16" wide.  
 (Rafters are 6 3/16" on vertical cut, so the distance from top of joist to the underside of roof is 96 3/16")   
+
+
+
+
+
+<!--
+
+White waterproofing membrane on flat portion to reflect the sun  
+Triple-pane glass windows and automated external blinds     
+Considering 50-gallon water tanks for Rheem electric heat pump in attic 
+	Fans circulating air between 4 levels, dehumidifying system  
+
+Hines Interests Limited Partnership, a global real estate investment firm, sought out glulam and DLT to construct the frame and decking of T3 West Midtown
+
+On top of glulam columns and beams, decking made of nail laminated timber (NLT) panels constructed in partnership with Georgia Works. Locally salvaged wood and FSC-certified southern yellow pine. 2”x 6” boards nailed to 2”x 4” spacers, creating floor panels that measure roughly 10’x10’ each. https://gfagrow.org/timber-in-georgias-first-living-building/ 
+-->  
+
+
+
