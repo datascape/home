@@ -107,8 +107,9 @@ triple pane windows with argon fill on the north side of the house
 
 A means to avoid duct work applied at the Kendeda Living Building.  
 
-Our central elevator shaft will allow chilled air to fall from attic AC unit.  
-Additional AC unit within front porch ceiling.  
-Optional chiller in basement could pump cold air up duck on side of elevator shaft.  
+Our central elevator shaft will allow chilled air to fall from an attic AC unit.  
+A small AC unit will also reside within south porch ceiling.  
 Two existing HVAC units will reside under grate on north side of house.  
+Optional chiller in basement could pump cold air up duct on side of elevator shaft.  
+
 
