@@ -31,7 +31,15 @@ Heat-sink in the main floor coreslab stores solar energy to radiat out at night.
 -->
 
 
-#### [Concrete Industries - Indiana](https://concreteindustries.com/hollowcore/)
+<img src="../basement/img/concrete/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
+
+PCM placed in concrete core slab tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
+<br><br>
+
+
+### Hollowcore
+
+[Concrete Industries - Indiana](https://concreteindustries.com/hollowcore/)
 **Specs**  
 [8" Hollowcore with 2" composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-2in-Composite.pdf)  
 [8" Hollowcore with no composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-No-Composite.pdf)
@@ -111,5 +119,9 @@ Our central elevator shaft will allow chilled air to fall from an attic AC unit.
 A small AC unit will also reside within south porch ceiling.  
 Two existing HVAC units will reside under grate on north side of house.  
 Optional chiller in basement could pump cold air up duct on side of elevator shaft.  
+
+---
+
+[Home](../)
 
 
