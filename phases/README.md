@@ -7,8 +7,11 @@ Phase 1
 1. Column bases for she-shed (small)
 1. Remove rear and position as she-shed (Maybe use a crane)
 1. Remove tree which is too close to other tree (small, or use crane)
+1. Remove ceiling and south wall in both kitchens
 1. Jackhammer and install cement pad for AC Units
 1. Move AC Units, extend freon lines
+
+Phase 2 - Cement work, secure basement
 1. Basement, north bumpout foundation, rear porch pedistals
 1. Coreslab
 1. Basement window under porch
@@ -18,42 +21,53 @@ Phase 1
 1. Wooden porch steps - detachable, over rain barrels
 1. Install tiny door, sunburst (Abbey)
 
-Phase 2
+Phase 3 - Framework, Roofing, Windows, Siding
 1. Framework including porches
 1. Roofing for entire house (prep for solar)
 1. Windows and siding on addition
-1. 3 stairways (maybe steel stairway in basement)
-1. Put new freezer unit upstairs (will move downstairs later)
 
-Phase 3
-1. Remove old black storm windows
+Phase 4 - Stairways
+1. 3 stairways (maybe steel stairway in basement)
+1. South entrance wood stairway (4 steps)
+
+Phase 5 - Short freezer
+1. Place new freezer unit upstairs (will move downstairs later)
+
+Phase 6 - Exterior painting and storm windows
+1. Remove old black storm windows and security bars
 1. Minor repairs, paint prep, filling holes
 1. Paint entire exterior
 1. Add white storm windows
 
-Phase 4
+Phase 7 - Grey water, Solar, AC Units, Heating unit in basement
 1. Grey water system
 1. Solar panels
-1. AC and ducts for attic unit
+1. Storage battery and metered street units
+1. North attic call AC units and ducts to kitchens and bathrooms
+1. Kitchen and craft room vents, bathroom vents
 1. South upstairs bathrooms and laundry area
 1. AC Unit in south porch roof
 1. Heating unit in basement integrated with Coreslab
-1. New upstairs counter and sink in craft room (temporary kitchen area)
 
-Phase 5
+Phase 8 - Craft room counter (small)
+1. Disconnect upstairs kitchen sink
+1. New upstairs counter in craft room (temporary kitchen area)
+1. Add new sink in craft room
+
+Phase 9 - 
+1. Remove downstairs kitchen counters and sink
 1. Downstairs Kichen - cabinets, sink, oven, freezer unit
-1. Kitchen and craft room vents
 1. Grate over HVAC units
 1. Rear barbecue grill stone enclosure
 1. Tiles laid out for rain absorption as back porch (small)
 1. Rain barrels and pipe hookup under south steps
 
-Phase 6
+Phase 10
 1. Move existing front stairway (small)
 1. Existing upstairs bathroom - new waterproof window, move sink, new toilet, add tub
 1. Add downstairs shower under stairway
 
-Phase 7 (optional)
+Phase 11 (optional)
 1. Light well using elevator shaft
 1. Basement chiller and elevator shaft duct
 1. Elevator
