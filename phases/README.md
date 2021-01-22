@@ -50,7 +50,7 @@ Phase 5
 
 Phase 6
 1. Move existing front stairway (small)
-1. Upstairs tub, move sink, new toilet
+1. Existing upstairs bathroom - new waterproof window, move sink, new toilet, add tub
 1. Add downstairs shower under stairway
 
 Phase 7 (optional)
@@ -65,7 +65,7 @@ Several projects indicated as small may be done by Loren, dependent on cost.
 
 # Basement
 
-<a href="../basement/img/basement.jpg"><img src="../basement/img/basement.jpg" style="width:100%; max-width:1200px"></a>  
+<a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
 ### Zero Emission Concrete
@@ -77,7 +77,7 @@ Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system sinc
 
 ## Coreslab
 
-<a href="../basement/img/coreslab.jpg"><img src="../basement/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>  
+<a href="../phases/img/coreslab.jpg"><img src="../phases/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
 
@@ -99,7 +99,7 @@ Heat-sink in the main floor coreslab stores solar energy to radiat out at night.
 [8" Hollowcore with 2" composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-2in-Composite.pdf)  
 [8" Hollowcore with no composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-No-Composite.pdf)
 
-<img src="../basement/img/concrete/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
+<img src="../phases/img/concrete/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
 
 PCM placed in concrete core slab tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
 <br><br>
@@ -140,7 +140,7 @@ Two existing HVAC units will reside under grate on north side of house.
 Chiller in basement will pump cold air up a duct within elevator shaft.  
 
 
-## North AC Unit, Grey Water Storage and Covered HVAC Units
+## North AC Unit, Grey Water Storage and Grate over HVAC Units
 
 <a href="../framework/img/hvac-and-greywater.jpg"><img src="../framework/img/hvac-and-greywater.jpg" style="width:100%; max-width:1200px"></a>  
 <br>

@@ -11,6 +11,6 @@
 
 <a href="https://www.houzz.com/photos/historic-whole-house-renovation-screened-porch-craftsman-porch-atlanta-phvw-vp~3849435"><img src="../porch/img/porch.jpg" style="width:100%; max-width: 1200px"></a>
 
-[Home](../)
+[Home](../) | [Phases](../phases/)
 
 
