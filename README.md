@@ -33,7 +33,7 @@ Metalbenderz.com - 16" floors too thick
 
 -->
 
-<img src="exterior/img/floorplan.png" style="width:100%; max-width: 1200px"><br><br> 
+<a href="exterior/img/floorplan.jpg"><img src="exterior/img/floorplan.jpg" style="width:100%; max-width: 1200px"></a><br><br> 
 
 
 
@@ -80,5 +80,8 @@ Hines Interests Limited Partnership, a global real estate investment firm, sough
 On top of glulam columns and beams, decking made of nail laminated timber (NLT) panels constructed in partnership with Georgia Works. Locally salvaged wood and FSC-certified southern yellow pine. 2”x 6” boards nailed to 2”x 4” spacers, creating floor panels that measure roughly 10’x10’ each. https://gfagrow.org/timber-in-georgias-first-living-building/ 
 -->  
 
+[Home](./) | [Kitchen](kitchen/) | 
+<a href="livingroom">Living Room</a> | 
+<a href="basement">Phases</a>
 
 
