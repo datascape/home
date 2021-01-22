@@ -68,7 +68,7 @@ Phase 9 - New Kitchen, Barbecue, Porch Stonework, Rain Barrels
 1. Rear barbecue grill with stone enclosure
 1. Rain barrels and pipe hookup under south steps
 
-Phase 10 - Existing Bathrooms
+Phase 10 - Existing Stairway, Existing Bathrooms
 1. Move existing front stairway (small)
 1. Existing upstairs bathroom - new waterproof window, move sink, new toilet, add tub
 1. Add downstairs shower under stairway
