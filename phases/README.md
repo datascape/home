@@ -13,10 +13,12 @@ Phase 1 - Shed, Demo, AC Pad, Move AC Units
 1. Remove ceiling and south wall in both kitchens (small)
 1. Jackhammer and install cement pad for AC Units
 1. Move AC Units, extend freon lines
+1. Remove portion of brick wall, retain bricks
 
 Phase 2 - Cement work, secure basement
 1. Basement, north bumpout foundation
 1. 3 rear porch pedistal bases (small)
+1. Add weatherproof west door to connect basement to crawl space
 1. Grate over HVAC units
 1. Coreslab
 1. Basement window under porch
@@ -32,10 +34,13 @@ Phase 3 - Framework, Roofing, Windows, Siding
 1. Windows and siding on addition
 1. Doors on north storage compartments
 
-Phase 4 - Stairways
+Phase 4 - Drywall, Stairways
+1. Drywall
+2. Vent covers and switch covers
 1. 3 stairways (maybe steel stairway in basement)
 1. South entrance wood stairway (4 steps)
 1. Steps up to master bedroom
+1. Updates to door under house, east side
 
 Phase 5 - Short freezer
 1. Place new freezer unit upstairs (will move downstairs later)
@@ -44,7 +49,7 @@ Phase 6 - Exterior painting and storm windows
 1. Remove old black storm windows and security bars
 1. Minor repairs, paint prep, filling holes
 1. Paint entire exterior
-1. Add white storm windows
+1. Add white storm windows (Window World used across the street)
 
 Phase 7 - Grey water, Solar, AC Units, Heating unit in basement
 1. Grey water system
@@ -77,6 +82,9 @@ Phase 11 (optional, not in current financing)
 1. Light-well material using elevator shaft
 1. Basement chiller and elevator shaft duct
 1. Elevator
+
+
+1. Repoint bricks, reduce vent openings, close holes, new trim on front porch
 <br><br>
 
 ---
@@ -104,24 +112,38 @@ Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system sinc
 
 ### Hollow Core
 
-Heat-sink in the main floor coreslab stores solar energy to radiat out at night.  
+Heat-sink in the main floor coreslab stores solar energy, radiates out at night.  
 
 8” slab + 2” concrete topping. 10” total.  
-<!--
-4’ wide hollow core slabs.  2 @ 24’ 5 ½”, 4 @ 20’ 11 ½”, 3 @ , 3 @ 10’ 11”, o1 @ 4’ 3 ¾”, 1 @ 3’ 10 ½”  
--->
+
+ 2” Acid Wash Cement cover (Structural, composite concrete topping)
+
+ <!--
+ 	Coreslab Structure (Atlanta) - Met Sales Rep Jay Rubinson jrubinson@coreslab.com 770-471-1150
+ -->
+
+<a href="http://www.concretetech.com/Adobe/hollowcorebuildingbrochure.pdf"><img src="img/hollowcore-drilling.png" style="width:100%; max-width: 800px"></a><br><br>
 
 
 [Concrete Industries - Indiana](https://concreteindustries.com/hollowcore/)
 **Specs**  
 [8" Hollowcore with 2" composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-2in-Composite.pdf)  
 [8" Hollowcore with no composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-No-Composite.pdf)
+<br><br>
 
 <img src="../phases/img/concrete/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
 
-PCM placed in concrete core slab tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
+PCM placed in concrete coreslab tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
+Not that external air is NOT sent through the coreslab. Air would move in a loop.
 <br><br>
 
+<a href="../phases/img/coreslab/coreslab-ducts.jpg"><img src="../phases/img/coreslab/coreslab-ducts.jpg" style="width:100%; max-width:1200px"></a><br><br>
+Air would leave the electric heating unit on the right side, move though one of ten 50 foot loops in the coreslab basement ceiling, and return for reheating via the left duct.<br><br><br>
+
+
+<a href="../phases/img/coreslab/coreslab-south.jpg"><img src="../phases/img/coreslab/coreslab-south.jpg" style="width:100%; max-width:1200px"></a><br><br>
+U-shaped pipes would connect sets of two pipes to create 10 loops.
+<br><br>
 
 <!--
 Student researcher explaining an innovative [seismic retrofit](https://www.constructionspecifier.com/new-research-council-formed-for-concrete-industry/). 
@@ -132,6 +154,9 @@ Send suggestions to [ACI Foundation](https://www.acifoundation.org/research/sugg
 ### Precast Concrete
 
 [Precast Concrete Suppliers serving Georgia](https://www.thomasnet.com/georgia/precast-concrete-17311002-1.html)  
+
+[Precast Concrete Directory](https://www.pci.org/PCI/Directories/PCICertifiedPlants.aspx)  
+
 
 ### Concrete with Cellulose Nanocrystals
 
@@ -149,21 +174,60 @@ ICF Builder
 triple pane windows with argon fill on the north side of the house
 -->
 
+
+
+## North AC Unit, Grey Water Storage and Grate over HVAC Units
+
 ### Radiant pumping, chiller and air-handling unit.
 <!--A means to avoid duct work applied at the Kendeda Living Building.  -->
 
 Our central elevator shaft will allow chilled air to fall from an attic AC unit.  
 A small AC unit will also reside within south porch ceiling.  
-Two existing HVAC units will reside under grate on north side of house.  
-Chiller in basement will pump cold air up a duct within elevator shaft.  
 
-
-## North AC Unit, Grey Water Storage and Grate over HVAC Units
+<!--
+Not using - Water Furnace Specs
+https://www.waterfurnace.com/literature/envision/im1008hn.pdf
+-->
 
 <a href="../framework/img/hvac-and-greywater.jpg"><img src="../framework/img/hvac-and-greywater.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
 
+Two existing HVAC units will reside under grate on north side of house.  
+Chiller in basement will pump cold air up a duct within elevator shaft.  
+About <a href="https://www.hpacmag.com/features/radiant-cooling/">radiant-cooling</a>  
+
+<h2>West Elevation</h2><br>
+<a href="../elevations/img/4-levels.jpg"><img src="../elevations/img/4-levels.jpg" style="width:100%; max-width: 1200px"></a>
+
+### HVAC Duct Fabricators
+Atlanta Supply - Logan Circle (for Ducts, custom)  
+Custom sheet metal (pricy) [B & S Sheet Metal Fabricators Inc.](https://bsmetalfabricators.com/)  
+
+Current HVAC in crawl space: Ducane  
+Sept 2014 - Circuit board replaced  
+Motor did not need to be replaced (m#FPBB100A5 S#20251005A PRODUCT#1006559993)  
+
+## Water Heaters
+
+2 Tankless - One by laundry machine, one in basement by kithen  
+
+<a href="https://www.facebook.com/watch/live/?v=10160036402400436&ref=watch_permalink">Amy</a> presenting Rinnai Sensei tankless water heater, newer than Navien.  
+
+1 Tank understairs  
+<a href="http://www.marathonheaters.com/cons_specs.html">Rheem's Marathon Water Heater</a> - "The most durable electric water heater" - Under stairs  
+
+
+## Repointing Bricks
+
+Sandstone mortar color, similar to left below. [Mortar Mix for Historic Homes](https://gpna.org/historic-home-care)<br><br>
+
+<a href="img/bricks/mortar-sandstone.png"><img src="img/bricks/mortar-sandstone.png" style="width:100%; max-width:1200px"></a> 
+<br><br>
+
+More like the wall...<br><br>
+
+<a href="img/bricks/brick-existing.png"><img src="img/bricks/brick-existing.png" style="width:100%; max-width:1200px"></a> 
 
 ---
 

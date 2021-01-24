@@ -82,6 +82,6 @@ On top of glulam columns and beams, decking made of nail laminated timber (NLT) 
 
 [Home](./) | [Kitchen](kitchen/) | 
 <a href="livingroom">Living Room</a> | 
-<a href="basement">Phases</a>
+<a href="phases">Phases</a>
 
 
