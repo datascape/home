@@ -227,7 +227,17 @@ Sandstone mortar color, similar to left below. [Mortar Mix for Historic Homes](h
 
 More like the wall...<br><br>
 
-<a href="img/bricks/brick-existing.png"><img src="img/bricks/brick-existing.png" style="width:100%; max-width:1200px"></a> 
+<a href="img/bricks/brick-existing.png"><img src="img/bricks/brick-existing.png" style="width:100%; max-width:1200px"></a>  
+
+## Porch Railing Style
+
+Nor our house. For reference only...  
+
+<a href="../exterior/img/porch.jpg"><img src="../exterior/img/porch.jpg" style="width:100%; max-width:1200px"></a> 
+
+Waterflow at entrance under porch...  
+
+<a href="../exterior/img/waterflow.jpg"><img src="../exterior/img/waterflow.jpg" style="width:100%; max-width:1200px"></a> 
 
 ---
 
