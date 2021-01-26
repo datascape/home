@@ -18,8 +18,9 @@ Projects indicated as "(small)" may be done independently by home owner.
 | Jackhammer and remove cement for AC pad (small)  | $400 | $800 |
 | Pour cement pad for AC Units (small) | $600 | $800 |
 | Cement bases for for art shed footers (small) | $200 | $550 |
-| Remove portion of brick wall on Bass Street. Bricks will be used for shed footers (small) | $400 | $600 |
+| Remove west brick wall where trash resides. Bricks will be used for shed footers (small) | $400 | $600 |
 | 6 brick columns for shed (small) | $300 | $600 |
+| Remove enough dirt for crane to enter backyard to avoid cutting trim limb | $600 | $1,000 |
 | Cut and uses wedges below rear laundry room ceiling. Separate rear structure from building | $200 | $800 |
 | Use crane to move top section (roof and floor). Move lower section. Guide down tree. | $2,000 | $4,000 |
 | Weather-seal upper edge of house after removal. Attach gutter. Cleanup. (Old siding remains) | $200 | $800 |
@@ -27,6 +28,8 @@ Projects indicated as "(small)" may be done independently by home owner.
 | Cut up downed tree (small) | $200 | $300 |
 | Remove ceiling and south wall in both kitchens. Truck to cart off mortal and backing wood. (small) | $800 | $1,500 |
 | Move AC Units, extend freon lines | $600 | $800 |
+| Purchase and install weatherproof west door to crawl space at existing hole under removed rear | $400 | $800 |
+| Repoint existing bricks (north side done), repair vent openings, close holes, new trim on front porch | $1,000 | $2,000 |
 
 <br><br>
 
@@ -46,79 +49,90 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 
 | Phase 2 - Basement, cement work, window within basement, sliding basement entrance |||
 |---|---|---|
-1. Basement, north bumpout foundation
-1. 3 rear porch pedistal bases (small)
-1. Drainage pipe - perforated, in a bed of gravel inches from addition
-1. Add weatherproof west door to connect basement to crawl space
-1. Grate over HVAC units
-1. Hollow Core slabs, probably use crain | $15,000 | $25,000 |
-1. Weatherproof plywood cover for stair opening, secured from below
-1. Basement window under porch
-1. Sump pump and drain pipes
-1. Brick porch brickwork, reset sidewalk (only half way to Grant Street to avoid root impact)
-1. Cement steps
-1. Basement sliding doors adjacent to sidewalk
-1. Wooden porch steps - detachable, over rain barrels
-1. Install tiny door, sunburst (Abbey)
-
-Phase 3 - Framework, Roofing, Windows, Siding
-1. Framework including porches
-1. Base Isolated House - rubber pads to dampen earthquake vibration
-1. Roofing for entire house (prep for solar)
-1. Windows and siding on addition
-1. Doors on north storage compartments
-
-Phase 4 - Drywall, Stairways
-1. Drywall
-2. Vent covers and switch covers
-1. 3 stairways (maybe steel stairway in basement)
-1. South entrance wood stairway (4 steps)
-1. Steps up to master bedroom
-1. Updates to door under house, east side
-
-Phase 5 - Short freezer
-1. Place new freezer unit upstairs (will move downstairs later)
-
-Phase 6 - Exterior painting and storm windows
-1. Remove old black storm windows and security bars
-1. Minor repairs, paint prep, filling holes
-1. Paint entire exterior
-1. Add white storm windows (Window World used across the street)
-
-Phase 7 - Grey water, Solar, AC Units, Heating unit in basement
-1. Grey water system
-1. Solar panels
-1. Storage battery and metered street units
-1. North attic call AC units and ducts to kitchens and bathrooms
-1. Kitchen and craft room vents, bathroom vents
-1. South upstairs bathrooms and laundry area
-1. AC Unit in south porch roof
-1. Heating unit in basement integrated with Hollow Core loops
-
-Phase 8 - Craft room counter (small)
-1. Disconnect upstairs kitchen sink
-1. New upstairs counter in craft room (temporary kitchen area)
-1. Add new sink in craft room
-
-Phase 9 - New Kitchen, Barbecue, Porch Stonework, Rain Barrels
-1. Remove downstairs kitchen counters and sink
-1. Downstairs Kichen - cabinets, sink, oven, freezer unit
-1. Tiles laid out for rain absorption as back porch (small)
-1. Rear barbecue grill with stone enclosure
-1. Rain barrels and pipe hookup under south steps
-
-Phase 10 - Existing Stairway, Existing Bathrooms
-1. Move existing front stairway (small)
-1. Existing upstairs bathroom - new waterproof window, move sink, new toilet, add tub
-1. Add downstairs shower under stairway
-
-Phase 11 (optional, not in current financing)
-1. Light-well material using elevator shaft
-1. Basement chiller and elevator shaft duct
-1. Elevator
+| Basement, north bumpout foundation | $ | $ |
+| 3 rear porch pedistal bases (small) | $ | $ |
+| Drainage pipe - perforated, in a bed of gravel inches from addition | $ | $ |
+| Grate over HVAC units | $ | $ |
+| Hollow core slabs, probably use crane | $15,000 | $25,000 |
+| Weatherproof plywood cover for stair opening, secured from below | $ | $ |
+| Basement window under porch | $ | $ |
+| Sump pump and drain pipes | $ | $ |
+| Brick porch brickwork, reset sidewalk (only half way to Grant Street to avoid root impact) | $ | $ |
+| Cement steps | $ | $ |
+| Basement sliding doors adjacent to sidewalk | $ | $ |
+| Wooden porch steps - detachable, over rain barrels | $ | $ |
+| Install tiny door, sunburst (Abbey) | $ | $ |
 
 
-1. Repoint bricks, repair vent openings, close holes, new trim on front porch
+| Phase 3 - Framework, Roofing, Windows, Siding |||
+|---|---|---|
+| Base Isolated House - pads to dampen earthquake vibration | $ | $ |
+| Framework including porches | $20,000 | $50,000 |
+| Roofing for entire house (prep for solar) | $ | $ |
+| Windows and siding on addition | $ | $ |
+| Separate fuse box for new electric work. “Whole-house protector” in basement | $ | $ |
+| Doors on north storage compartments | $ | $ |
+| New upstairs fuse box. Move all existing up and down to new fuse boxes | $1,000 | $2,000 |
+
+| Phase 4 - Drywall, Stairways |||
+|---|---|---|
+| Drywall | $ | $ |
+| Vent covers and switch covers | $ | $ |
+| 3 stairways (maybe steel stairway in basement) | $ | $ |
+| South entrance wood stairway (4 steps) | $ | $ |
+| Steps up to master bedroom | $ | $ |
+| Updates to door under house, east side | $ | $ |
+
+| Phase 5 - Short freezer |||
+|---|---|---|
+| Place new freezer unit upstairs (will move downstairs later) | $ | $ |
+
+| Phase 6 - Exterior painting and storm windows |||
+|---|---|---|
+| Remove old black storm windows and security bars | $ | $ |
+| Minor repairs, paint prep, filling holes | $ | $ |
+| Paint entire exterior | $ | $ |
+| Add white storm windows (Window World used across the street) | $ | $ |
+
+| Phase 7 - Grey water, Solar, AC Units, Heating unit in basement |||
+|---|---|---|
+| Grey water system | $ | $ |
+| Solar panels | $ | $ |
+| Storage battery and metered street units | $ | $ |
+| North attic call AC units and ducts to kitchens and bathrooms | $ | $ |
+| Kitchen and craft room vents, bathroom vents | $ | $ |
+| South upstairs bathrooms and laundry area | $ | $ |
+| AC Unit in south porch roof | $ | $ |
+| Heating unit in basement integrated with Hollow Core loops | $ | $ |
+
+| Phase 8 - Craft room counter (small) |||
+|---|---|---|
+| Disconnect upstairs kitchen sink | $ | $ |
+| New upstairs counter in craft room (temporary kitchen area) | $ | $ |
+| Add new sink in craft room | $ | $ |
+
+| Phase 9 - New Kitchen, Barbecue, Porch Stonework, Rain Barrels |||
+|---|---|---|
+| Remove downstairs kitchen counters and sink | $ | $ |
+| Downstairs Kichen - cabinets, sink, oven, freezer unit | $ | $ |
+| Tiles laid out for rain absorption as back porch (small) | $ | $ |
+| Rear barbecue grill with stone enclosure | $ | $ |
+| Rain barrels and pipe hookup under south steps | $ | $ |
+
+| Phase 10 - Existing Stairway, Existing Bathrooms |||
+|---|---|---|
+| Move existing front stairway (small) | $ | $ |
+| Existing upstairs bathroom - new waterproof window, move sink, new toilet, add tub | $ | $ |
+| Add downstairs shower under stairway | $ | $ |
+
+| Phase 11 (optional, not in current financing) |||
+|---|---|---|
+| Light-well material using elevator shaft | $ | $ |
+| Basement chiller and elevator shaft duct | $ | $ |
+| Elevator | $ | $ |
+
+
+
 <br><br>
 
 ---
@@ -137,7 +151,7 @@ Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system sinc
 <a href="../phases/img/coreslab.jpg"><img src="../phases/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
-Hollow Core slabs will provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  
+Hollow Ccre slabs will provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  
 
 8” slab + 2” concrete topping. 10” total.  
 
