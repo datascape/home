@@ -10,13 +10,9 @@
 Rough estimate of cost range for 10 construction phases, plus 1 optional phase.  
 Projects indicated as "(small)" may be done independently by home owner.
 
-## Phase 1 - Move Rear, Convert to Art Shed. Cement pad for AC units.
+## Phase 1 - Remove Rear. Construct Art shed. Reposition AC units.
 
-<a href="../phases/img/initial-AC-units.jpg"><img src="../phases/img/initial-AC-units.jpg" style="width:100%; max-width:1200px"></a>  
-<br>
-
-
-| Phase 1 - Shed, Demo, AC Pad, Move AC Units|||
+| Convert Rear to Art Shed. Demo Kichen Ceilings. Cement AC Pad. Move AC Units | Min | Max |
 |---|---|---|
 | Design assistance on art shed and AC grate planning | $500 | $2,000 |
 | Cement column footer for art shed (small) | $200 | $550 |
@@ -30,6 +26,9 @@ Projects indicated as "(small)" may be done independently by home owner.
 | Move AC Units, extend freon lines | $600 | $800 |
 | Remove portion of brick wall on Bass Street, retain bricks (small) | $400 | $600 |  
 <br><br>
+
+<a href="../phases/img/initial-AC-units.jpg"><img src="../phases/img/initial-AC-units.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
 
 
 ## Phase 2 - Basement

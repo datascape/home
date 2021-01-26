@@ -5,6 +5,7 @@
   <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon"> 
   <meta name="robots" content="noindex, nofollow">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="text/javascript" src="../js/jquery/jquery.min.js"></script>
   <script type="text/javascript" src="../js/d3/d3.v5.min.js"></script>
   <script type="text/javascript" src="../js/showdown.min.js"></script>
   <script type="text/javascript" src="../js/display.js"></script>
@@ -18,9 +19,12 @@
       max-width: 1200px;
     }
     th {
-      text-align: left;
+      text-align: right;
       padding-bottom:10px;
       border-bottom:1px solid #ccc;
+    }
+    th:nth-child(1) {
+      text-align: left;
     }
     td {
       text-align: right;
@@ -38,15 +42,23 @@
 </div>
 
 <script>
+$(document).ready(function () {
   var total = 0;
+  var max = 0;
 
   // the selector must be adjusted to the actual html
   $('td:nth-child(2):visible').each(function(){
      var value = $(this).text().slice(1).replace(/,/g,'');
      total += +value;
   });
+  //alert(total);
 
-  alert(total);
+  $('td:nth-child(3):visible').each(function(){
+     var value = $(this).text().slice(1).replace(/,/g,'');
+     max += +value;
+  });
+  //alert(max);
+});
 </script>
 </body>
 </html>

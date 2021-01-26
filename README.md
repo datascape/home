@@ -80,8 +80,11 @@ Hines Interests Limited Partnership, a global real estate investment firm, sough
 On top of glulam columns and beams, decking made of nail laminated timber (NLT) panels constructed in partnership with Georgia Works. Locally salvaged wood and FSC-certified southern yellow pine. 2”x 6” boards nailed to 2”x 4” spacers, creating floor panels that measure roughly 10’x10’ each. https://gfagrow.org/timber-in-georgias-first-living-building/ 
 -->  
 
-[Home](./) | [Kitchen](kitchen/) | 
+[Home](./) | 
+<a href="phases">Phases</a> | 
+<a href="basement">Basement</a> | 
+[Kitchen](kitchen/) | 
 <a href="livingroom">Living Room</a> | 
-<a href="phases">Phases</a>
+
 
 
