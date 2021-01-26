@@ -18,6 +18,9 @@
       min-width: 500px;
       max-width: 1200px;
     }
+    td {
+      border-bottom:1px solid #eee;
+    }
     th {
       text-align: right;
       padding-bottom:10px;
@@ -32,6 +35,9 @@
     td:nth-child(1) {
       text-align: left;
     }
+    .totalrow > td {
+      font-weight: bold
+    }
   </style>
 </head>
 
@@ -43,21 +49,24 @@
 
 <script>
 $(document).ready(function () {
-  var total = 0;
+  var min = 0;
   var max = 0;
 
   // the selector must be adjusted to the actual html
   $('td:nth-child(2):visible').each(function(){
      var value = $(this).text().slice(1).replace(/,/g,'');
-     total += +value;
+     min += +value;
   });
-  //alert(total);
+  //alert(min);
 
   $('td:nth-child(3):visible').each(function(){
      var value = $(this).text().slice(1).replace(/,/g,'');
      max += +value;
   });
   //alert(max);
+
+  $('table > tbody:last-child').append('<tr class="totalrow"><td></td><td>$' + min + '</td><td>$' + max + '</td></tr>');
+
 });
 </script>
 </body>

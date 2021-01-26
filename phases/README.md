@@ -12,19 +12,22 @@ Projects indicated as "(small)" may be done independently by home owner.
 
 ## Phase 1 - Remove Rear. Construct Art shed. Reposition AC units.
 
-| Convert Rear to Art Shed. Demo Kichen Ceilings. Cement AC Pad. Move AC Units | Min | Max |
+| Art Shed. Demo Kichen Ceilings. Cement AC Pad. Move AC Units | Min | Max |
 |---|---|---|
-| Design assistance on art shed and AC grate planning | $500 | $2,000 |
-| Cement column footer for art shed (small) | $200 | $550 |
-| Move rear laundry rooms, preserve roof and lower section (Maybe use a crane) | $2,000 | $4,000 |
-| Remove tree which is too close to other tree (small, or use same crane) | $800 | $2,000 |
-| Construct art shed, including supplies | $5,000 | $10,000 |
-| Use trunk of removed tree for 2 columns of art shed (small) | $200 | $400 |
-| Remove ceiling and south wall in both kitchens. Truck to cart off drywall. (small) | $400 | $2,000 |
+| Art shed and AC grate planning | $500 | $800 |
 | Jackhammer and remove cement for AC pad (small)  | $400 | $800 |
 | Pour cement pad for AC Units (small) | $600 | $800 |
+| Cement bases for for art shed footers (small) | $200 | $550 |
+| Remove portion of brick wall on Bass Street. Bricks will be used for shed footers (small) | $400 | $600 |
+| 6 brick columns for shed (small) | $300 | $600 |
+| Cut and uses wedges below rear laundry room ceiling. Separate rear structure from building | $200 | $800 |
+| Use crane to move top section (roof and floor). Move lower section. Guide down tree. | $2,000 | $4,000 |
+| Weather-seal upper edge of house after removal. Attach gutter. Cleanup. (Old siding remains) | $200 | $800 |
+| Assemble art shed. Cover half of roof with plywood and tarp. Rear wall of kitchens used later (small) | $1,000 | $2,000 |
+| Cut up downed tree (small) | $200 | $300 |
+| Remove ceiling and south wall in both kitchens. Truck to cart off mortal and backing wood. (small) | $800 | $1,500 |
 | Move AC Units, extend freon lines | $600 | $800 |
-| Remove portion of brick wall on Bass Street, retain bricks (small) | $400 | $600 |  
+
 <br><br>
 
 <a href="../phases/img/initial-AC-units.jpg"><img src="../phases/img/initial-AC-units.jpg" style="width:100%; max-width:1200px"></a>  
