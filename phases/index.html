@@ -58,22 +58,19 @@ $(document).ready(function () {
   var max = 0;
 
   // the selector must be adjusted to the actual html
-  $('td:nth-child(2):visible').each(function(){
+  $('#readmeDiv table:nth-of-type(1) td:nth-child(2):visible').each(function(){
      var value = $(this).text().slice(1).replace(/,/g,'');
      min += +value;
   });
   //alert(min);
 
-  $('td:nth-child(3):visible').each(function(){
+  $('#readmeDiv table:nth-of-type(1) td:nth-child(3):visible').each(function(){
      var value = $(this).text().slice(1).replace(/,/g,'');
      max += +value;
   });
   //alert(max);
 
-  $('table > tbody:last-child').append('<tr class="totalrow"><td></td><td>$' + min.toLocaleString("en") + '</td><td>$' + max.toLocaleString("en") + '</td></tr>');
-  //$('#readmeDiv table:first-child > tbody:last-child').append('<tr class="totalrow"><td></td><td>$' + min + '</td><td>$' + max + '</td></tr>');
-  $('#readmeDiv table:first-child').hide(); // Not working
-
+  $('#readmeDiv table:nth-of-type(1) > tbody:last-child').append('<tr class="totalrow"><td></td><td>$' + min.toLocaleString("en") + '</td><td>$' + max.toLocaleString("en") + '</td></tr>');
 
 });
 </script>
