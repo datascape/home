@@ -1,30 +1,56 @@
 
+<a href="../"><img src="../exterior/img/southeast.jpg" style="width:100%; max-width: 350px; float:right"></a>
+
 [721 Grant Street Addition](../)
 
 # Construction Phases
 
 <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a>
 
-Several projects indicated as small may be done independently by home owner.
+Rough estimate of cost range for 10 construction phases, plus 1 optional phase.  
+Projects indicated as "(small)" may be done independently by home owner.
 
-Phase 1 - Shed, Demo, AC Pad, Move AC Units
-1. Column bases for art shed (small)
-1. Remove rear (Maybe use a crane)
-1. Construct art shet
-1. Remove tree which is too close to other tree (small, or use crane)
-1. Build she-shed. Use trunk of removed tree for 2 columns (small)
-1. Remove ceiling and south wall in both kitchens (small)
-1. Jackhammer and install cement pad for AC Units
-1. Move AC Units, extend freon lines
-1. Remove portion of brick wall, retain bricks
+## Phase 1 - Move Rear, Convert to Art Shed. Cement pad for AC units.
 
-Phase 2 - Cement work, secure basement
+<a href="../phases/img/initial-AC-units.jpg"><img src="../phases/img/initial-AC-units.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
+
+
+| Phase 1 - Shed, Demo, AC Pad, Move AC Units|||
+|---|---|---|
+| Design assistance on art shed and AC grate planning | $500 | $2,000 |
+| Cement column footer for art shed (small) | $200 | $550 |
+| Move rear laundry rooms, preserve roof and lower section (Maybe use a crane) | $2,000 | $4,000 |
+| Remove tree which is too close to other tree (small, or use same crane) | $800 | $2,000 |
+| Construct art shed, including supplies | $5,000 | $10,000 |
+| Use trunk of removed tree for 2 columns of art shed (small) | $200 | $400 |
+| Remove ceiling and south wall in both kitchens. Truck to cart off drywall. (small) | $400 | $2,000 |
+| Jackhammer and remove cement for AC pad (small)  | $400 | $800 |
+| Pour cement pad for AC Units (small) | $600 | $800 |
+| Move AC Units, extend freon lines | $600 | $800 |
+| Remove portion of brick wall on Bass Street, retain bricks (small) | $400 | $600 |  
+<br><br>
+
+
+## Phase 2 - Basement
+
+<a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
+
+<!--
+Basement Framing and Pour
+Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 2014) - Don't remember which house.
+-->
+
+| Phase 2 - Basement, cement work, window within basement, sliding basement entrance |||
+|---|---|---|
 1. Basement, north bumpout foundation
 1. 3 rear porch pedistal bases (small)
 1. Drainage pipe - perforated, in a bed of gravel inches from addition
 1. Add weatherproof west door to connect basement to crawl space
 1. Grate over HVAC units
-1. Coreslab
+1. Hollow Core slabs, probably use crain | $15,000 | $25,000 |
+1. Weatherproof plywood cover for stair opening, secured from below
 1. Basement window under porch
 1. Sump pump and drain pipes
 1. Brick porch brickwork, reset sidewalk (only half way to Grant Street to avoid root impact)
@@ -65,7 +91,7 @@ Phase 7 - Grey water, Solar, AC Units, Heating unit in basement
 1. Kitchen and craft room vents, bathroom vents
 1. South upstairs bathrooms and laundry area
 1. AC Unit in south porch roof
-1. Heating unit in basement integrated with Coreslab
+1. Heating unit in basement integrated with Hollow Core loops
 
 Phase 8 - Craft room counter (small)
 1. Disconnect upstairs kitchen sink
@@ -95,15 +121,7 @@ Phase 11 (optional, not in current financing)
 
 ---
 
-# Basement
 
-<a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a>  
-<br>
-
-<!--
-Basement Framing and Pour
-Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 2014) - Don't remember which house.
--->
 
 ### Zero Emission Concrete
 
@@ -112,12 +130,12 @@ Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system sinc
 
 "CarbonCure involves injecting carbon dioxide captured from various other industrial processes into concrete during the mixing process. A chemical reaction would “mineralize” that carbon dioxide, which would have the added benefit of making the concrete compressively stronger." “We have seen no downsides to using CarbonCure,”  Drew Millwood, the Thomas Concrete technician who oversaw the Kendeda job, writes: “It allows for cement reduction in any mix it is used in and provides strength at or above design. No cost increase is involved in a mix containing CO2 as the savings from cement reduction offset the cost of CO2 delivery. Equipment costs are easily recouped due to the savings.” - [source](https://livingbuilding.kendedafund.org/2019/07/16/carboncure/)  
 
-## Coreslab (Hollow Core)
+## Hollow Core concrete slabs
 
 <a href="../phases/img/coreslab.jpg"><img src="../phases/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
-Coreslab will provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  
+Hollow Core slabs will provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  
 
 8” slab + 2” concrete topping. 10” total.  
 
@@ -139,12 +157,12 @@ Coreslab will provide a heat-sink in the main floor, storing heat generated from
 
 <img src="../phases/img/concrete/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
 
-PCM placed in concrete coreslab tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
-Not that external air is NOT sent through the coreslab. Air would move in a loop.
+PCM placed in hollow core tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
+Not that external air is NOT sent through the hollow core slab. Air would move in a loop.
 <br><br>
 
 <a href="../phases/img/coreslab/coreslab-ducts.jpg"><img src="../phases/img/coreslab/coreslab-ducts.jpg" style="width:100%; max-width:1200px"></a><br><br>
-Air would leave the electric heating unit on the right side, move though one of ten 50 foot loops in the coreslab basement ceiling, and return for reheating via the left duct.<br><br><br>
+Air would leave the electric heating unit on the right side, move though one of ten 50 foot loops in the hollow core basement ceiling, and return for reheating via the left duct.<br><br><br>
 
 
 <a href="../phases/img/coreslab/coreslab-south.jpg"><img src="../phases/img/coreslab/coreslab-south.jpg" style="width:100%; max-width:1200px"></a><br><br>

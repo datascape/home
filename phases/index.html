@@ -10,6 +10,25 @@
   <script type="text/javascript" src="../js/display.js"></script>
   <link rel="stylesheet" href="https://neighborhood.org/localsite/css/base.css" />
   <link rel="stylesheet" href="../css/display.css" />
+
+  <style>
+    table {
+      width: 100%;
+      min-width: 500px;
+      max-width: 1200px;
+    }
+    th {
+      text-align: left;
+      padding-bottom:10px;
+      border-bottom:1px solid #ccc;
+    }
+    td {
+      text-align: right;
+    }
+    td:nth-child(1) {
+      text-align: left;
+    }
+  </style>
 </head>
 
 <body style="font-family: Lato, sans-serif;">
@@ -18,5 +37,16 @@
   <div id="readmeDiv"></div>
 </div>
 
+<script>
+  var total = 0;
+
+  // the selector must be adjusted to the actual html
+  $('td:nth-child(2):visible').each(function(){
+     var value = $(this).text().slice(1).replace(/,/g,'');
+     total += +value;
+  });
+
+  alert(total);
+</script>
 </body>
 </html>
