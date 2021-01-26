@@ -1,13 +1,16 @@
 
+[721 Grant Street Addition](../)
+
 # Construction Phases
 
-<a href="sketchup/721-Grant-Street.skp">Download SketchUp File (22 MB)</a>
+<a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a>
 
 Several projects indicated as small may be done independently by home owner.
 
 Phase 1 - Shed, Demo, AC Pad, Move AC Units
-1. Column bases for she-shed (small)
-1. Remove rear and position as she-shed (Maybe use a crane)
+1. Column bases for art shed (small)
+1. Remove rear (Maybe use a crane)
+1. Construct art shet
 1. Remove tree which is too close to other tree (small, or use crane)
 1. Build she-shed. Use trunk of removed tree for 2 columns (small)
 1. Remove ceiling and south wall in both kitchens (small)
@@ -18,18 +21,21 @@ Phase 1 - Shed, Demo, AC Pad, Move AC Units
 Phase 2 - Cement work, secure basement
 1. Basement, north bumpout foundation
 1. 3 rear porch pedistal bases (small)
+1. Drainage pipe - perforated, in a bed of gravel inches from addition
 1. Add weatherproof west door to connect basement to crawl space
 1. Grate over HVAC units
 1. Coreslab
 1. Basement window under porch
 1. Sump pump and drain pipes
-1. Brick porch brickwork, reset sidewalk, cement steps
-1. Basement sliding doors
+1. Brick porch brickwork, reset sidewalk (only half way to Grant Street to avoid root impact)
+1. Cement steps
+1. Basement sliding doors adjacent to sidewalk
 1. Wooden porch steps - detachable, over rain barrels
 1. Install tiny door, sunburst (Abbey)
 
 Phase 3 - Framework, Roofing, Windows, Siding
 1. Framework including porches
+1. Base Isolated House - rubber pads to dampen earthquake vibration
 1. Roofing for entire house (prep for solar)
 1. Windows and siding on addition
 1. Doors on north storage compartments
@@ -84,7 +90,7 @@ Phase 11 (optional, not in current financing)
 1. Elevator
 
 
-1. Repoint bricks, reduce vent openings, close holes, new trim on front porch
+1. Repoint bricks, repair vent openings, close holes, new trim on front porch
 <br><br>
 
 ---
@@ -94,6 +100,11 @@ Phase 11 (optional, not in current financing)
 <a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
+<!--
+Basement Framing and Pour
+Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 2014) - Don't remember which house.
+-->
+
 ### Zero Emission Concrete
 
 Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system since 2016.
@@ -101,18 +112,12 @@ Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system sinc
 
 "CarbonCure involves injecting carbon dioxide captured from various other industrial processes into concrete during the mixing process. A chemical reaction would “mineralize” that carbon dioxide, which would have the added benefit of making the concrete compressively stronger." “We have seen no downsides to using CarbonCure,”  Drew Millwood, the Thomas Concrete technician who oversaw the Kendeda job, writes: “It allows for cement reduction in any mix it is used in and provides strength at or above design. No cost increase is involved in a mix containing CO2 as the savings from cement reduction offset the cost of CO2 delivery. Equipment costs are easily recouped due to the savings.” - [source](https://livingbuilding.kendedafund.org/2019/07/16/carboncure/)  
 
-## Coreslab
+## Coreslab (Hollow Core)
 
 <a href="../phases/img/coreslab.jpg"><img src="../phases/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
-
-
-
-
-### Hollow Core
-
-Heat-sink in the main floor coreslab stores solar energy, radiates out at night.  
+Coreslab will provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  
 
 8” slab + 2” concrete topping. 10” total.  
 
@@ -121,6 +126,7 @@ Heat-sink in the main floor coreslab stores solar energy, radiates out at night.
  <!--
  	Coreslab Structure (Atlanta) - Met Sales Rep Jay Rubinson jrubinson@coreslab.com 770-471-1150
  -->
+<br><br>
 
 <a href="http://www.concretetech.com/Adobe/hollowcorebuildingbrochure.pdf"><img src="img/hollowcore-drilling.png" style="width:100%; max-width: 800px"></a><br><br>
 
@@ -151,7 +157,7 @@ Send suggestions to [ACI Foundation](https://www.acifoundation.org/research/sugg
 
 -->
 
-### Precast Concrete
+### Sources of Precast Concrete for Hollow Core
 
 [Precast Concrete Suppliers serving Georgia](https://www.thomasnet.com/georgia/precast-concrete-17311002-1.html)  
 
@@ -196,6 +202,8 @@ https://www.waterfurnace.com/literature/envision/im1008hn.pdf
 Two existing HVAC units will reside under grate on north side of house.  
 Chiller in basement will pump cold air up a duct within elevator shaft.  
 About <a href="https://www.hpacmag.com/features/radiant-cooling/">radiant-cooling</a>  
+
+Plans do not yet include plan for “influx of fresh air” to stimulate building temperatures. Probably need to run through dehumidifier.  
 
 <h2>West Elevation</h2><br>
 <a href="../elevations/img/4-levels.jpg"><img src="../elevations/img/4-levels.jpg" style="width:100%; max-width: 1200px"></a>
