@@ -131,7 +131,7 @@ Question: Can paneled roof area avoid shingles?
 | Build 3 step wood stairway up to new bathrooms | $400 | $600 |
 | Build bathroom door frame from our wood collection. Hang door from 5 in attic | $500 | $800 |
 | Large sliding bathroom door | $800 | $1,200 |
-| Sliding screens (shoji) | $1,200 | $3,000 |
+| 4 large sliding screens (shoji) between master bedroom and craft room (8'7" by 4'5") | $1,200 | $3,000 |
 | Upstairs center bedroom closet and bathroom door  | $500 | $800 |
 | Updates to southeast crawlspace door | $200 | $300 |
 
