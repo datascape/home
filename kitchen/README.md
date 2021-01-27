@@ -56,11 +56,13 @@ Home Depot Minwax White wash -
 
 # Craft Room
 
-Tiles behind open shelf<br><br>
+Designed for optional conversion to an upstairs guest kitchen.<br><br>
 
 <a href="img/craftroom.jpg"><img src="img/craftroom.jpg" style="width:100%; max-width: 1200px"></a><br><br>
 
-<a href="img/craftroom.png"><img src="img/craftroom.png" style="width:100%; max-width: 1200px"></a>  
+<a href="img/craftroom.png"><img src="img/craftroom.png" style="width:100%; max-width: 1200px"></a><br><br>
+
+Tiles behind open shelf.<br><br>
 
 <!--
 Bathroom
