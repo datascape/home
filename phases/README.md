@@ -257,6 +257,7 @@ Send suggestions to [ACI Foundation](https://www.acifoundation.org/research/sugg
 
 -->
 
+
 ### Sources of Precast Concrete for Hollow Core
 
 [Precast Concrete Suppliers serving Georgia](https://www.thomasnet.com/georgia/precast-concrete-17311002-1.html)  
@@ -278,6 +279,15 @@ Cellulose-infused concrete is stronger and sets faster
 ICF insulated concrete foundation
 ICF Builder
 -->
+
+## Exterior Fireplace
+The fireplace will convert from a range to a pit for burning wood.
+<br><br>
+<a href="../exterior/img/fireplace/fireplace.jpg"><img src="../exterior/img/fireplace/fireplace.jpg" style="width:100%; max-width:1200px"></a><br><br>
+
+Enclosed air tubes in the top of fireplace will connect to the basement loop to circulate heat into floor slabs.
+<br><br>
+<a href="../exterior/img/fireplace/fireplace-back.jpg"><img src="../exterior/img/fireplace/fireplace-back.jpg" style="width:100%; max-width:1200px"></a><br><br>
 
 
 
