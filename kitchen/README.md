@@ -1,21 +1,19 @@
 
 # Kitchen
 
+Resides in location of current kitchen. Window wall moved 3' north. Pantry removed. Cabinets added to south side.
+
 <a href="img/kitchen.jpg"><img src="img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
 
-Spot lights on walls (adjustable eyeball)    
+Spot lights on walls (adjustable eyeball). 3 medium pendant lights over island. 
+No divider in sink. Concealed trash and recycling bin pull out to left of sink.  
 
-2 or 3 medium pendant lights over island  
-
-“Bridge style” sink faucet - pipe connects faucets  
-No divider in sink.
-
-Concealed trash and recycling bin pull out.  
-
+<!--“Bridge style” sink faucet - pipe connects faucets  -->
+<!--
 Ikea comparable to more expensive custom cabinet makers.
 Make sure Ikea surface quality is consistent. 
 Ceasarstone - most durable
-<!--
+
 Jill Blass has Shaker-style panels.
 Mark Mroz (fancywoodworks.com) builds shelves and custom cabinets, and the cost is only a little more than Ikea.
 He assembles it all from wood and uses his spray shop.
