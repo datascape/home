@@ -7,7 +7,7 @@
 
 <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a>
 
-Rough estimate of cost range for 12 construction phases, plus extras.  
+Rough estimates for 12 construction phases, plus extras.  
 Projects indicated as "(small)" may be done independently by home owner.
 
 ## Phase 1 - Remove Rear. Assemble Art Shed. Reposition AC Units.

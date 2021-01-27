@@ -1,3 +1,19 @@
+[Home](../) | [Phases](../phases/)
+
+<h1>Livingroom</h1>
+<a href="img/livingroom.jpg"><img src="img/livingroom.jpg" style="width:100%; max-width: 1200px"></a>
+<br><br><br>
+
+<!--
+<a href="img/livingroom-two-windows.jpg"><img src="img/livingroom-two-windows.jpg" style="width:100%; max-width: 1200px"></a>
+<br><br><br>
+-->
+
+<h1 style="clear:both">Master Bedroom</h1>
+<a href="../bedroom/img/bedroom.jpg"><img src="../bedroom/img/bedroom.jpg" style="width:100%; max-width: 1200px"></a>
+
+<div style="clear:both"></div>
+<br><br><br>
 
 <!--
 ![](livingroom/img/8-C12-main-sun-CR-Andrew-Pogue_800.jpg)
@@ -6,12 +22,9 @@
 ![](livingroom/img/mass-timber-frame-e1569231844722.jpg)
 -->
 
+<img src="img/grey-beams.jpg" class="floating"> 
+<img src="img/REI.jpg" class="floating"> 
 
-![](img/grey-beams.jpg) 
-
-![](img/REI.jpg)  
-
-Wood stain - White distressed, Provincial, Farmhouse, Whitewashed Red Chestnut. Maybe some white distressed dark walnut.
 
 <!--
 	Polyblend #11 Snow White 8 oz. Grout Renew Colorant
@@ -22,24 +35,32 @@ Wood stain - White distressed, Provincial, Farmhouse, Whitewashed Red Chestnut. 
 	https://www.remodelaholic.com/dye-grout-refresh-dated-tile-floor/
 -->
 
-![](img/wood-colors-white-distressed.jpg)
-[wood color source](https://www.etsy.com/listing/903462334/wood-samples-wood-stain-sample-stain)  
+<div class="floating">
+<img src="img/wood-colors-white-distressed.jpg" style="width:100%"><br>
+
+White distressed wood stains to consider - Provincial, Farmhouse, Whitewashed Red Chestnut. Maybe some white distressed dark walnut.<br>
+<a href="https://www.etsy.com/listing/903462334/wood-samples-wood-stain-sample-stain">Stain color source</a>
+</div>
 
 
-Design south windows to have wide sill.
-<!--![](img/window-wide-sill.png)-->
 
-Italian country design. Not too orange.
 
-![](../bedroom/img/italian-wood.jpg)
+<img src="../bedroom/img/italian-wood.jpg" class="floating"> 
+<img src="../bedroom/img/ceiling-beams.png" class="floating"> 
 
-![](../bedroom/img/ceiling-beams.png)
+<div style="clear:both"></div>
 
-<div style="clear:both"></div><br>
-Yet to determine if wood will be visible between beams.
+Design south windows to have wide sill. Italian country design. Not too orange. Wood might be visible between beams.<br>
+
+
+<div style="clear:both"></div>
+
 <!-- Lawrence’s beams are 24” on center for 4” by 8” --> 
 
 ![](../bedroom/img/wood-ceiling-italy.png)  
+
+<div style="clear:both"></div>
+Might put an arch at top of window behind tub by master bedroom.
 
 [Home](../)  
 

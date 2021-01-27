@@ -1,4 +1,6 @@
 
+[Home](../) | [Phases](../phases/)
+
 # Kitchen
 
 Resides in location of current kitchen. Window wall moved 3' north. Pantry removed. Cabinets added to south side.
