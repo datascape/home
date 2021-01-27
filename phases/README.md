@@ -64,7 +64,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Brick walls of porch | $1000 | $3000 |
 | Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
 | Wooden porch steps - detachable, over rain barrels | $500 | $700 |
-| Install tiny door, install tiny sunburst (Abbey) | $0 | $0 |
+| Install tiny door, install tiny sunburst (Abbey) |  |  |
 
 <br><br>
 <a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a><br>
