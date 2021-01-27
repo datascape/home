@@ -3,13 +3,13 @@
 
 
 ### Existing:
-2,438 ft² with laundry areas, which will be removed. (Dimension source: Funton county website)    
+2,438 ft² with laundry areas, which will be removed. (Dimension source: Fulton county website)    
 2,355.4 ft² two floors retained (with laundry area removed, includes stairwell)  
 1,177.7 ft² per floor retained (includes stairwell)  
 
 ### Addition:
 639 ft² per floor (includes stairway openings. Does not include exterior walls)   
-48.13 ft² per floor - North jut-out adjenct to existing kitchen.  
+48.13 ft² per floor - North jut-out adjacent to existing kitchen.  
 1374.26 ft² total new addition
 
 Total (excluding attic and basement):  
@@ -59,7 +59,7 @@ Total: 6 3/8"
 The roof pitch is 7' in 12' for 30.26°
 
 90" from top of attic floor joist to bottom of a rafter at the roof ridge  
-(The bottom of the center ridge is over half an inch higher than bottom of rafters.)  
+(The bottom of the center ridge is over half an inch higher than the bottom of rafters.)  
 
 Rafters are 5 13/16" wide.  
 (Rafters are 6 3/16" on vertical cut, so the distance from top of joist to the underside of roof is 96 3/16")   
