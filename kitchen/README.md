@@ -18,7 +18,7 @@ Make sure Ikea surface quality is consistent.
 Ceasarstone - most durable
 <!--
 Jill Blass has Shaker-style panels.
-Mark Mroz builds custom, and the cost is only a little more than Ikea.
+Mark Mroz (fancywoodworks.com) builds shelves and custom cabinets, and the cost is only a little more than Ikea.
 He assembles it all from wood and uses his spray shop.
 -->
 
