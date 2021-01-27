@@ -22,8 +22,8 @@
 ![](livingroom/img/mass-timber-frame-e1569231844722.jpg)
 -->
 
-<img src="img/grey-beams.jpg" class="floating"> 
-<img src="img/REI.jpg" class="floating"> 
+<a href="img/grey-beams.jpg"><img src="img/grey-beams.jpg" class="floating"></a>
+<a href="img/REI.jpg"><img src="img/REI.jpg" class="floating"></a> 
 
 
 <!--
