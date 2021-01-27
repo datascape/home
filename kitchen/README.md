@@ -1,8 +1,7 @@
 
 # Kitchen
 
-<img src="img/kitchen.jpg" style="width:100%; max-width: 1200px">  
-<br>
+<a href="img/kitchen.jpg"><img src="img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
 
 Spot lights on walls (adjustable eyeball)    
 
@@ -53,11 +52,15 @@ Home Depot Minwax White wash -
 
 
 -->
+<a name="craftroom"></a>
+
 # Craft Room
 
 Tiles behind open shelf<br><br>
 
-<a href="img/craftroom.jpg"><img src="img/craftroom.jpg" style="width:100%; max-width: 1200px"></a>  
+<a href="img/craftroom.jpg"><img src="img/craftroom.jpg" style="width:100%; max-width: 1200px"></a><br><br>
+
+<a href="img/craftroom.png"><img src="img/craftroom.png" style="width:100%; max-width: 1200px"></a>  
 
 <!--
 Bathroom

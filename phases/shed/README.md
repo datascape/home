@@ -1,4 +1,6 @@
-Moving Art Shed
+[Phases](../)
+
+# Moving Art Shed
 
 Option 1: Add support structure to side dacing house using 4x4 from top section. Then <a href="../phases/img/art-shed-flip.jpg">flip shed up hill</a> using a wood structure to pivot for easier lifting with long jacks.  
 

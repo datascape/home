@@ -7,7 +7,7 @@
 
 <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a>
 
-Rough estimate of cost range for 10 construction phases, plus 1 optional phase.  
+Rough estimate of cost range for 12 construction phases, plus extras.  
 Projects indicated as "(small)" may be done independently by home owner.
 
 ## Phase 1 - Remove Rear. Assemble Art Shed. Reposition AC Units.
@@ -15,14 +15,15 @@ Projects indicated as "(small)" may be done independently by home owner.
 | Art Shed. Remove Kichen Ceilings. Cement AC Pad. Move AC Units | Min | Max |
 |---|---|---|
 | Art shed and AC grate planning | $500 | $800 |
+| Small adjacent freezer for new kitchen - Place upstairs (will move downstairs later) | $1,400 | $1,800 |
 | Jackhammer and remove cement for AC pad (small)  | $400 | $800 |
 | Pour cement pad for AC Units (small) | $600 | $800 |
 | Cement bases for for art shed footers (small) | $200 | $550 |
 | Remove west brick wall where trash resides. Bricks will be used for shed footers (small) | $400 | $600 |
 | 6 brick columns for shed. If short on bricks, some under portion being removed can be used (small) | $300 | $600 |
 | Remove enough dirt for crane to enter backyard to avoid cutting trim limb | $600 | $1,000 |
-| Cut and uses wedges below rear laundry room ceiling. Separate rear structure from building | $200 | $800 |
-| <a href="shed">Flip shed</a> or use crane. Rove top roof. Move lower section. Guide down tree. | $2,000 | $4,000 |
+| Remove top roof. Remove second floor windows and lower door. Separate rear structure from building. Move lower section as one unit. Add 4x4s to reinforce open side. <a href="shed">Flip shed</a> or use crane. | $2,000 | $5,000 |
+| Chainsaw tree too close to the other and guide down with ropes or crane. Cut up large pieces. | $500 | $800 |
 | Weather-seal upper edge of house after removal. Attach gutter. Cleanup. (Old siding remains) | $200 | $800 |
 | Assemble art shed. Cover half of roof with plywood and tarp. Rear wall of kitchens used later (small) | $1,000 | $2,000 |
 | Cut up downed tree (small) | $200 | $300 |
@@ -36,7 +37,7 @@ Projects indicated as "(small)" may be done independently by home owner.
 <a href="../phases/img/initial-AC-units.jpg"><img src="../phases/img/initial-AC-units.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
-## Phase 2 - Basement
+## Phase 2 - Basement and Brickwork
 
 <!--
 Basement Framing and Pour
@@ -48,41 +49,77 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Rear porch 3 cement pedistal bases (small) | $200 | $400 |
 | Basement - Main, includes digging, sump pump and start of drain pipe | $10,000 | $30,000 |
 | North bumpout foundation | $2,000 | $4,000 |
-| Cement steps on Bass Street | $1,000 | $2,500 |
-| French drain pipe by porch - perforated, wrapped in screen in a bed of gravel inches from addition | $400 | $500 |
 | Grate over HVAC units | $800 | $1,500 |
 | Hollow core slabs, probably use crane | $15,000 | $25,000 |
-| Metal stairway in basement | $1,000 | $4,000 |
 | Weatherproof plywood cover over stair opening, secured from below (small) | $100 | $200 |
+| Metal stairway in basement | $1,000 | $4,000 |
 | Basement window under porch | $500 | $800 |
+| French drain pipe by porch - perforated, wrapped in screen in a bed of gravel inches from addition | $400 | $500 |
+| Thick porch tiles laid out for rain absorption as back porch (small) | $400 | $800 |
+| Rain barrels and pipe hookup under south steps | $1,000 | $1,500 |
 | Drains from brick porch area down to street | $100 | $150
-| Brick by back porch area, sand with weed barrier | $300 | $500 |
+| Cement steps on Bass Street | $1,000 | $2,500 |
+| Brick patio portion of porch area, sand with weed barrier | $300 | $500 |
 | Reset sidewalk, create side slope weed barrier, sand to absorb water, careful with roots | $800 | $1000 |
+| Brick walls of porch | $1000 | $3000 |
 | Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
 | Wooden porch steps - detachable, over rain barrels | $500 | $700 |
-| Install tiny door, tiny sunburst (Abbey) | $0 | $0 |
+| Install tiny door, install tiny sunburst (Abbey) | $0 | $0 |
 
 <br><br>
+<a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a><br>
 
-<a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a>  
-<br>
 
-## Phase 3 - Framework
+## Phase 3 - Framework, Roof, Windows, Siding, Electric
 
-| Mass Timber, Roofing, Windows, Siding |||
+| Timber, Roofing, Windows, Siding |||
 |---|---|---|
 | "Base Isolated" House - pads to dampen earthquake vibration | $200 | $1,000 |
-| Framework including porches | $20,000 | $50,000 |
-| Roofing for entire house (prep for solar) | $7,000 | $10,000 |
+| Framework including porch railings | $20,000 | $50,000 |
+| Roofing for entire house (prep for solar, close existing attic vent) | $7,000 | $10,000 |
+| Remove old roof under new. Remove pulldown attic stairway. Extend attic beams over new jut-out to create balcony. | $3,000 | $4,500 |
 | 31 windows, including attic-to-house. 2 exterior doors and siding on addition | $10,000 | $25,000 |
-| Separate fuse box for new electric work. “Whole-house protector” in basement | $400 | $800 |
-| Electrical work and Lighting | $5,000 | $12,000 |
-| Doors on north storage compartments | $400 | $800 |
-| New upstairs fuse box. Move all existing to new fuse boxes (upstairs and down) | $1,000 | $2,000 |
+| Consider triple pane windows with argon fill |||
+| Separate fuse boxes for new electric work. “Whole-house protector” in basement | $400 | $800 |
+| Electrical work and lighting | $5,000 | $12,000 |
+| Security doors on two north storage compartments | $400 | $800 |
+| Move all existing to new fuse boxes (upstairs and down) | $1,000 | $3,000 |
+| And new waterproof window interior to existing upstairs bathroom | $800 | $1,500 |
+ 
+<br><br>
+<a href="../framework/img/framework-above.jpg"><img src="../framework/img/framework-above.jpg" style="width:100%; max-width: 1200px"></a><br>
 
 
-## Phase 4 - Drywall, Interior Trim, Stairways
+## Phase 4 - Solar Panels
+|  |||
+|---|---|---|
+| Solar panels | $20,000 | $30,000 |
+| Storage battery and 2 metered street units | $7,000 | $11,000 |
 
+Question: Can paneled roof area avoid shingles? 
+
+## Phase 5 - Painting Exterior, New Storm Windows
+|  |||
+|---|---|---|
+| Remove old black storm windows and security bars, patch and repair | $800 | $1,000 |
+| Prep and paint entire exterior | $8,000 | $15,000 |
+| Add white storm windows - some that open automatically with Google Home. | $10,000 | $14,000 |
+
+
+## Phase 6 - Plumbing and Duct Work
+| AC Ducts, Grey water, AC Units, Heating unit in basement |||
+|---|---|---|
+| Move water heater to attic. Hook up water and gas lines (small) | $700 | $900 |
+| Grey water system | $3,000 | $4,000 |
+| North attic wall AC unit | $2,500 | $3,500 |
+| Ducts to kitchens and bathrooms, including duct up elevator shaft | $2,500 | $5,000 |
+| Kitchen and craft room vent covers, bathroom vent covers (small) | $300 | $500 |
+| Plumbing for location of new sink in craft room | $100 | $200 |
+| Plumbing for new upstairs bathrooms | $1,200 | $3,000 |
+| Heating unit in basement integrated with Hollow Core loops | $4,000 | $6,000 |
+| AC Unit in south porch roof | $1,800 | $3,000 |
+
+## Phase 7 - Drywall, Interior Trim, Stairways
 | Interior Trim and Door Carpentry |||
 |---|---|---|
 | Expand window opening for doorway to new bathrooms (small) | $200 | $300 |
@@ -97,66 +134,63 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Sliding screens (shoji) | $1,200 | $3,000 |
 | Upstairs center bedroom closet and bathroom door  | $500 | $800 |
 | Updates to southeast crawlspace door | $200 | $300 |
-| Move water heater to attic. Hook up water and gas lines (small) | $700 | $900 |
 
-| Phase 5 - Small freezer for new kitchen |||
-|---|---|---|
-| Place new freezer unit upstairs (will move downstairs later) | $ | $ |
-
-| Phase 6 - Exterior painting and storm windows |||
-|---|---|---|
-| Remove old black storm windows and security bars | $ | $ |
-| Minor repairs, paint prep, filling holes | $ | $ |
-| Paint entire exterior | $ | $ |
-| Add white storm windows (Window World used across the street) | $ | $ |
-
-| Phase 7 - Grey water, Solar, AC Units, Heating unit in basement, New Bathrooms |||
-|---|---|---|
-| Grey water system | $ | $ |
-| Solar panels | $ | $ |
-| Storage battery and metered street units | $ | $ |
-| North attic call AC units and ducts to kitchens and bathrooms | $ | $ |
-| Kitchen and craft room vents, bathroom vents | $ | $ |
-| South upstairs bathrooms, shelf-cabinets and laundry area | $10,000 | $15,000 |
-| Cabinet-closet in master bedroom | $ | $ |
-| Shelves for shoes along stairway to attic  | $ | $ |
-| AC Unit in south porch roof | $ | $ |
-| Heating unit in basement integrated with Hollow Core loops | $ | $ |
-
-| Phase 8 - Craft room counter (small) |||
+## Phase 8 - Craft Room Shelf, Sink and Counter
+|  Craft room can optionally serve as a second kithen |||
 |---|---|---|
 | Craft room shelf | $400 | $600 |
 | Disconnect upstairs kitchen sink | $50 | $100 |
-| New upstairs counter in craft room (temporary kitchen area) | $1,000 | $1,500 |
-| Add new sink in craft room | $100 | $200 |
+| New upstairs counter with sink in craft room| $1,000 | $1,500 |
+| Connect plumbing (small) | $50 | $150 |
+<a href="../kitchen/#craftroom">Craft Room Images</a><br>
 
-| New Kitchen, Cabinetry |||
+## Phase 9 - New Bathrooms
+| Upstairs, south side of addition |||
 |---|---|---|
-| Remove downstairs kitchen counters and sink | $ | $ |
-| Downstairs Kichen - cabinets, sink, oven, freezer unit | $ | $ |
+| South upstairs bathroom fixtures, shelf-cabinets and laundry area | $10,000 | $15,000 |
+| Cabinet-closet in master bedroom | $500 | $800 |
 
-| Porch fireplace, Porch Stonework, Rain Barrels |||
+<br><br>
+<a href="../floorplan/img/second-3D.jpg"><img src="../floorplan/img/second-3D.jpg" style="width:100%; max-width:1200px"></a><br>
+
+
+## Phase 10 - New Kitchen, Cabinetry
+| Downstairs kitchen remodel |||
 |---|---|---|
-| Porch fireplace with ducts connecect to hollow core loop, barbecue grill with stone enclosure | $3,000 | $8,000 |
-| Tiles laid out for rain absorption as back porch (small) | $ | $ |
-| Rain barrels and pipe hookup under south steps | $ | $ |
+| Deactivate plumbing, electric, counters and wall behind sink (small) | $200 | $400 |
+| Extend floor into bumpout and resurface floor | $3,000 | $4,000 |
+| Downstairs kithen oven and hood | $1,200 | $3,000 |
+| Downstairs kichen - counter. cabinets, sink | $4,000 | $8,000 |
+
+<br><br>
+<a href="../kitchen/img/kitchen.jpg"><img src="../kitchen/img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
+<a href="../kitchen/">More Kitchen Images</a><br>
+
+## Phase 11 - Exterior Fireplace
+| Porch fireplace grill provides heat to house |||
+|---|---|---|
+| Barbecue grill with stone enclosure | $3,000 | $8,000 |
+| Porch fireplace top with ducts connected to hollow core loop | $1,000 | $3,000 |
 
 
-| Existing Stairway, Existing Bathrooms |||
+## Phase 12 - Existing Stairway, Existing Bathrooms
+|  |||
 |---|---|---|
 | Move existing front stairway (small) | $1,000 | $2,000 |
-| New light(s) in existing stairway, update existing switches to be two-way | $400 | $800 |
-| Existing upstairs bathroom - new waterproof window, move sink, new toilet, add tub (small) | $3,000 | $8,000 |
-| Add downstairs shower under stairway | $1,500 | $3,500 |
+| New light(s) in existing stairway, update existing switches to be two-way (small) | $400 | $800 |
+| Existing upstairs bathroom - move sink and toilet mount, new wall mounted toilet, add tub (small) - [Wall photos](https://docs.google.com/document/d/1J0A26a7-Dvm3mscBRTSgxIeMxft11VZoRADT_unegkE/edit?usp=sharing) | $4,000 | $8,000 |
+| Add downstairs shower under stairway (small) | $1,500 | $3,500 |
 
-| Phase 11 (optional, not in current financing) |||
+## Extras
+| Optional, not in financing |||
 |---|---|---|
 | Existing porches - New ceilings with recessed lighting, dimmer, remove extra columns, surrounding molding  | $800 | $1,500 |
 | Upstairs center bedroom - 6 lights with one dimmer switch (probably 3’ from corners) | $500 | $800 |
 | Light-well material using elevator shaft | $2,000 | $6.000 |
-| Basement chiller, fan and duct in elevator shaft | $4,000 | $8,000 |
 | <a href="https://docs.google.com/document/d/12DIpuRJvCAZmODl7M-jmEJEsM0hCdxiBljkXsaRpKSs/edit?usp=sharing">Crawl Space Encapsulation</a> | $2,000 | $5,000 |
-| Elevator | $7,000 | $12,000 |
+| Basement chiller, fan and duct in elevator shaft | $4,000 | $8,000 |
+| Elevator with motors below base, track for gears. Serves 4 levels | $10,000 | $18,000 |
+| Four elevator-bots shuffled in attic for sets of cloths and shoes  | $10,000 | $15,000 |
 
 
 <br>
@@ -164,14 +198,16 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <br>
 ---
 
-### Low Carbon Emission Concrete
+# Basement Details
+
+## Low Carbon Emission Concrete
 
 Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system since 2016.
 [CNN Article](https://money.cnn.com/2018/06/12/technology/concrete-carboncure/index.html)  
 
 "CarbonCure involves injecting carbon dioxide captured from various other industrial processes into concrete during the mixing process. A chemical reaction would “mineralize” that carbon dioxide, which would have the added benefit of making the concrete compressively stronger." “We have seen no downsides to using CarbonCure,”  Drew Millwood, the Thomas Concrete technician who oversaw the Kendeda job, writes: “It allows for cement reduction in any mix it is used in and provides strength at or above design. No cost increase is involved in a mix containing CO2 as the savings from cement reduction offset the cost of CO2 delivery. Equipment costs are easily recouped due to the savings.” - [source](https://livingbuilding.kendedafund.org/2019/07/16/carboncure/)  
 
-## Hollow Core concrete slabs
+## Hollow Core Concrete Slabs
 
 <a href="../phases/img/coreslab.jpg"><img src="../phases/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
@@ -204,11 +240,11 @@ Hollow Ccre slabs will provide a heat-sink in the main floor, storing heat gener
 <img src="../phases/img/concrete/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
 
 PCM placed in hollow core tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
-Not that external air is NOT sent through the hollow core slab. Air would move in a loop.
+Note that external air is NOT sent through the hollow core slab. Air moves in a loop.
 <br><br>
 
 <a href="../phases/img/coreslab/coreslab-ducts.jpg"><img src="../phases/img/coreslab/coreslab-ducts.jpg" style="width:100%; max-width:1200px"></a><br><br>
-Air would leave the electric heating unit on the right side, move though one of ten 50 foot loops in the hollow core basement ceiling, and return for reheating via the left duct.<br><br><br>
+Air flow leaves the electric heating unit on the right side, move though one of ten 50 foot loops in the hollow core basement ceiling, and return for reheating via the left duct.<br><br><br>
 
 
 <a href="../phases/img/coreslab/coreslab-south.jpg"><img src="../phases/img/coreslab/coreslab-south.jpg" style="width:100%; max-width:1200px"></a><br><br>
@@ -241,7 +277,6 @@ Cellulose-infused concrete is stronger and sets faster
 <!--
 ICF insulated concrete foundation
 ICF Builder
-triple pane windows with argon fill on the north side of the house
 -->
 
 
@@ -324,16 +359,9 @@ Recessed can lights (pot lights) will be used in all rooms.
 <a href="https://3dwarehouse.sketchup.com/model/18515e9750cb23076d022864d00430d0/Electrical-Components?redirect=1">SketchUp Electrical Components</a>  
 
 
-## Framework
-
-Close existing attic vent  
-Remove pulldown attic stairway, reinforce and close opening  
-Extend attic beams over new jut-out on north side  
-
-
 ## Porch Railing Style
 
-Nor our house. For reference only...  
+Not our house. For reference only...  
 
 <a href="../exterior/img/porch.jpg"><img src="../exterior/img/porch.jpg" style="width:100%; max-width:1200px"></a> 
 
