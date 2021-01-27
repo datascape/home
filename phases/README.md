@@ -186,7 +186,7 @@ Question: What technique shall we use to avoid shingles under solar panels?
 |---|---|---|
 | Existing porches - New ceilings with recessed lighting, dimmer, remove extra columns, surrounding molding  | $800 | $1,500 |
 | Upstairs center bedroom - 6 lights with one dimmer switch (probably 3’ from corners) | $500 | $800 |
-| Light-well material using elevator shaft | $2,000 | $6.000 |
+| Light-well material using elevator shaft | $2,000 | $6,000 |
 | <a href="https://docs.google.com/document/d/12DIpuRJvCAZmODl7M-jmEJEsM0hCdxiBljkXsaRpKSs/edit?usp=sharing">Crawl Space Encapsulation</a> | $2,000 | $5,000 |
 | Basement chiller, fan and duct in elevator shaft | $4,000 | $8,000 |
 | Elevator with motors below base, track for gears. Serves 4 levels | $10,000 | $18,000 |
