@@ -96,7 +96,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Solar panels | $20,000 | $30,000 |
 | Storage battery and 2 metered street units | $7,000 | $11,000 |
 
-Question: Can paneled roof area avoid shingles? 
+Question: What technique shall we use to avoid shingles under solar panels? 
 
 ## Phase 5 - Painting Exterior, New Storm Windows
 |  |||
