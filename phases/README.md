@@ -3,6 +3,7 @@
 
 [721 Grant Street Addition](../)
 
+
 # Construction Phases
 
 <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a>
@@ -14,23 +15,23 @@ Projects indicated as "(small)" may be done independently by home owner.
 
 | Art Shed. Remove Kitchen Ceilings. Cement AC Pad. Move AC Units | Min | Max |
 |---|---|---|
-| Art shed and AC grate planning | $500 | $800 |
+| Art shed and AC grate planning | $500 | $1200 |
 | Small adjacent freezer for new kitchen - Place upstairs (will move downstairs later) | $1,400 | $1,800 |
-| Jackhammer and remove cement for AC pad (small)  | $400 | $800 |
+| Jackhammer existing north cement for AC pad. Remove cement.  (small)  | $400 | $800 |
 | Pour cement pad for AC Units (small) | $600 | $800 |
 | Cement bases for art shed footers (small) | $200 | $550 |
-| Remove west brick wall where trash resides. Bricks will be used for shed footers (small) | $400 | $600 |
+| Remove 1 of 2 west brick wall where trash resides. Bricks will be used for the shed footers (small) | $400 | $600 |
 | 6 brick columns for shed. If short on bricks, some under portion being removed can be used (small) | $300 | $600 |
 | Remove enough dirt for crane to enter backyard to avoid cutting trim limb | $600 | $1,000 |
-| Remove top roof. Remove second floor windows and lower door. Separate rear structure from building. Move lower section as one unit. Add 4x4s to reinforce open side. <a href="shed">Flip shed</a> or use crane. | $2,000 | $5,000 |
+| Remove top roof. Remove second floor windows and lower door. Separate rear structure from building. Remove rear stairway's top deck. Move lower section as one unit. Add 4x4s to reinforce open side. <a href="shed">Flip shed</a> or use crane. | $2,000 | $5,000 |
 | Chainsaw tree too close to the other and guide down with ropes or crane. Cut up large pieces. | $500 | $800 |
 | Weather-seal upper edge of house after removal. Attach gutter. Cleanup. (Old siding remains) | $200 | $800 |
 | Assemble art shed. Wood from rear wall of kitchens can be used later (small) | $1,000 | $2,000 |
-| Cut up downed tree (small) | $200 | $300 |
-| Remove ceiling and south wall in both kitchens. Truck to cart off mortal and backing wood. (small) | $800 | $1,500 |
+| Cut up renaining branches of downed tree (small) | $200 | $300 |
+| Remove ceiling and south wall in both kitchens. Truck to cart off mortar and backing wood. (small) | $800 | $1,500 |
 | Move AC Units, extend freon lines | $600 | $800 |
-| Purchase and install weatherproof west door to crawl space at existing hole under removed rear | $400 | $800 |
-| Repoint existing bricks (north side done), repair vent openings, close holes, new trim on front porch | $1,000 | $2,000 |
+| Purchase and install weatherproof west door to crawl space for existing hole under removed rear. About 2' tall by 3.5' wide | $400 | $800 |
+| Repoint existing bricks (north side is done), repair crawlsoace vent openings, patch wood holes. | $1,000 | $2,000 |
 
 <br><br>
 
@@ -47,20 +48,22 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Cement work, window within basement, sliding basement entrance |||
 |---|---|---|
 | Rear porch 3 cement pedestal bases (small) | $200 | $400 |
-| Basement - Main, includes digging, sump pump and start of drain pipe | $10,000 | $30,000 |
-| North bump-out foundation | $2,000 | $4,000 |
+| Basement Dig, Frame and Pour - includes sump pump and a few feet of drain pipe  | $10,000 | $30,000 |
+| North bump-out foundation cement pour at same time | $2,000 | $4,000 |
+| Drain pipe by porch - perforated, wrapped in screen in a bed of gravel inches from addition | $400 | $500 |
+| Pour cement steps on Bass Street | $1,000 | $2,500 |
 | Grate over HVAC units | $800 | $1,500 |
 | Hollow core slabs, probably use crane | $15,000 | $25,000 |
-| Weatherproof plywood cover over stair opening, secured from below (small) | $100 | $200 |
+| Weatherproof plywood cover over basement stair opening, secure from below (small) | $100 | $200 |
 | Metal stairway in basement | $1,000 | $4,000 |
-| Basement window under porch | $500 | $800 |
-| French drain pipe by porch - perforated, wrapped in screen in a bed of gravel inches from addition | $400 | $500 |
+| Basement window under porch. Black frame, an old factory look, opens for vehicles to drive onto lift | $900 | $1,400 |
 | Thick porch tiles laid out for rain absorption as back porch (small) | $400 | $800 |
 | Rain barrels and pipe hookup under south steps | $1,000 | $1,500 |
-| Drains from brick porch area down to street | $100 | $150
-| Cement steps on Bass Street | $1,000 | $2,500 |
-| Brick patio portion of porch area, sand with weed barrier | $300 | $500 |
-| Reset sidewalk, create side slope weed barrier, sand to absorb water, careful with roots | $800 | $1000 |
+| Drains from brick porch area down to street, drain going east next to short brick wall | $800 | $1,500
+| Brick patio portion of porch area, sand under bricks, weed barrier fabric | $300 | $500 |
+| Reset sidewalk, create side slope away from basement, weed barrier, 
+
+sand to absorb water, careful with roots | $800 | $1000 |
 | Brick walls of porch | $1000 | $3000 |
 | Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
 | Wooden porch steps - detachable, over rain barrels | $500 | $700 |
@@ -70,77 +73,81 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a><br>
 
 
-## Phase 3 - Framework, Roof, Windows, Siding, Electric
-
-| Timber, Roofing, Windows, Siding |||
+## Phase 3 - Framework, Roof, Stairways, Windows, Siding, Electric
+||||
 |---|---|---|
 | "Base Isolated" House - pads to dampen earthquake vibration | $200 | $1,000 |
-| Framework including porch railings | $20,000 | $50,000 |
-| Roofing for entire house (prep for solar, close existing attic vent) | $7,000 | $10,000 |
-| Remove old roof under new. Remove pulldown attic stairway. Extend attic beams over new jut-out to create balcony. | $3,000 | $4,500 |
-| 31 windows, including attic-to-house. 2 exterior doors and siding on addition | $10,000 | $25,000 |
-| Consider triple pane windows with argon fill |||
-| Separate fuse boxes for new electric work. “Whole-house protector” in basement | $400 | $800 |
-| Electrical work and lighting | $5,000 | $12,000 |
-| Security doors on two north storage compartments | $400 | $800 |
-| Move all existing to new fuse boxes (upstairs and down) | $1,000 | $3,000 |
+| Framework including porch railings and lower kitchen extension | $20,000 | $50,000 |
+| Roofing for entire house (white surface for solar, close existing attic vent) | $8,000 | $20,000 |
+| 2 new wooden staircases - main floor and to attic (includes install of treads and banisters after drywall and painting) | $3,800 | $7,000 |
+| Purchase and place grey water tanks above master bedroom | $800 | $1,500 |
+| Remove old roof under newly added shed roof. Remove pulldown attic stairway. Create balcony by extending attic beams over new jut-out. | $3,000 | $4,500 |
+| 31 windows, including window between attic and master bedroom. 2 exterior doors. | $18,000 | $25,000 |
+| Consider triple pane windows with argon fill - maybe on north side. |||
+| Siding on addition | $8,000 | $10,000 | 
+| Separate fuse boxes for new electric work. “Whole-house protector” in basement. | $500 | $1,000 |
+| Electrical work and lighting | $8,000 | $15,000 |
+| Strong metal doors on two north storage compartments | $400 | $1,000 |
+| Move all existing wires to new fuse boxes (upstairs and down) | $2,000 | $5,000 |
 | And new waterproof window interior to existing upstairs bathroom | $800 | $1,500 |
+| Craft room walls and ceiling, move door frame | $800 | $1,000 |
  
 <br><br>
 <a href="../framework/img/framework-above.jpg"><img src="../framework/img/framework-above.jpg" style="width:100%; max-width: 1200px"></a><br>
 
 
-## Phase 4 - Solar Panels
+## Phase 4 - Painting Exterior, Replace Existing Storm Windows
 |  |||
 |---|---|---|
-| Solar panels | $20,000 | $30,000 |
-| Storage battery and 2 metered street units | $7,000 | $11,000 |
-
-Question: What technique shall we use to avoid shingles under solar panels? 
-
-## Phase 5 - Painting Exterior, New Storm Windows
-|  |||
-|---|---|---|
-| Remove old black storm windows and security bars, patch and repair | $800 | $1,000 |
+| Remove old storm windows and security bars, patch and repair | $800 | $2,000 |
 | Prep and paint entire exterior | $8,000 | $15,000 |
-| Add white storm windows - some that open automatically with Google Home. | $10,000 | $14,000 |
+| Add white storm windows - include some that open automatically with Google Home. | $10,000 | $18,000 |
 
 
-## Phase 6 - Plumbing and Ductwork
-| AC Ducts, Grey water, AC Units, Heating unit in basement |||
+## Phase 5 - Plumbing, Ductwork and Air
+| AC Ducts, Grey water system, 2 AC Units, 1 Heating unit in basement |||
 |---|---|---|
-| Move water heater to attic. Hook up water and gas lines (small) | $700 | $900 |
-| Grey water system | $3,000 | $4,000 |
-| North attic wall AC unit | $2,500 | $3,500 |
 | Ducts to kitchens and bathrooms, including duct up elevator shaft | $2,500 | $5,000 |
+| North attic wall AC unit | $2,500 | $3,500 |
+| Move water heater to attic. Hook up water and gas lines (small) | $700 | $900 |
+| Grey water system - use copper entry basin for water entrance from shed roof | $3,000 | $4,000 |
 | Kitchen and craft room vent covers, bathroom vent covers (small) | $300 | $500 |
 | Plumbing for location of new sink in craft room | $100 | $200 |
 | Plumbing for new upstairs bathrooms | $1,200 | $3,000 |
-| Heating unit in basement integrated with Hollow Core loops | $4,000 | $6,000 |
+| Air heating unit in basement integrated with Hollow Core loops | $4,000 | $6,000 |
 | AC Unit in south porch roof | $1,800 | $3,000 |
 
-## Phase 7 - Drywall, Interior Trim, Stairways
+## Phase 6 - Drywall, Interior Trim, Interior Painting, Stairway Completion
 | Interior Trim and Door Carpentry |||
 |---|---|---|
-| Expand window opening for doorway to new bathrooms (small) | $200 | $300 |
-| Drywall | $3,000 | $5,000 |
-| Vent covers and switch covers | $500 | $1,000 |
-| 2 new wooden staircases - main floor and to attic | $3,800 | $6,000 |
-| Build 4 step wood stairway at south entrance interior | $600 | $900 |
-| Build 3 step wood stairway up to master bedroom | $500 | $800 |
-| Build 3 step wood stairway up to new bathrooms | $400 | $600 |
-| Build bathroom door frame from our wood collection. Hang door from 5 in attic | $500 | $800 |
+| Expand window opening for doorway to new bathroom from center room (small) | $200 | $300 |
+| Add closet to existing center room, hang bathroom door  | $800 | $2,000 |
+| Drywall new addition and craft room | $3,000 | $5,000 |
+| Interior painting | $2,000 | $4,000 |
+| Vent covers and switch covers (small) | $400 | $700 |
+| Build 3 step wood stairway and landing at south entrance interior | $900 | $1,200 |
+| Build 3 step wood stairway to master bedroom | $500 | $800 |
+| Build 3 step wood stairway to new bathrooms | $400 | $600 |
+| Build bathroom door frame from our wood trim collection. Hang door use 1 of 5 in attic | $500 | $800 |
 | Large sliding bathroom door | $800 | $1,200 |
 | 4 large sliding screens (shoji) between master bedroom and craft room (8'7" by 4'5") | $1,200 | $3,000 |
-| Upstairs center bedroom closet and bathroom door  | $500 | $800 |
-| Updates to southeast crawl space door | $200 | $300 |
+| Existing crawl space door, sand, and trim and lock. Dark stain color to blend with bricks | $300 | $500 |
+| Stairway treads and banisters (billed in phase 3) |||
+
+
+## Phase 7 - Solar Panels
+| Watch to see if new rebates are expected |||
+|---|---|---|
+| Solar panels  | $20,000 | $30,000 |
+
 
 ## Phase 8 - Craft Room Shelf, Sink and Counter
 |  Craft room can optionally serve as a second kitchen |||
 |---|---|---|
+| Tile wall in craftroom | $1,000 | $1,500 |
 | Craft room shelf | $400 | $600 |
 | Disconnect upstairs kitchen sink | $50 | $100 |
-| New upstairs counter with sink in craft room| $1,000 | $1,500 |
+| New upstairs counter with sink in craft room | $1,000 | $1,500 |
 | Connect plumbing (small) | $50 | $150 |
 <a href="../kitchen/#craftroom">Craft Room Images</a><br>
 
@@ -157,10 +164,12 @@ Question: What technique shall we use to avoid shingles under solar panels?
 ## Phase 10 - New Kitchen, Cabinetry
 | Downstairs kitchen remodel |||
 |---|---|---|
-| Deactivate plumbing, electric, counters and wall behind sink (small) | $200 | $400 |
-| Extend floor into bumpout and resurface floor | $3,000 | $4,000 |
+| Deactivate existing plumbing, electric, remove counters and wall behind sink (small) | $400 | $500 |
+| Extend kitchen floor surface 3' into bumpout and resurface floor | $3,000 | $4,000 |
+| Tile and drywall | $1,000 | $1,300 |
 | Downstairs kitchen oven and hood | $1,200 | $3,000 |
-| Downstairs kitchen - counter. cabinets, sink | $4,000 | $8,000 |
+| Downstairs kitchen - counter. cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
+| Upstairs craft room - cabinet on south wall | $1,500 | $1,800 |
 
 <br><br>
 <a href="../kitchen/img/kitchen.jpg"><img src="../kitchen/img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
@@ -184,7 +193,7 @@ Question: What technique shall we use to avoid shingles under solar panels?
 ## Extras
 | Optional, not in financing |||
 |---|---|---|
-| Existing porches - New ceilings with recessed lighting, dimmer, remove extra columns, surrounding molding  | $800 | $1,500 |
+| Existing front porches - New ceilings with recessed lighting, dimmer, remove extra columns, surrounding molding, trim repairs  | $800 | $3,000 |
 | Upstairs center bedroom - 6 lights with one dimmer switch (probably 3’ from corners) | $500 | $800 |
 | Light-well material using elevator shaft | $2,000 | $6,000 |
 | <a href="https://docs.google.com/document/d/12DIpuRJvCAZmODl7M-jmEJEsM0hCdxiBljkXsaRpKSs/edit?usp=sharing">Crawl Space Encapsulation</a> | $2,000 | $5,000 |
