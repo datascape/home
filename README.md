@@ -33,7 +33,7 @@ Metalbenderz.com - 16" floors too thick
 
 -->
 
-<a href="exterior/img/floorplan.jpg"><img src="exterior/img/floorplan.jpg" style="width:100%; max-width: 1200px"></a><br><br> 
+
 
 
 

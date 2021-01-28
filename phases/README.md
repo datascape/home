@@ -56,7 +56,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Hollow core slabs, probably use crane | $15,000 | $25,000 |
 | Weatherproof plywood cover over basement stair opening, secure from below (small) | $100 | $200 |
 | Metal stairway in basement | $1,000 | $4,000 |
-| Basement window under porch. Black frame, an old factory look, opens for vehicles to drive onto lift | $900 | $1,400 |
+| Basement window under porch. Black frame, an old factory look. Slides or swings open fully.  | $900 | $1,400 |
 | Thick porch tiles laid out for rain absorption as back porch (small) | $400 | $800 |
 | Rain barrels and pipe hookup under south steps | $1,000 | $1,500 |
 | Drains from brick porch area down to street, drain going east next to short brick wall | $800 | $1,500
@@ -136,7 +136,7 @@ sand to absorb water, careful with roots | $800 | $1000 |
 
 
 ## Phase 7 - Solar Panels
-| Watch to see if new rebates are expected |||
+| New rebates are expected. List of [solar contractors in Georgia](https://www.solarpowerworldonline.com/2020-top-georgia-contractors/)  |||
 |---|---|---|
 | Solar panels  | $20,000 | $30,000 |
 
@@ -345,7 +345,7 @@ Plans do not yet include location for “influx of fresh air” to stimulate bui
 
 ### HVAC Duct Fabricators
 Atlanta Supply - Logan Circle (for Ducts, custom)  
-Custom sheet metal (pricy) [B & S Sheet Metal Fabricators Inc.](https://bsmetalfabricators.com/)  
+Custom sheet metal (pricey) [B & S Sheet Metal Fabricators Inc.](https://bsmetalfabricators.com/)  
 
 Current HVAC in crawl space: Ducane  
 Sept 2014 - Circuit board replaced  
