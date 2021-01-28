@@ -12,4 +12,6 @@ Option 2: Lift off the roof with crane. Lift lower floor with ceiling attached a
 <a href="../img/art-shed-flip.jpg"><img src="../img/art-shed-flip.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
+<div style="clear:both"></div>
+
 [Home](../../)
