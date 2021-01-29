@@ -47,24 +47,25 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 
 | Cement work, window within basement, sliding basement entrance |||
 |---|---|---|
+| **Cement work:** | | |
 | Rear porch 3 cement pedestal bases (small) | $200 | $400 |
 | Basement Dig, Frame and Pour - includes sump pump and a few feet of drain pipe  | $10,000 | $30,000 |
 | North bump-out foundation cement pour at same time | $2,000 | $4,000 |
-| Drain pipe by porch - perforated, wrapped in screen in a bed of gravel inches from addition | $400 | $500 |
-| Pour cement steps on Bass Street | $1,000 | $2,500 |
-| Grate over HVAC units | $800 | $1,500 |
+| Cemeent drain by porch with grate to catch leaves | $400 | $500 |
+| Drains from brick porch area down to street below entrance, drain going east next to short brick wall | $800 | $1,500
+| Pour higher basement level, 2 sets of cement steps and backing for brick walls on Bass Street | $1,000 | $2,500 |
+| Brick patio area above stairway, sand under bricks, weed barrier fabric | $300 | $500 |
+| Reset sidewalk (center third of Bass frontage, create side slope away from basement, weed barrier. (Other areas of Bass Street have vulnerable trees, so avoid resetting bricks by 2 oak trees and at front of property by Grant Street) | $800 | $1000 |
+| Brick walls of porch | $1000 | $2000 |
+| **Hollow Core Delivery:** | | |
 | Hollow core slabs, probably use crane | $15,000 | $25,000 |
 | Weatherproof plywood cover over basement stair opening, secure from below (small) | $100 | $200 |
+| **Detail work:** | | |
 | Metal stairway in basement | $1,000 | $4,000 |
+| Grate over HVAC units | $800 | $1,500 |
 | Basement window under porch. Black frame, an old factory look. Slides or swings open fully.  | $900 | $1,400 |
 | Thick porch tiles laid out for rain absorption as back porch (small) | $400 | $800 |
-| Rain barrels and pipe hookup under south steps | $1,000 | $1,500 |
-| Drains from brick porch area down to street, drain going east next to short brick wall | $800 | $1,500
-| Brick patio portion of porch area, sand under bricks, weed barrier fabric | $300 | $500 |
-| Reset sidewalk, create side slope away from basement, weed barrier, 
-
-sand to absorb water, careful with roots | $800 | $1000 |
-| Brick walls of porch | $1000 | $3000 |
+| Rain barrels and pipe hookup under south steps | $1,000 | $2,500 |
 | Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
 | Wooden porch steps - detachable, over rain barrels | $500 | $700 |
 | Install tiny door, install tiny sunburst (Abbey) |  |  |
@@ -193,7 +194,7 @@ sand to absorb water, careful with roots | $800 | $1000 |
 ## Extras
 | Optional, not in financing |||
 |---|---|---|
-| Existing front porches - New ceilings with recessed lighting, dimmer, remove extra columns, surrounding molding, trim repairs  | $800 | $3,000 |
+| Existing front porches - remove 2 extra columns by bricks and add 2x11 in ceiling, new ceilings with recessed lighting, dimmer. Add molding. Trim repairs.  | $800 | $3,000 |
 | Upstairs center bedroom - 6 lights with one dimmer switch (probably 3’ from corners) | $500 | $800 |
 | Light-well material using elevator shaft | $2,000 | $6,000 |
 | <a href="https://docs.google.com/document/d/12DIpuRJvCAZmODl7M-jmEJEsM0hCdxiBljkXsaRpKSs/edit?usp=sharing">Crawl Space Encapsulation</a> | $2,000 | $5,000 |
@@ -385,7 +386,14 @@ Not our house. For reference only...
 
 <a href="../exterior/img/porch.jpg"><img src="../exterior/img/porch.jpg" style="width:100%; max-width:1200px"></a> 
 
-Waterflow at porch...  
+Waterflow at porch - Six levels of drain protection:
+
+1. Area above stairs drains into pipe that outputs below porch.  
+2. Downspout drains into three rain barrels within west side of porch, then outputs below porch.  
+3. Sidewalk higher than stairs drains to outflow below porch below.  
+4. Sidewalk lower than stairs has a drain before doorway.  Addition to sidewalk angles away from door.  
+5. Goove below doors drains below porch.  
+6. Interior floor angles away from deeper basement, which has a sump pump.  
 
 <a href="../exterior/img/waterflow.jpg"><img src="../exterior/img/waterflow.jpg" style="width:100%; max-width:1200px"></a> 
 
