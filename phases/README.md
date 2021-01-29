@@ -58,7 +58,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Reset sidewalk (center third of Bass frontage, create side slope away from basement, weed barrier. (Other areas of Bass Street have vulnerable trees, so avoid resetting bricks by 2 oak trees and at front of property by Grant Street) | $800 | $1000 |
 | Brick walls of porch | $1000 | $2000 |
 | **Hollow Core Delivery:** | | |
-| Hollow core slabs, probably use crane | $15,000 | $25,000 |
+| Hollow core slabs, lifted into place by crane on truck | $15,000 | $25,000 |
 | Weatherproof plywood cover over basement stair opening, secure from below (small) | $100 | $200 |
 | **Detail work:** | | |
 | Metal stairway in basement | $1,000 | $4,000 |
@@ -77,7 +77,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 ## Phase 3 - Framework, Roof, Stairways, Windows, Siding, Electric
 ||||
 |---|---|---|
-| "Base Isolated" House - pads to dampen earthquake vibration | $200 | $1,000 |
+| "Base Isolated" House - pads to dampen earthquake vibration | $500 | $1,000 |
 | Framework including porch railings and lower kitchen extension | $20,000 | $50,000 |
 | Roofing for entire house (white surface for solar, close existing attic vent) | $8,000 | $20,000 |
 | 2 new wooden staircases - main floor and to attic (includes install of treads and banisters after drywall and painting) | $3,800 | $7,000 |
