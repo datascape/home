@@ -15,10 +15,9 @@ Projects indicated as "(small)" may be done independently by home owner.
 
 | Art Shed. Remove Kitchen Ceilings. Cement AC Pad. Move AC Units | Min | Max |
 |---|---|---|
-| Art shed and AC grate planning | $500 | $1200 |
-| Small adjacent freezer for new kitchen - Place upstairs (will move downstairs later) | $1,400 | $1,800 |
 | Jackhammer existing north cement for AC pad. Remove cement.  (small)  | $400 | $800 |
 | Pour cement pad for AC Units (small) | $600 | $800 |
+| Move AC Units, extend freon lines | $600 | $800 |
 | Cement bases for art shed footers (small) | $200 | $550 |
 | Remove 1 of 2 west brick wall where trash resides. Bricks will be used for the shed footers (small) | $400 | $600 |
 | 6 brick columns for shed. If short on bricks, some under portion being removed can be used (small) | $300 | $600 |
@@ -29,13 +28,16 @@ Projects indicated as "(small)" may be done independently by home owner.
 | Assemble art shed. Wood from rear wall of kitchens can be used later (small) | $1,000 | $2,000 |
 | Cut up renaining branches of downed tree (small) | $200 | $300 |
 | Remove ceiling and south wall in both kitchens. Truck to cart off mortar and backing wood. (small) | $800 | $1,500 |
-| Move AC Units, extend freon lines | $600 | $800 |
-| Purchase and install weatherproof west door to crawl space for existing hole under removed rear. About 2' tall by 3.5' wide | $400 | $800 |
+| Cabinet-size freezer for new kitchen - Place upstairs (will move downstairs later) | $1,400 | $1,800 |
+| Weatherproof west door to crawl space for existing hole under removed rear. About 2' tall by 3.5' wide | $400 | $800 |
 | Repoint existing bricks (north side is done), repair crawlsoace vent openings, patch wood holes. | $1,000 | $2,000 |
 
 <br><br>
 
 <a href="../phases/img/initial-AC-units.jpg"><img src="../phases/img/initial-AC-units.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
+Prior to removal of rear laundry areas.<br>
+<a href="../phases/img/initial.jpg"><img src="../phases/img/initial.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
 ## Phase 2 - Basement and Brickwork
@@ -95,6 +97,9 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
  
 <br><br>
 <a href="../framework/img/framework-above.jpg"><img src="../framework/img/framework-above.jpg" style="width:100%; max-width: 1200px"></a><br>
+
+<br><br>
+<a href="../exterior/img/west.jpg"><img src="../exterior/img/west.jpg" style="width:100%; max-width: 1200px"></a><br>
 
 
 ## Phase 4 - Painting Exterior, Replace Existing Storm Windows
@@ -222,11 +227,13 @@ Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system sinc
 <a href="../phases/img/coreslab.jpg"><img src="../phases/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
-Hollow Core slabs will provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  
-
 8” slab + 2” concrete topping. 10” total.  
 
- 2” Acid Wash Cement cover (Structural, composite concrete topping)
+Hollow Core slabs could provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  
+
+<b>Options to investigate</b>
+1. Heating with ten 48' airflow loops within concrete. Thin top surface. Same heating unit would also heat home air for quick heating.  
+2. Heating with water pipes within 2” Acid Wash Cement cover (Structural, composite concrete topping)
 
  <!--
  	Coreslab Structure (Atlanta) - Met Sales Rep Jay Rubinson jrubinson@coreslab.com 770-471-1150
@@ -247,9 +254,11 @@ Hollow Core slabs will provide a heat-sink in the main floor, storing heat gener
 [8" Hollowcore with no composite topping](https://concreteindustries.com/wp-content/uploads/2017/07/Hollowcore-Load-Table-No-Composite.pdf)
 <br><br>
 
+<!--
 <img src="../phases/img/concrete/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
+-->
 
-PCM placed in hollow core tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
+PCM can be placed in hollow core tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
 Note that external air is NOT sent through the hollow core slab. Air moves in a loop.
 <br><br>
 

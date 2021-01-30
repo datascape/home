@@ -23,7 +23,13 @@ Land Area 7,501 ft² from [clustrmaps.com](https://clustrmaps.com)<!-- source ht
 
 <a href="floorplan/img/survey.jpg"><img src="floorplan/img/survey.jpg" style="width:100%; max-width: 1200px"></a><br><br> 
 
-<!-- TGI Wood Engineered Joists - better quality than dimensional lumber
+<!-- 
+Survey in January 2014
+JOHN STANZILIS solarlandsurvey@yahoo.com
+solarlandsurveying.com
+
+
+TGI Wood Engineered Joists - better quality than dimensional lumber
 
 Plywood ($22) deals with water better than OSB $20  
 Windows have a tendency to leak over the years
