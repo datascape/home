@@ -188,7 +188,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Porch fireplace grill provides heat to house |||
 |---|---|---|
 | Barbecue grill with stone enclosure | $3,000 | $8,000 |
-| Porch fireplace top with ducts connected to hollow core loop | $1,000 | $3,000 |
+| Porch fireplace top with heat-transfer pipes connected to hollow core loop | $1,000 | $3,000 |
 
 
 ## Phase 12 - Existing Stairway, Existing Bathrooms
