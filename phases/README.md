@@ -3,7 +3,10 @@
 
 [721 Grant Street Addition](../)
 
-
+<!--
+Renovation Construction Loan
+Based on value of home at time of project completion
+-->
 # Construction Phases
 
 <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a>
