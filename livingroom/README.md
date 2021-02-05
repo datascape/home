@@ -81,9 +81,13 @@ Two outside units on the north side serving 3 or 4 units.
 
 [Mitsubishi One-Way Ceiling Cassette](https://youtu.be/9qUhomNmfLs?t=551)  
 
+[More Mitsubishi](https://www.mitsubishicomfort.com/ezfit/?campaign_id=31175&utm_source=Facebook&utm_medium=paid&utm_campaign=Comfort%20%7C%20Facebook%20%7C%20Website%20%7C%20National%20%7C%20EZFit%20%7C%202020&utm_term=EZFit-Yellow)
+
 Air movement volumes delivered by a mini-split give no advantage to putting near floor, unless maybe you have a vented crawlspace.  Subsequently we should insulate kitchen floor.  
 
 <!-- Rob's are electric 1-to-1 and kept it warm when 4 degrees outside. -->
+
+<a href="../bedroom/img/mini-above-bathrooms.jpg"><img src="../bedroom/img/mini-above-bathrooms.jpg" style="width:100%; max-width: 1200px"></a> 
 
 ## STEP Warmfloor
 
