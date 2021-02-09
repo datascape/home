@@ -364,6 +364,19 @@ Current HVAC in crawl space: Ducane
 Sept 2014 - Circuit board replaced  
 Motor did not need to be replaced (m#FPBB100A5 S#20251005A PRODUCT#1006559993) 
 
+For future - Go with the 4 inch filter tray for better airflow (.12) and filtration (97%):  
+
+Allergen Deep Pleat 1550 (4")  
+3-10 microns 97%  
+MERV 12  
+pressure drop .12  
+
+Not quite as good (but the best airflow for the 1" filters we currently use):  
+Ultra Allergen 1500  
+310 microns - 90%  
+MERV 12  
+pressure drop .15  
+
 
 <h2>West Elevation</h2><br>
 Cold air enters at upper left AC.  
