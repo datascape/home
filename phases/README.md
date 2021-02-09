@@ -91,7 +91,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | 31 windows, including window between attic and master bedroom. 2 exterior doors. | $18,000 | $25,000 |
 | Consider triple pane windows with argon fill - maybe on north side. |||
 | Siding on addition | $8,000 | $10,000 | 
-| Separate fuse boxes for new electric work. “Whole-house protector” in basement. | $500 | $1,000 |
+| Separate fuse boxes for new electric work. “Whole-house protector” $178 on Amazon for 140,000 amp Siemens FS140 Whole House Surge Protector. | $500 | $1,000 |
 | Electrical work and lighting | $8,000 | $15,000 |
 | Strong metal doors on two north storage compartments | $400 | $1,000 |
 | Move all existing wires to new fuse boxes (upstairs and down) | $2,000 | $5,000 |
