@@ -191,14 +191,6 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Porch fireplace top with heat-transfer pipes connected to hollow core loop | $1,000 | $3,000 |
 
 
-## Phase 12 - Existing Stairway, Existing Bathrooms
-|  |||
-|---|---|---|
-| Move existing front stairway (small) | $1,000 | $2,000 |
-| New light(s) in existing stairway, update existing switches to be two-way (small) | $400 | $800 |
-| Existing upstairs bathroom - move sink and toilet mount, new wall mounted toilet, add tub (small) - [Wall photos](https://docs.google.com/document/d/1J0A26a7-Dvm3mscBRTSgxIeMxft11VZoRADT_unegkE/edit?usp=sharing) | $4,000 | $8,000 |
-| Add downstairs shower under stairway (small) | $1,500 | $3,500 |
-
 ## Extras
 | Optional, not in financing |||
 |---|---|---|
