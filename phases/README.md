@@ -1,5 +1,5 @@
 
-<a href="../"><img src="../exterior/img/southeast.jpg" style="width:100%; max-width: 350px; float:right"></a>
+<a href="../"><img src="../exterior/img/southwest.jpg" style="width:100%; max-width: 350px; float:right"></a>
 
 [721 Grant Street Addition](../)
 
