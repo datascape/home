@@ -5,7 +5,7 @@
 |---|---|---|
 | <b>Move existing front stairway</b> | | |
 | Remove bottom 5 or 6 treads | | |
-| Place temporary treads on side by rail. Start near door to place elevated walkway 6'2" from ceiling. | | |
+| Place temporary half-treads on side by rail. Start temporary treads near door to place elevated walkway 6'2" from ceiling. | | |
 | Open up small portions of wall to determine if reinforcing uprights will be added | | |
 | Add reinforcement in walls and under house | | |
 | Replace closet floor with angled stairway ceiling | | |
