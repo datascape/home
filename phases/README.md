@@ -130,7 +130,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Interior Trim and Door Carpentry |||
 |---|---|---|
 | Expand window opening for doorway to new bathroom from center room (small) | $200 | $300 |
-| Add closet to existing center room, hang bathroom door  | $800 | $2,000 |
+| Add closet to existing center room upstairs, hang bathroom door  | $800 | $2,000 |
 | Drywall new addition and craft room | $3,000 | $5,000 |
 | Interior painting | $2,000 | $4,000 |
 | Vent covers and switch covers (small) | $400 | $700 |
@@ -140,8 +140,10 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Build bathroom door frame from our wood trim collection. Hang door use 1 of 5 in attic | $500 | $800 |
 | Large sliding bathroom door | $800 | $1,200 |
 | 4 large sliding screens (shoji) between master bedroom and craft room (8'7" by 4'5") | $1,200 | $3,000 |
-| Existing crawl space door, sand, and trim and lock. Dark stain color to blend with bricks | $300 | $500 |
-| Stairway treads and banisters (billed in phase 3) |||
+| Existing crawl space door - replace plywood with verticle boards. sand, stain and seal and lock. Dark stain color to blend with bricks | $300 | $500 |
+| Stairway treads and banisters (continued from phase 3) | $ | $|
+| Door Hardware - Repair/upgrade doorknobs - Front door, bedroom, upstairs bathroom | $400 | $800 |
+| &nbsp; |||
 
 
 ## Phase 7 - Solar Panels

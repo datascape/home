@@ -3,9 +3,6 @@
 ## Existing Stairway, Existing Bathrooms
 |  |||
 |---|---|---|
-| <b>Door Hardware</b> | | |
-| Repair/upgrade doorknobs - Front door, bedroom, upstairs bathroom | $400 | $800 |
-| &nbsp; |||
 | <b>Move existing front stairway</b> | | |
 | Carefully remove bottom 5 or 6 treads. Retain for reuse. | | |
 | Place temporary half-tread stairs on side by rail. Start temporary treads near door to place elevated walkway 6'2" from ceiling. Long wood used under half-stairs could be reused later for rear stairway.  | | |
@@ -13,14 +10,14 @@
 | Add reinforcement in walls and under house | | |
 | Replace closet floor with angled stairway ceiling | | |
 | Open walls for access to pipes for upstairs tub drain | | |
-| Plumbing - Update pipes to prepare for bathroom modifications, including pipe to attic. (Probably wait to add hole in roof.) | | |
+| Plumbing - Update pipes to prepare for bathroom modifications, including pipe to attic. (We'll probably wait to add hole in roof.) | | |
 | Plumbing - Install new incoming valve under house to increase pressure. |||
 | Electric - Add new lights in stairway, update existing switches to be two-way | $400 | $800 |
 | Move stairs. Resurface treads, might flip treads. | $1,000 | $2,000 |
 | Drywall | | |
 | &nbsp; |||
 | <b>Downstairs Bathroom</b> | | |
-| Add downstairs shower under stairway | $1,500 | $3,500 |
+| Add downstairs shower under stairway | $2,000 | $5,000 |
 | &nbsp; |||
 | <b>Upstairs Bathroom</b> | | |
 | Expand bathroom into hall area for new sink area |||
