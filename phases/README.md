@@ -37,9 +37,14 @@ Projects indicated as "(small)" may be done independently by home owner.
 
 <br><br>
 
-<a href="../phases/img/initial-AC-units.jpg"><img src="../phases/img/initial-AC-units.jpg" style="width:100%; max-width:1200px"></a>  
+<a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
-Prior to removal of rear laundry areas.<br>
+<a href="../phases/img/AC/AC-units.jpg"><img src="../phases/img/AC/AC-units.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
+<a href="../phases/img/AC/AC-units-2D.jpg"><img src="../phases/img/AC/AC-units-2D.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
+
+Prior to removal of rear laundry areas:<br>
 <a href="../phases/img/initial.jpg"><img src="../phases/img/initial.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
