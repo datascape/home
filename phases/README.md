@@ -40,7 +40,8 @@ Projects indicated as "(small)" may be done independently by home owner.
 <a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 <a href="../phases/img/AC/AC-units.jpg"><img src="../phases/img/AC/AC-units.jpg" style="width:100%; max-width:1200px"></a>  
-<br>
+<br><br>
+
 <a href="../phases/img/AC/AC-units-2D.jpg"><img src="../phases/img/AC/AC-units-2D.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
