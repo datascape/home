@@ -294,25 +294,6 @@ Hollow Core slabs could provide a heat-sink in the main floor, storing heat gene
 <img src="../phases/img/basement/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
 -->
 
-PCM can be placed in hollow core tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
-Note that external air is NOT sent through the hollow core slab. Air moves in a loop.
-<br><br>
-
-<a href="../phases/img/coreslab/coreslab-ducts.jpg"><img src="../phases/img/coreslab/coreslab-ducts.jpg" style="width:100%; max-width:1200px"></a><br><br>
-Air flow leaves the electric heating unit on the right side, move though hollow core basement ceiling, and return for reheating via the left duct.<br><br><br>
-
-
-<a href="../phases/img/coreslab/coreslab-south.jpg"><img src="../phases/img/coreslab/coreslab-south.jpg" style="width:100%; max-width:1200px"></a><br><br>
-U-shaped pipes would connect sets of two pipes to create ten 50 foot loops. Air circulating through slabs would not be mixed with home air.
-<br><br>
-
-<!--
-Student researcher explaining an innovative [seismic retrofit](https://www.constructionspecifier.com/new-research-council-formed-for-concrete-industry/). 
-Send suggestions to [ACI Foundation](https://www.acifoundation.org/research/suggestresearch.aspx)  
-
--->
-
-
 ### Sources of Precast Concrete for Hollow Core
 
 [Precast Concrete Suppliers serving Georgia](https://www.thomasnet.com/georgia/precast-concrete-17311002-1.html)  
@@ -330,21 +311,6 @@ Cellulose-infused concrete is stronger and sets faster
 [Thomas parking lot in Greenville](http://www.thomasconcrete.com/latest-news/thomas-concrete-partners-in-the-debut-of-a-concrete-mix-infused-with-cellulosic-nanomaterial)  
 
 
-<!--
-ICF insulated concrete foundation
-ICF Builder
--->
-
-## Exterior Fireplace
-The fireplace will convert from a range to a pit for burning wood.
-<br><br>
-<a href="../exterior/img/fireplace/fireplace.jpg"><img src="../exterior/img/fireplace/fireplace.jpg" style="width:100%; max-width:1200px"></a><br><br>
-
-Enclosed air tubes in the top of fireplace will connect to the basement loop to circulate heat into floor slabs.  
-The tube will snake through the top of the fireplace, so air with ashes is not mixing with the house loop.
-<br><br>
-<a href="../exterior/img/fireplace/fireplace-back.jpg"><img src="../exterior/img/fireplace/fireplace-back.jpg" style="width:100%; max-width:1200px"></a><br><br>
-
 
 
 ## Repointing Bricks
@@ -358,84 +324,6 @@ A color more like our existing wall below than the red existing mortar...<br><br
 
 <a href="img/bricks/brick-existing.png"><img src="img/bricks/brick-existing.png" style="width:100%; max-width:500px"></a>  
 <br><br>
-
-
-## AC Units, Grey Water Storage
-
-### 5 sources of cold air
-<!--A means to avoid duct work applied at the Kendeda Living Building.  -->
-
-The home's two existing HVAC units will reside under a grate on the north side of the house. 
-
-An attic AC unit will connect to ducts and the central elevator shaft.
-
-A small AC unit will also reside within the ceiling of the south facing porch.  
- 
-Chiller/freezer unit in the basement will pump cold air up a duct within the elevator shaft.  
-<!-- Radiant pumping, chiller and air-handling unit. -->
-
-<!--
-Not using - Water Furnace Specs
-https://www.waterfurnace.com/literature/envision/im1008hn.pdf
--->
-
-<a href="../framework/img/hvac-and-greywater.jpg"><img src="../framework/img/hvac-and-greywater.jpg" style="width:100%; max-width:1200px"></a>  
-<br>
-
-
-
-
-About <a href="https://www.hpacmag.com/features/radiant-cooling/">radiant-cooling</a>  
-
-Plans do not yet include location for “influx of fresh air” to stimulate building temperatures. Probably need to run through a dehumidifier.  
-
-### HVAC Duct Fabricators
-Atlanta Supply - Logan Circle (for Ducts, custom)  
-Custom sheet metal (pricey) [B & S Sheet Metal Fabricators Inc.](https://bsmetalfabricators.com/)  
-
-Current HVAC in crawl space: Ducane  
-Sept 2014 - Circuit board replaced  
-Motor did not need to be replaced (m#FPBB100A5 S#20251005A PRODUCT#1006559993) 
-
-For future - Go with the 4 inch filter tray for better airflow (.12) and filtration (97%):  
-
-Allergen Deep Pleat 1550 (4")  
-3-10 microns 97%  
-MERV 12  
-pressure drop .12  
-
-Not quite as good (but the best airflow for the 1" filters we currently use):  
-Ultra Allergen 1500  
-310 microns - 90%  
-MERV 12  
-pressure drop .15  
-
-
-<h2>West Elevation</h2><br>
-Cold air enters at upper left AC.  
-Hot air generated in the basement, lower left. Air loops through concrete slabs as heat-sink while solar operational.
-<br><br>
-<a href="../elevations/img/4-levels.jpg"><img src="../elevations/img/4-levels.jpg" style="width:100%; max-width: 1200px"></a>
-
- 
-## Tankless Water Heaters
-
-2 Tankless - One by laundry machine, one in basement by kitchen  
-
-<a href="https://www.facebook.com/watch/live/?v=10160036402400436&ref=watch_permalink">Amy</a> presents a Rinnai Sensei tankless water heater, newer than Navien.  
-
-Tank in the upstairs kitchen will be moved into the attic above north bathroom.
-<!-- 
-<a href="http://www.marathonheaters.com/cons_specs.html">Rheem's Marathon Water Heater</a> - "The most durable electric water heater" - Under stairs  
--->
-
-## Electrical
-
-Recessed can lights (pot lights) will be used in all rooms.
-
-<b>Resources</b>  
-<a href="https://www.edrawmax.com/article/electrical-plan.html">How to layout electrical plan</a>  
-<a href="https://3dwarehouse.sketchup.com/model/18515e9750cb23076d022864d00430d0/Electrical-Components?redirect=1">SketchUp Electrical Components</a>  
 
 
 ## Porch Railing Style
