@@ -260,25 +260,15 @@ Atlanta-based Thomas Concrete has been using the Canadian CarbonCure system sinc
 
 ## Hollow Core Concrete Slabs
 
+<!--
 <a href="../phases/img/coreslab.jpg"><img src="../phases/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
-
+-->
 8” slab + 2” concrete topping. 10” total.  
 
-Hollow Core slabs could provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  
+Hollow Core slabs could provide a heat-sink in the main floor, storing heat generated from solar energy to radiate out at night.  Likely to use electric on basement floor to heat basement ceiling slab from below.
 
-<b>Options to investigate</b>
-1. Heating with ten 48' airflow loops within concrete. Thin top surface. Same heating unit would also heat home air for quick heating.  
-2. Heating with water pipes within 2” Acid Wash Cement cover (Structural, composite concrete topping)
 
- <!--
- 	Coreslab Structure (Atlanta) - Met Sales Rep Jay Rubinson jrubinson@coreslab.com 770-471-1150
-
- 	Metal stairway version in SketchUp (nned to update height): 
-	Industrial Stairway with 105" landing height and 36" width. 
-	Factory Supply part number ISO105-36.
-
- -->
 <br><br>
 
 <a href="http://www.concretetech.com/Adobe/hollowcorebuildingbrochure.pdf"><img src="img/hollowcore-drilling.png" style="width:100%; max-width: 800px"></a><br><br>

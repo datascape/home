@@ -18,3 +18,17 @@ Send suggestions to [ACI Foundation](https://www.acifoundation.org/research/sugg
 
 -->
 
+
+<b>Options to investigate</b>
+1. Heating with ten 48' airflow loops within concrete. Thin top surface. Same heating unit would also heat home air for quick heating.  
+2. Heating with water pipes within 2” Acid Wash Cement cover (Structural, composite concrete topping)
+
+ <!--
+ 	Coreslab Structure (Atlanta) - Met Sales Rep Jay Rubinson jrubinson@coreslab.com 770-471-1150
+
+ 	Metal stairway version in SketchUp (nned to update height): 
+	Industrial Stairway with 105" landing height and 36" width. 
+	Factory Supply part number ISO105-36.
+
+ -->
+ 
