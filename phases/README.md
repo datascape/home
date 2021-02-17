@@ -11,45 +11,42 @@ Based on value of home at time of project completion
 
 <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a>
 
-Rough estimates for 12 construction phases, plus extras.  
+Rough estimates for construction phases, plus extras.  
 Projects indicated as "(small)" may be done independently by home owner.
 
-## Phase 1 - Remove Rear. Assemble Art Shed. Reposition AC Units.
+## Phase 1 - Convert Rear into Art Shed. Remove Concrete.
 
 | Art Shed. Remove Kitchen Ceilings. Cement AC Pad. Move AC Units | Min | Max |
 |---|---|---|
-| Jackhammer existing north cement for AC pad. Remove cement.  (small)  | $400 | $800 |
-| Pour cement pad for AC Units (small) | $600 | $800 |
-| Move AC Units, extend freon lines | $600 | $800 |
 | Cement bases for art shed footers (small) | $200 | $550 |
-| Remove 1 of 2 west brick wall where trash resides. Bricks will be used for the shed footers (small) | $400 | $600 |
-| 6 brick columns for shed. If short on bricks, some under portion being removed can be used (small) | $300 | $600 |
-| Remove enough dirt for crane to enter backyard to avoid cutting trim limb | $600 | $1,000 |
-| Remove top roof. Remove second floor windows and lower door. Separate rear structure from building. Remove rear stairway's top deck. Move lower section as one unit. Add 4x4s to reinforce open side. <a href="shed">Flip shed</a> or use crane. | $2,000 | $5,000 |
-| Chainsaw tree too close to the other and guide down with ropes or crane. Cut up large pieces. | $500 | $800 |
+| 6 brick columns for shed. If short on bricks, bricks from trash area can be used (small) | $300 | $600 |
+| Optional: Remove enough dirt for crane to enter backyard | $600 | $1,000 |
+| Remove top roof. Remove second floor windows and lower door. Separate rear structure from building. | | |
+| Remove rear stairway's top deck. (small) | | |
+| Add 4x4s to reinforce open side. <a href="shed">Flip shed</a> or use crane. | | |
+| Move lower section as one unit. | $2,000 | $5,000 |
 | Weather-seal upper edge of house after removal. Attach gutter. Cleanup. (Old siding remains) | $200 | $800 |
 | Assemble art shed. Wood from rear wall of kitchens can be used later (small) | $1,000 | $2,000 |
-| Cut up renaining branches of downed tree (small) | $200 | $300 |
-| Remove ceiling and south wall in both kitchens. Truck to cart off mortar and backing wood. (small) | $800 | $1,500 |
-| Cabinet-size freezer for new kitchen - Place upstairs (will move downstairs later) | $1,400 | $1,800 |
-| Weatherproof west door to crawl space for existing hole under removed rear. About 2' tall by 3.5' wide | $400 | $800 |
-| Repoint existing bricks (north side is done), repair crawlsoace vent openings, patch wood holes. | $1,000 | $2,000 |
-
+| **Remove Kitchen Interior Wall and Ceiling** | | |
+| Remove ceiling and south wall in downstairs kitchens. Truck to cart off mortar and backing wood. (small) | $600 | $800 |
+| Cabinet-size freezer for new kitchen - Place upstairs as island initially | $1,400 | $1,800 |
+| Install removable weather barrier for crawl space at existing hole under removed rear. About 2' tall by 3.5' wide | $400 | $500 |
+| Repoint existing bricks, repair crawlsoace vent openings, patch wood holes. | $1,400 | $2,000 |
+| **Remove tree too close to other tree** | | |
+| Chainsaw tree too close to the other and guide down with ropes or crane. Cut up large pieces. | $500 | $800 |
+| Cut up remaining branches of downed tree (small) | $200 | $300 |
 <br><br>
 
-<a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
-<br>
-<a href="../phases/img/AC/AC-units.jpg"><img src="../phases/img/AC/AC-units.jpg" style="width:100%; max-width:1200px"></a>  
-<br><br>
 
-<a href="../phases/img/AC/AC-units-2D.jpg"><img src="../phases/img/AC/AC-units-2D.jpg" style="width:100%; max-width:1200px"></a>  
-<br>
 
-Prior to removal of rear laundry areas:<br>
-<a href="../phases/img/initial.jpg"><img src="../phases/img/initial.jpg" style="width:100%; max-width:1200px"></a>  
+Rear laundry area to be removed and converted into art shed:<br>
+<a href="../phases/img/initial.jpg"><img src="../phases/img/initial.jpg" style="width:100%; max-width:1100px"></a>  
+<br>
+<a href="../exterior/img/rear/photo-southside-uphill.jpg"><img src="../exterior/img/rear/photo-southside-uphill.jpg" style="width:100%; max-width: 1100px"></a><br>
+Protecting large trees.  Tree to be removed is smaller - between these two at northwest corner of house.
 <br>
 
-## Phase 2 - Basement and Brickwork
+## Phase 2 - Basement, Drainage and Brickwork
 
 <!--
 Basement Framing and Pour
@@ -58,7 +55,11 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 
 | Cement work, window within basement, sliding basement entrance |||
 |---|---|---|
-| **Cement work:** | | |
+| Jackhammer existing north cement for AC pad. Remove cement.  (small)  | $400 | $800 |
+| Remove remaining brick wall where trash resides. Retain bricks for reuse (small) | $400 | $600 |
+| Remove slate rear patio | | |
+| **Basement/Cement Work** | | |
+| Pour cement pad for AC Units (small) | $600 | $800 |
 | Rear porch 3 cement pedestal bases (small) | $200 | $400 |
 | Basement Dig, Frame and Pour - includes sump pump and a few feet of drain pipe  | $10,000 | $30,000 |
 | North bump-out foundation cement pour at same time | $2,000 | $4,000 |
@@ -71,21 +72,48 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | **Hollow Core Delivery:** | | |
 | Hollow core slabs, lifted into place by crane on truck | $15,000 | $25,000 |
 | Weatherproof plywood cover over basement stair opening, secure from below (small) | $100 | $200 |
-| **Detail work:** | | |
-| Metal stairway in basement | $1,000 | $4,000 |
-| Grate over HVAC units | $800 | $1,500 |
-| Basement window under porch. Black frame, an old factory look. Slides or swings open fully.  | $900 | $1,400 |
-| Thick porch tiles laid out for rain absorption as back porch (small) | $400 | $800 |
-| Rain barrels and pipe hookup under south steps | $1,000 | $2,500 |
-| Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
-| Wooden porch steps - detachable, over rain barrels | $500 | $700 |
-| Install tiny door, install tiny sunburst (Abbey) |  |  |
+
 
 <br><br>
 <a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a><br>
+<br><br>
+<!--
+<a href="../phases/img/basement/slab.jpg"><img src="../phases/img/basement/slab.jpg" style="width:100%; max-width:1200px"></a><br>
+<br><br>
+-->
+<a href="../phases/img/basement/brickwork.jpg"><img src="../phases/img/basement/brickwork.jpg" style="width:100%; max-width:1200px"></a><br>
+<br><br>
+
+## Phase 3 - Reposition 2 exterior AC Units.  Add Grate over Units
+
+| AC Units, Install Mini-split in Downstairs Kitchen |||
+|---|---|---|
+| Move AC Units, extend freon lines | $600 | $800 |
+| Install Mini-split in Downstairs Kitchen | $1,500 | $2,000 | 
+| Grate over HVAC units | $800 | $1,500 |
+| **Basement Details:** | | |
+| Metal stairway in basement | $1,000 | $4,000 |
+| Basement window under porch. Black frame, an old factory look. Slides or swings open fully.  | $900 | $1,400 |
+| Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
+| **Exterior Detail Work:** | | |
+| Wooden porch steps - detachable, over rain barrels | $500 | $700 |
+| Thick porch tiles laid out for rain absorption as back porch (small) | $400 | $800 |
+| Rain barrels and pipe hookup under south steps | $1,000 | $2,500 |
+| Install tiny door, install tiny sunburst (Abbey) |  |  |
+
+<br><br>
+<a href="../phases/img/AC/AC-units-2D.jpg"><img src="../phases/img/AC/AC-units-2D.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
+
+<a href="../phases/img/AC/AC-units.jpg"><img src="../phases/img/AC/AC-units.jpg" style="width:100%; max-width:1200px"></a>  
+<br><br>
+
+**Basement Details**
+<a href="../phases/img/basement/basement-details.jpg"><img src="../phases/img/basement/basement-details.jpg" style="width:100%; max-width:1200px"></a><br>
+<br><br>
 
 
-## Phase 3 - Framework, Roof, Stairways, Windows, Siding, Electric
+## Phase 4 - Framework, Roof, Stairways, Windows, Siding, Electric
 ||||
 |---|---|---|
 | "Base Isolated" House - pads to dampen earthquake vibration | $500 | $1,000 |
@@ -192,7 +220,12 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <a href="../kitchen/img/kitchen.jpg"><img src="../kitchen/img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
 <a href="../kitchen/">More Kitchen Images</a><br>
 
-## Phase 11 - Exterior Fireplace
+## Phase 12 - Exterior Wood Structures
+
+<a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
+
+## Phase 13 - Exterior Fireplace
 | Porch fireplace grill provides heat to house |||
 |---|---|---|
 | Barbecue grill with stone enclosure | $3,000 | $8,000 |
@@ -258,7 +291,7 @@ Hollow Core slabs could provide a heat-sink in the main floor, storing heat gene
 <br><br>
 
 <!--
-<img src="../phases/img/concrete/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
+<img src="../phases/img/basement/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
 -->
 
 PCM can be placed in hollow core tubes as a thermal storage and supply system <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378778815300591">PCM Research</a><br>
