@@ -36,13 +36,7 @@
 | Drywall/patch hallway, patch existing cracks | $200 | $500 |
 | Paint/stain stairway | $200 | $700 |
 
-<br><br>
-| Later Phase |||
-|---|---|---|
-| **Upstairs Bathroom** | | |
-| Expand bathroom into hall area for new sink area, reinforce. Move door. Fix knob or add lock. | $1,200 | $2,000 |
-| Move sink and toilet mount, new wall mounted toilet, add tub - [Wall photos](https://docs.google.com/document/d/1J0A26a7-Dvm3mscBRTSgxIeMxft11VZoRADT_unegkE/edit?usp=sharing) | $3,000 | $6,000 |
-| Upstairs bathroom recessed lights and vanity light in  | $400 | $700 |
+Completion of upstairs bathroom is later in [phases 4 and 7](../)
 
 <br>
 <div id="totals"></div>

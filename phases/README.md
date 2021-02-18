@@ -130,7 +130,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Strong metal doors on two north storage compartments | $400 | $1,000 |
 | Move all existing wires to new fuse boxes (upstairs and down) | $2,000 | $5,000 |
 | And new waterproof window interior to existing upstairs bathroom | $800 | $1,500 |
-| Craft room walls and ceiling, move door frame | $800 | $1,000 |
+| Craft room walls and ceiling, move door frame to create bathroom sink area. reinforce. | $1,000 | $2,000 |
  
 <br><br>
 <a href="../framework/img/framework-above.jpg"><img src="../framework/img/framework-above.jpg" style="width:100%; max-width: 1200px"></a><br>
@@ -139,7 +139,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <a href="../exterior/img/west.jpg"><img src="../exterior/img/west.jpg" style="width:100%; max-width: 1200px"></a><br>
 
 
-## Phase 4 - Painting Exterior, Replace Existing Storm Windows
+## Phase 5 - Painting Exterior, Replace Existing Storm Windows
 |  |||
 |---|---|---|
 | Remove old storm windows and security bars, patch and repair | $800 | $2,000 |
@@ -147,7 +147,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Add white storm windows - include some that open automatically with Google Home. | $10,000 | $18,000 |
 
 
-## Phase 5 - Plumbing, Ductwork and Air
+## Phase 6 - Plumbing, Ductwork and Air
 | AC Ducts, Grey water system, 2 AC Units, 1 Heating unit in basement |||
 |---|---|---|
 | Ducts to kitchens and bathrooms, including duct up elevator shaft | $2,500 | $5,000 |
@@ -160,7 +160,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Air heating unit in basement integrated with Hollow Core loops | $4,000 | $6,000 |
 | AC Unit in south porch roof | $1,800 | $3,000 |
 
-## Phase 6 - Drywall, Interior Trim, Interior Painting, Stairway Completion
+## Phase 7 - Drywall, Interior Trim, Interior Painting, Stairway Completion
 | Interior Trim and Door Carpentry |||
 |---|---|---|
 | Expand window opening for doorway to new bathroom from center room (small) | $200 | $300 |
@@ -175,15 +175,12 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Large sliding bathroom door | $800 | $1,200 |
 | 4 large sliding screens (shoji) between master bedroom and craft room (8'7" by 4'5") | $1,200 | $3,000 |
 | Existing crawl space door - replace plywood with verticle boards. sand, stain and seal and lock. Dark stain color to blend with bricks | $300 | $500 |
-| Stairway treads and banisters (continued from phase 3) | $ | $|
+| Stairway treads and banisters | $ | $|
 | Door Hardware - Repair/upgrade doorknobs - Front door, bedroom, upstairs bathroom | $400 | $800 |
 | &nbsp; |||
-
-
-## Phase 7 - Solar Panels
-| New rebates are expected. List of [solar contractors in Georgia](https://www.solarpowerworldonline.com/2020-top-georgia-contractors/)  |||
-|---|---|---|
-| Solar panels  | $20,000 | $30,000 |
+| **Upstairs Bathroom** | | |
+| Move sink and toilet mount, new wall mounted toilet, add tub - [Wall photos](https://docs.google.com/document/d/1J0A26a7-Dvm3mscBRTSgxIeMxft11VZoRADT_unegkE/edit?usp=sharing) | $3,000 | $6,000 |
+| Upstairs bathroom recessed lights and vanity light in  | $400 | $700 |
 
 
 ## Phase 8 - Craft Room Shelf, Sink and Counter
@@ -219,6 +216,11 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <br><br>
 <a href="../kitchen/img/kitchen.jpg"><img src="../kitchen/img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
 <a href="../kitchen/">More Kitchen Images</a><br>
+
+## Phase 11 - Solar Panels
+| New rebates are expected. List of [solar contractors in Georgia](https://www.solarpowerworldonline.com/2020-top-georgia-contractors/)  |||
+|---|---|---|
+| Solar panels  | $20,000 | $30,000 |
 
 ## Phase 12 - Exterior Wood Structures
 
