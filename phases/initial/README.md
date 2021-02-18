@@ -62,7 +62,7 @@ Compression of north wall causing plaster to bulge.
 ## Upstairs Bathroom
 
 <a href="img/UpBath.jpg"><img src="img/UpBath.jpg" style="width:100%; max-width:2000px; margin-top:20px; margin-bottom:10px"></a><br>
-Waterproof window in tub shower. Two swinging shower doors. Entrance wall/door moved to add space for sink area.<br><br>
+Waterproof window. Two swinging shower doors. Entrance wall/door moved to add space for sink area.<br><br>
 
 <br>
 <br><br>
