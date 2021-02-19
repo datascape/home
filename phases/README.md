@@ -90,6 +90,8 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 |---|---|---|
 | Move AC Units, extend freon lines | $600 | $800 |
 | Install Mini-split in Downstairs Kitchen | $1,500 | $2,000 | 
+| Plumbing under kitchen. | $500 | $800 |
+| Insulate kitchen floor in crawlspace. | $500 | $800 |
 | Grate over HVAC units | $800 | $1,500 |
 | **Basement Details:** | | |
 | Metal stairway in basement | $1,000 | $4,000 |
@@ -147,18 +149,17 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Add white storm windows - include some that open automatically with Google Home. | $10,000 | $18,000 |
 
 
-## Phase 6 - Plumbing, Ductwork and Air
-| AC Ducts, Grey water system, 2 AC Units, 1 Heating unit in basement |||
+## Phase 6 - Plumbing and Air
+| Grey water system, 2 AC Units, 1 Heating unit in basement |||
 |---|---|---|
-| Ducts to kitchens and bathrooms, including duct up elevator shaft | $2,500 | $5,000 |
-| North attic wall AC unit | $2,500 | $3,500 |
+| Mini-split in south livingroom wall | $2,500 | $3,500 |
+| Mini-split above upstairs bathroom | $2,500 | $3,500 |
 | Move water heater to attic. Hook up water and gas lines (small) | $700 | $900 |
 | Grey water system - use copper entry basin for water entrance from shed roof | $3,000 | $4,000 |
 | Kitchen and craft room vent covers, bathroom vent covers (small) | $300 | $500 |
 | Plumbing for location of new sink in craft room | $100 | $200 |
 | Plumbing for new upstairs bathrooms | $1,200 | $3,000 |
-| Air heating unit in basement integrated with Hollow Core loops | $4,000 | $6,000 |
-| AC Unit in south porch roof | $1,800 | $3,000 |
+
 
 ## Phase 7 - Drywall, Interior Trim, Interior Painting, Stairway Completion
 | Interior Trim and Door Carpentry |||

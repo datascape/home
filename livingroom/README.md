@@ -72,22 +72,29 @@ Triple pane windows that should feel just as warm to the touch as the walls
 
 ## Mini Split - Heating and Cooling
 
-Two outside units on the north side serving 3 or 4 units. 
+Two outside units on the north side will serve 3 interior units. 
 
-- 45 feet to the wall by south porch.  
-- the downstairs kitchen above cabinets. 
-- the master bedroom wall above sliding bathroom door. 
+- The master bedroom above south bathrooms. 
+- The wall by south porch. (45 feet)  
+- The downstairs kitchen above cabinets.  
+
 <!-- the unfinished attic -->   
 
 [Mitsubishi One-Way Ceiling Cassette](https://youtu.be/9qUhomNmfLs?t=551)  
 
-[More Mitsubishi](https://www.mitsubishicomfort.com/ezfit/?campaign_id=31175&utm_source=Facebook&utm_medium=paid&utm_campaign=Comfort%20%7C%20Facebook%20%7C%20Website%20%7C%20National%20%7C%20EZFit%20%7C%202020&utm_term=EZFit-Yellow)
-
-Air movement volumes delivered by a mini-split give no advantage to putting near floor, unless maybe you have a vented crawlspace.  Subsequently we should insulate kitchen floor.  
+[More Mitsubishi](https://www.mitsubishicomfort.com/ezfit/?campaign_id=31175&utm_source=Facebook&utm_medium=paid&utm_campaign=Comfort%20%7C%20Facebook%20%7C%20Website%20%7C%20National%20%7C%20EZFit%20%7C%202020&utm_term=EZFit-Yellow) 
 
 <!-- Rob's are electric 1-to-1 and kept it warm when 4 degrees outside. -->
 
-<a href="../bedroom/img/mini-above-bathrooms.jpg"><img src="../bedroom/img/mini-above-bathrooms.jpg" style="width:100%; max-width: 1200px"></a> 
+<a href="../bedroom/img/mini-above-bathrooms.jpg"><img src="../bedroom/img/mini-above-bathrooms.jpg" style="width:100%; max-width: 1200px"></a><br><br>
+
+
+<a href="../livingroom/img/livingroom-mini-split.jpg"><img src="../livingroom/img/livingroom-mini-split.jpg" style="width:100%; max-width: 1200px"></a><br><br>
+
+
+<a href="../kitchen/img/kitchen-mini-split.jpg"><img src="../kitchen/img/kitchen-mini-split.jpg" style="width:100%; max-width: 1200px"></a><br><br>
+
+Air movement volumes delivered by a mini-split give no advantage to putting near floor, unless maybe you have a vented crawlspace.  Subsequently we should insulate kitchen floor in crawlspace. 
 
 ## STEP Warmfloor
 
@@ -95,7 +102,7 @@ STEP Warmfloor gives 2.5 times more heat output than cable systems, 2.08 times m
 
 https://www.warmfloor.com/green-technology/sustainable-technology/
 
-It can be placed under wood to create our gym-livingroom floor, rather than pouring more concrete on the hollow core slabs for hydronics. A thermal barrier between the slab and the element adds efficiency. Seems good for the basement floor too.  
+It could be placed under wood to create our gym-livingroom floor, rather than pouring more concrete on the hollow core slabs for hydronics. A thermal barrier between the basement slab and the element adds efficiency for a basement install - but in the livingroom we would heat the slab during the day to radiate throughout the night.  
 
 https://youtu.be/q2c8cLrZYkc?t=184
 
@@ -108,6 +115,13 @@ Insulation Recommendations - [from video](https://youtu.be/q2c8cLrZYkc?t=1507)
 
 ## Tankless Booster
 
+A tankless booster will reside in kitchen by the sink and dish washer.  
+
+A tankless water heater will reside by laundry machine upstairs.  
+
+Terri's friend <a href="https://www.facebook.com/watch/live/?v=10160036402400436&ref=watch_permalink">Amy</a> presents a Rinnai Sensei tankless water heater, newer than Navien.  
+
+Current gas powered tank water heater in the upstairs kitchen will be moved into the attic above north bathrooms.  
 
 ## Grey Water
 

@@ -57,14 +57,7 @@ Hot air generated in the basement, lower left. Air loops through concrete slabs 
 <br><br>
 <a href="../elevations/img/4-levels.jpg"><img src="../elevations/img/4-levels.jpg" style="width:100%; max-width: 1200px"></a>
 
- 
-## Tankless Water Heaters
 
-2 Tankless - One by laundry machine, one in basement by kitchen  
-
-<a href="https://www.facebook.com/watch/live/?v=10160036402400436&ref=watch_permalink">Amy</a> presents a Rinnai Sensei tankless water heater, newer than Navien.  
-
-Tank in the upstairs kitchen will be moved into the attic above north bathroom.
 <!-- 
 <a href="http://www.marathonheaters.com/cons_specs.html">Rheem's Marathon Water Heater</a> - "The most durable electric water heater" - Under stairs  
 -->
