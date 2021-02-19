@@ -237,13 +237,11 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 ## Extras
 | Optional, not in financing |||
 |---|---|---|
-| Existing front porches - remove 2 extra columns by bricks and add 2x11 in ceiling, new ceilings with recessed lighting, dimmer. Add molding. Trim repairs.  | $800 | $3,000 |
-| Upstairs center bedroom - 6 lights with one dimmer switch (probably 3’ from corners) | $500 | $800 |
-| Light-well material using elevator shaft | $2,000 | $6,000 |
+| Existing front porches: Remove 2 extra columns by bricks and add 2x11 in ceiling. New ceilings with recessed lighting, dimmer. Add molding. Trim repairs.  | $800 | $3,000 |
+| 6 recessed lights in existing upstairs center bedroom (probably 3’ from corners). Dimmer switch on east wall. | $500 | $800 |
+| Light-well material within elevator shaft to redirect light from dormer roof window. | $1,000 | $3,000 |
 | <a href="https://docs.google.com/document/d/12DIpuRJvCAZmODl7M-jmEJEsM0hCdxiBljkXsaRpKSs/edit?usp=sharing">Crawl Space Encapsulation</a> | $2,000 | $5,000 |
-| Basement chiller, fan and duct in elevator shaft | $4,000 | $8,000 |
-| Elevator with motors below base, track for gears. Serves 4 levels | $10,000 | $18,000 |
-| Four elevator-bots shuffled in attic for sets of clothes and shoes  | $10,000 | $15,000 |
+
 
 
 <br>
