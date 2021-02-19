@@ -88,7 +88,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <a href="../phases/img/basement/brickwork.jpg"><img src="../phases/img/basement/brickwork.jpg" style="width:100%; max-width:1200px"></a><br>
 <br><br>
 
-## Phase 3 - Reposition 2 exterior AC Units.  Add Grate over Units.  Kitchen Mini-split.
+## Phase 3 - Reposition 2 exterior AC Units.  Grate.  Kitchen Mini-split. Basement Door and Window.
 
 | AC Units, Install Mini-split in Downstairs Kitchen |||
 |---|---|---|
