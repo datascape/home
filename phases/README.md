@@ -224,19 +224,21 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 
 ## Phase 12 - Exterior Wood Structures
 
-<a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
+||||
+|---|---|---|
+| Wood structure for jasmin over exterior HVAC grate  | $1,500 | $2,000 |
+| Wood archway beside front porch. Wood archway on south side. | $800 | $1,300 |
+
 <br>
 
-## Phase 13 - Exterior Fireplace
-| Porch fireplace grill provides heat to house |||
-|---|---|---|
-| Barbecue grill with stone enclosure | $3,000 | $8,000 |
-| Porch fireplace top with heat-transfer pipes connected to hollow core loop | $1,000 | $3,000 |
-
+<a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
 
 ## Extras
 | Optional, not in financing |||
 |---|---|---|
+| Exterior fireplace with barbecue grill within stone enclosure. | $3,000 | $8,000 |
+| Porch fireplace top with heat-transfer pipes connected to basement | $1,000 | $3,000 |
 | Existing front porches: Remove 2 extra columns by bricks and add 2x11 in ceiling. New ceilings with recessed lighting, dimmer. Add molding. Trim repairs.  | $800 | $3,000 |
 | 6 recessed lights in existing upstairs center bedroom (probably 3’ from corners). Dimmer switch on east wall. | $500 | $800 |
 | Light-well material within elevator shaft to redirect light from dormer roof window. | $1,000 | $3,000 |
