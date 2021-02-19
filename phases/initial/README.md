@@ -1,14 +1,16 @@
 
 # 721 Grant Street
 
-## Moving existing stairway 5 feet, Upgrades to two existing bathrooms
+## Moving existing stairway 5 feet. Upgrades to two existing bathrooms.
 
 <a href="img/stairway.jpg"><img src="img/stairway.jpg" style="width:100%; max-width:2000px; margin-top:20px"></a><br><br>
+
+<a href="img/drain-pipe.jpg"><img src="img/drain-pipe.jpg" style="width:100%; max-width:2000px; margin-top:20px"></a><br><br>
 
 |  |||
 |---|---|---|
 | **Prep/Reinforce** | | |
-| Carefully remove bottom 5 or 6 treads. Retain for reuse. Area below stairs is accessible from bathroom. | | |
+| Carefully remove bottom 5 or 6 treads. Retain for reuse. (Area below stairs is currently accessible from bathroom.) | | |
 | Place temporary half-tread stairs on side by rail. Start temporary treads near door and place elevated walkway 6'2" from ceiling.  | | |
 | Open up small portions of wall to determine if reinforcing uprights will be added | | |
 | Add reinforcement in walls. Might add additional cement footing under house | | |
