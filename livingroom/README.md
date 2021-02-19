@@ -104,7 +104,7 @@ STEP Warmfloor gives 2.5 times more heat output than cable systems, 2.08 times m
 
 https://www.warmfloor.com/green-technology/sustainable-technology/
 
-It could be placed under wood to create our gym-livingroom floor, rather than pouring more concrete on the hollow core slabs for hydronics. A thermal barrier between the basement slab and the element adds efficiency for a basement install - but in the livingroom we would heat the slab during the day to radiate throughout the night.  
+It could be placed under wood to create our gym-livingroom floor, rather than pouring more concrete on the hollow core slabs for hydronics. A thermal barrier between the basement slab and the element would add efficiency for a basement install. In the livingroom we would heat the slab during the day to radiate throughout the night, so no thermal barrier would be used under the livinging room floor surface.  
 
 https://youtu.be/q2c8cLrZYkc?t=184
 
