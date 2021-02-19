@@ -88,7 +88,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <a href="../phases/img/basement/brickwork.jpg"><img src="../phases/img/basement/brickwork.jpg" style="width:100%; max-width:1200px"></a><br>
 <br><br>
 
-## Phase 3 - Reposition 2 exterior AC Units.  Add Grate over Units
+## Phase 3 - Reposition 2 exterior AC Units.  Add Grate over Units.  Kitchen Mini-split.
 
 | AC Units, Install Mini-split in Downstairs Kitchen |||
 |---|---|---|
@@ -155,17 +155,23 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Add white storm windows - include some that open automatically with Google Home. | $10,000 | $18,000 |
 
 
-## Phase 6 - Plumbing and Air
-| Grey water system, 2 AC Units, 1 Heating unit in basement |||
+## Phase 6 - Two Mini-splits, Plumbing, Grey Water System
+| [Mini-split locations](../livingroom/#minisplits) |||
 |---|---|---|
 | Mini-split in south livingroom wall | $2,500 | $3,500 |
 | Mini-split above upstairs bathroom | $2,500 | $3,500 |
 | Move water heater to attic. Hook up water and gas lines (small) | $700 | $900 |
-| Grey water system - use copper entry basin for water entrance from shed roof | $3,000 | $4,000 |
 | Kitchen and craft room vent covers, bathroom vent covers (small) | $300 | $500 |
 | Plumbing for location of new sink in craft room | $100 | $200 |
-| Plumbing for new upstairs bathrooms | $1,200 | $3,000 |
+| Plumbing for new upstairs bathrooms | $1,200 | $3,000 |  
+| Grey water system - use copper entry basin for water entrance from shed roof | $3,000 | $4,000 |
 
+2 attic grey water tanks will be used for BOTH toilet flushing and watering the yard.  
+3 rain barrel tanks below the porch steps will be pumped into the 2 attic tanks.
+
+<!--
+Later, energy could be generated during drip irrigation on cloudy days by turning a small turbine with the descending water.  Turbine could by bypassed when higher pressure is used to water lawn. 2 antique tanks within the backside of the fireplace could hold additional water.
+-->
 
 ## Phase 7 - Drywall, Interior Trim, Interior Painting, Stairway Completion
 | Interior Trim and Door Carpentry |||

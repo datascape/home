@@ -70,6 +70,8 @@ Triple pane windows that should feel just as warm to the touch as the walls
 
 [Passive House Institute of the U.S.](https://www.phius.org/)  
 
+<a name="minisplits">&nbsp;</a>
+
 ## Mini Split - Heating and Cooling
 
 Two outside units on the north side will serve 3 interior units. 
@@ -122,12 +124,6 @@ A tankless water heater will reside by laundry machine upstairs.
 Terri's friend <a href="https://www.facebook.com/watch/live/?v=10160036402400436&ref=watch_permalink">Amy</a> presents a Rinnai Sensei tankless water heater, newer than Navien.  
 
 Current gas powered tank water heater in the upstairs kitchen will be moved into the attic above north bathrooms.  
-
-## Grey Water
-
-2 grey water tanks in the new attic area are for BOTH toilet flushing and watering the yard.  The the 3 "rain barrel" tanks below the porch feed into the 2 attic tanks.
-
-Perhaps is generated during drip irrigation on cloudy days by turning a small turbine with the descending water.  Turbine is turned off when higher pressure is used to water lawn, or entire yard uses drip. 2 antique tanks within the backside of the fireplace hold additional water.
 
 
 [Home](../)  
