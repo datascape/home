@@ -27,11 +27,13 @@ Projects indicated as "(small)" may be done independently by home owner.
 | Move lower section as one unit. | $2,000 | $5,000 |
 | Weather-seal upper edge of house after removal. Attach gutter. Cleanup. (Old siding remains) | $200 | $800 |
 | Assemble art shed. Wood from rear wall of kitchens can be used later (small) | $1,000 | $2,000 |
+| &nbsp; | | |
 | **Remove Kitchen Interior Wall and Ceiling** | | |
 | Remove ceiling and south wall in downstairs kitchens. Truck to cart off mortar and backing wood. (small) | $600 | $800 |
 | Cabinet-size freezer for new kitchen - Place upstairs as island initially | $1,400 | $1,800 |
 | Install removable weather barrier for crawl space at existing hole under removed rear. About 2' tall by 3.5' wide | $400 | $500 |
 | Repoint existing bricks, repair crawlsoace vent openings, patch wood holes. | $1,400 | $2,000 |
+| &nbsp; | | |
 | **Remove tree too close to other tree** | | |
 | Chainsaw tree too close to the other and guide down with ropes or crane. Cut up large pieces. | $500 | $800 |
 | Cut up remaining branches of downed tree (small) | $200 | $300 |
@@ -58,6 +60,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Jackhammer existing north cement for AC pad. Remove cement.  (small)  | $400 | $800 |
 | Remove remaining brick wall where trash resides. Retain bricks for reuse (small) | $400 | $600 |
 | Remove slate rear patio | | |
+| &nbsp; | | |
 | **Basement/Cement Work** | | |
 | Pour cement pad for AC Units (small) | $600 | $800 |
 | Rear porch 3 cement pedestal bases (small) | $200 | $400 |
@@ -69,6 +72,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Brick patio area above stairway, sand under bricks, weed barrier fabric | $300 | $500 |
 | Reset sidewalk (center third of Bass frontage, create side slope away from basement, weed barrier. (Other areas of Bass Street have vulnerable trees, so avoid resetting bricks by 2 oak trees and at front of property by Grant Street) | $800 | $1000 |
 | Brick walls of porch | $1000 | $2000 |
+| &nbsp; | | |
 | **Hollow Core Delivery:** | | |
 | Hollow core slabs, lifted into place by crane on truck | $15,000 | $25,000 |
 | Weatherproof plywood cover over basement stair opening, secure from below (small) | $100 | $200 |
@@ -93,10 +97,12 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Plumbing under kitchen. | $500 | $800 |
 | Insulate kitchen floor in crawlspace. | $500 | $800 |
 | Grate over HVAC units | $800 | $1,500 |
+| &nbsp; | | |
 | **Basement Details:** | | |
 | Metal stairway in basement | $1,000 | $4,000 |
 | Basement window under porch. Black frame, an old factory look. Slides or swings open fully.  | $900 | $1,400 |
 | Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
+| &nbsp; | | |
 | **Exterior Detail Work:** | | |
 | Wooden porch steps - detachable, over rain barrels | $500 | $700 |
 | Thick porch tiles laid out for rain absorption as back porch (small) | $400 | $800 |
@@ -337,7 +343,5 @@ Waterflow at porch - Six levels of drain protection:
 <a href="../exterior/img/waterflow.jpg"><img src="../exterior/img/waterflow.jpg" style="width:100%; max-width:1200px"></a> 
 
 ---
-
-[Home](../)
 
 
