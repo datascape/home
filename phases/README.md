@@ -32,7 +32,7 @@ Projects indicated as "(small)" may be done independently by home owner.
 | Remove ceiling and south wall in downstairs kitchens. Truck to cart off mortar and backing wood. (small) | $600 | $800 |
 | Cabinet-size freezer for new kitchen - Place upstairs as island initially | $1,400 | $1,800 |
 | Install removable weather barrier for crawl space at existing hole under removed rear. About 2' tall by 3.5' wide | $400 | $500 |
-| Repoint existing bricks, repair crawlsoace vent openings, patch wood holes. | $1,400 | $2,000 |
+| Repoint existing bricks to add stability prior to basement dig. Repair crawlspace vent openings, patch wood holes. | $1,400 | $2,000 |
 | &nbsp; | | |
 | **Remove tree too close to other tree** | | |
 | Chainsaw tree too close to the other and guide down with ropes or crane. Cut up large pieces. | $500 | $800 |
@@ -116,7 +116,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <a href="../phases/img/AC/AC-units.jpg"><img src="../phases/img/AC/AC-units.jpg" style="width:100%; max-width:1200px"></a>  
 <br><br>
 
-**Basement Details**
+**Basement Details**  
 <a href="../phases/img/basement/basement-details.jpg"><img src="../phases/img/basement/basement-details.jpg" style="width:100%; max-width:1200px"></a><br>
 <br><br>
 
@@ -151,9 +151,11 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 |  |||
 |---|---|---|
 | Remove old storm windows and security bars, patch and repair | $800 | $2,000 |
-| Prep and paint entire exterior | $8,000 | $15,000 |
+| Prep and paint entire exterior | $8,000 | $12,000 |
 | Add white storm windows - include some that open automatically with Google Home. | $10,000 | $18,000 |
 
+To get quote from:<br>
+[overeducatedpainters.com](http://overeducatedpainters.com/)  
 
 ## Phase 6 - Two Mini-splits, Plumbing, Grey Water System
 | [Mini-split locations](../livingroom/#minisplits) |||
@@ -210,6 +212,7 @@ Later, energy could be generated during drip irrigation on cloudy days by turnin
 | Upstairs, south side of addition |||
 |---|---|---|
 | South upstairs bathroom fixtures, shelf-cabinets and laundry area | $10,000 | $15,000 |
+| [mirror in front of window](https://www.houzz.com/photos/mirror-in-front-of-window-phbr0lbl-bl~l_51234) | | |
 | Cabinet-closet in master bedroom | $500 | $800 |
 
 <br><br>
