@@ -6,42 +6,63 @@
 <!--
 Renovation Construction Loan
 Based on value of home at time of project completion
+
+Dan uses calendly.com
+
+To do: 
+
+Floor Area Ratio (FAR) - 55%
+
+Zero lot line variance - Add photos of neighbors on Bass
+
+
 -->
 # Construction Phases
 
-<a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a>
+<br><br>
 
-Rough estimates for construction phases, plus extras.  
-Projects indicated as "(small)" may be done independently by home owner.
+Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a> 
 
-## Phase 1 - Convert Rear into Art Shed. Remove Concrete.
+## Phase 1 - Pre-Construction Planning
 
-| Art Shed. Remove Kitchen Ceilings. Cement AC Pad. Move AC Units | Min | Max |
+| Spring 2021 | Min | Max |
 |---|---|---|
-| Cement bases for art shed footers (small) | $200 | $550 |
-| 6 brick columns for shed. If short on bricks, bricks from trash area can be used (small) | $300 | $600 |
-| Optional: Remove enough dirt for crane to enter backyard | $600 | $1,000 |
-| Remove top roof. Remove second floor windows and lower door. Separate rear structure from building. | | |
-| Remove rear stairway's top deck. (small) | | |
-| Add 4x4s to reinforce open side. <a href="shed">Flip shed</a> or use crane. | | |
-| Move lower section as one unit. | $2,000 | $5,000 |
-| Weather-seal upper edge of house after removal. Attach gutter. Cleanup. (Old siding remains) | $200 | $800 |
-| Assemble art shed. Wood from rear wall of kitchens can be used later (small) | $1,000 | $2,000 |
+| Advise on elevation documentation for city: Bass St entrance height, basement 8' 3", Unfinished attic |  |  |
+
+
+## Phase 2 - Move shed with crane. Interior Plaster Removal.
+
+| Footings for Shed. Prepare to move lower laundry area. Weatherize upper area. | Min | Max |
+|---|---|---|
+| Six stone bases for art shed using existing stone | $200 | $550 |
+| Six brick columns for shed using bricks from west side of trash storage area | $300 | $600 |
+| Shift enough dirt for tree-removal crane to enter backyard. Use railroad ties to mitgate errosion. Might take dirt to school or park. | $600 | $1,000 |
+| Remove top roof. Remove second floor windows and lower door. Separate rear structure from building. | $400 | $500 |
+| Weather-seal upper edge of house after removal. Reattach gutter. Cleanup. (Old siding will remain) | $200 | $800 |
+| Remove deck at top of exterior stairway to clear path for movement of shed and tree.  | $100 | $200 |
+| Add two 4x4s to reinforce open side of shed facing house. | $100 | $200 |
 | &nbsp; | | |
-| **Remove Kitchen Interior Wall and Ceiling** | | |
-| Remove ceiling and south wall in downstairs kitchens. Truck to cart off mortar and backing wood. (small) | $600 | $800 |
-| Cabinet-size freezer for new kitchen - Place upstairs as island initially | $1,400 | $1,800 |
-| Install removable weather barrier for crawl space at existing hole under removed rear. About 2' tall by 3.5' wide | $400 | $500 |
-| Repoint existing bricks to add stability prior to basement dig. Repair crawlspace vent openings, patch wood holes. | $1,400 | $2,000 |
-| &nbsp; | | |
-| **Remove tree too close to other tree** | | |
-| Chainsaw tree too close to the other and guide down with ropes or crane. Cut up large pieces. | $500 | $800 |
+| **Small Crane** | | |
+| Move lower section of back laundry area as one unit using crane. Cut large branches and cut down tree too close to other tree. | $2,000 | $3,000 |
 | Cut up remaining branches of downed tree (small) | $200 | $300 |
+| &nbsp; | | |
+| **General Carpentry** | | |
+| Assemble shed reusing windows and roof from upstairs landry area. | $1,000 | $1,500 |
+| &nbsp; | | |
+| **Kitchens and Stairway - Remove ceiling plaster and one side of wall** | | |
+| Pickup truck at rear kitchen door for debris (plaster and wood slats). | $400 | $600 |
+| Remove ceiling plaster and south interior wall plaster in both kitchens.  | $600 | $800 |
+| &nbsp; | | |
+| **Repoint Bricks** | | |
+| Seal crawl space at existing hole after removing laundry area. About 2' tall by 3.5' wide | $400 | $500 |
+| Repoint existing bricks to add stability prior to basement dig. Repair crawlspace vent openings, patch wood holes. | $1,400 | $2,000 |
+| Add cement bases and 3 to 5 metal poles in crawlspace to reinforce west side of house. | $600 | $800 |
+
 <br><br>
 
 
 
-Rear laundry area to be removed and converted into art shed:<br>
+Rear laundry areas to be removed and converted into art shed:<br>
 <a href="../phases/img/initial.jpg"><img src="../phases/img/initial.jpg" style="width:100%; max-width:1100px"></a>  
 <br>
 <a href="../exterior/img/rear/photo-southside-uphill.jpg"><img src="../exterior/img/rear/photo-southside-uphill.jpg" style="width:100%; max-width: 1100px"></a><br>
@@ -57,6 +78,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 
 | Cement work, window within basement, sliding basement entrance |||
 |---|---|---|
+| Shift HVAC Units closer to house | | |
 | Jackhammer existing north cement for AC pad. Remove cement.  (small)  | $400 | $800 |
 | Remove remaining brick wall where trash resides. Retain bricks for reuse (small) | $400 | $600 |
 | Remove slate rear patio | | |
@@ -227,6 +249,7 @@ Later, energy could be generated during drip irrigation on cloudy days by turnin
 | Tile and drywall | $1,000 | $1,300 |
 | Downstairs kitchen oven and hood | $1,200 | $3,000 |
 | Downstairs kitchen - counter. cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
+| Cabinet-size freezer for new kitchen - Might place upstairs as island initially | $1,400 | $1,800 |
 | Upstairs craft room - cabinet on south wall | $1,500 | $1,800 |
 
 <br><br>

@@ -18,6 +18,9 @@ Total (excluding attic and basement):
 Allowable house 3750 ft² (from survey)  
 Land Area 7,501 ft² from [clustrmaps.com](https://clustrmaps.com)<!-- source https://clustrmaps.com/a/1qv6on/ -->
 
+But why not 4,125 ft²  (7,500 ft² x 55%)?  
+
+R5 Zone - Fulton County
 <!-- Total with unfinished basement and attic: 5050.46 ft² -->
 
 
