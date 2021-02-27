@@ -27,18 +27,18 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 
 | Spring 2021 | Min | Max |
 |---|---|---|
-| Advise on elevation documentation for city: Bass St entrance height, basement 8' 3", Unfinished attic |  |  |
+| Advise on elevation documentation for city: Bass St entrance height, Basement 8' 3", Unfinished attic |  |  |
 
 
 ## Phase 2 - Move shed with crane. Interior Plaster Removal.
 
-| Footings for Shed. Prepare to move lower laundry area. Weatherize upper area. | Min | Max |
+| Footings for Shed. Prepare to move lower laundry area. Weatherize roof exposed by removal. | Min | Max |
 |---|---|---|
 | Six stone bases for art shed using existing stone | $200 | $550 |
 | Six brick columns for shed using bricks from west side of trash storage area | $300 | $600 |
 | Shift enough dirt for tree-removal crane to enter backyard. Use railroad ties to mitgate errosion. Might take dirt to school or park. | $600 | $1,000 |
 | Remove top roof. Remove second floor windows and lower door. Separate rear structure from building. | $400 | $500 |
-| Weather-seal upper edge of house after removal. Reattach gutter. Cleanup. (Old siding will remain) | $200 | $800 |
+| Weather-seal upper edge of house during removal. Reattach gutter. Cleanup. (Old siding will remain) | $200 | $800 |
 | Remove deck at top of exterior stairway to clear path for movement of shed and tree.  | $100 | $200 |
 | Add two 4x4s to reinforce open side of shed facing house. | $100 | $200 |
 | &nbsp; | | |
@@ -46,12 +46,13 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | Move lower section of back laundry area as one unit using crane. Cut large branches and cut down tree too close to other tree. | $2,000 | $3,000 |
 | Cut up remaining branches of downed tree (small) | $200 | $300 |
 | &nbsp; | | |
-| **General Carpentry** | | |
-| Assemble shed reusing windows and roof from upstairs landry area. | $1,000 | $1,500 |
+| **General Carpentry - Assemble shed, add reclaimed windows** | | |
+| Assemble shed reusing windows and roof from upstairs laundry area. | $1,000 | $1,500 |
 | &nbsp; | | |
-| **Kitchens and Stairway - Remove ceiling plaster and one side of wall** | | |
+| **Demo Kitchens and Stairway - Remove ceiling plaster and one side of wall** | | |
 | Pickup truck at rear kitchen door for debris (plaster and wood slats). | $400 | $600 |
 | Remove ceiling plaster and south interior wall plaster in both kitchens.  | $600 | $800 |
+| Remove entire wall at back of closet above stairway. | $400 | $800 |
 | &nbsp; | | |
 | **Repoint Bricks** | | |
 | Seal crawl space at existing hole after removing laundry area. About 2' tall by 3.5' wide | $400 | $500 |
@@ -69,19 +70,21 @@ Rear laundry areas to be removed and converted into art shed:<br>
 Protecting large trees.  Tree to be removed is smaller - between these two at northwest corner of house.
 <br>
 
-## Phase 2 - Basement, Drainage and Brickwork
+
+
+## Phase 3 - Basement, Drainage and Brickwork
 
 <!--
 Basement Framing and Pour
 Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 2014) - Don't remember which house.
 -->
 
-| Cement work, window within basement, sliding basement entrance |||
+| Prep for cement work |||
 |---|---|---|
-| Shift HVAC Units closer to house | | |
-| Jackhammer existing north cement for AC pad. Remove cement.  (small)  | $400 | $800 |
-| Remove remaining brick wall where trash resides. Retain bricks for reuse (small) | $400 | $600 |
-| Remove slate rear patio | | |
+| Shift HVAC Units closer to house | $10 | $200 |
+| Jackhammer existing north cement for AC pad.<br>Removed concrete will be used to fill void under kitchen bumpout. Store concrete on northeast side of house.  | $400 | $800 |
+| Remove remaining brick wall where trash resides. Retain bricks for reuse | $400 | $600 |
+| Remove existing slate patio stones and concrete. Retain for reuse as back porch. Store under exterior stairway. Store concrete on northeast side of house. | | |
 | &nbsp; | | |
 | **Basement/Cement Work** | | |
 | Pour cement pad for AC Units (small) | $600 | $800 |
@@ -93,11 +96,11 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Pour higher basement level, 2 sets of cement steps and backing for brick walls on Bass Street | $1,000 | $2,500 |
 | Brick patio area above stairway, sand under bricks, weed barrier fabric | $300 | $500 |
 | Reset sidewalk (center third of Bass frontage, create side slope away from basement, weed barrier. (Other areas of Bass Street have vulnerable trees, so avoid resetting bricks by 2 oak trees and at front of property by Grant Street) | $800 | $1000 |
-| Brick walls of porch | $1000 | $2000 |
+| Brick walls of porch | $1000 | $3000 |
 | &nbsp; | | |
-| **Hollow Core Delivery:** | | |
+| **Hollow Core Install** | | |
 | Hollow core slabs, lifted into place by crane on truck | $15,000 | $25,000 |
-| Weatherproof plywood cover over basement stair opening, secure from below (small) | $100 | $200 |
+| Weatherproof plywood cover over basement stair opening, secure from below. Hinges on east side for access to basement stairway. | $100 | $200 |
 
 
 <br><br>
@@ -110,26 +113,44 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <a href="../phases/img/basement/brickwork.jpg"><img src="../phases/img/basement/brickwork.jpg" style="width:100%; max-width:1200px"></a><br>
 <br><br>
 
-## Phase 3 - Reposition 2 exterior AC Units.  Grate.  Kitchen Mini-split. Basement Door and Window.
+## Phase 4 - Move Interior Stairway
 
-| AC Units, Install Mini-split in Downstairs Kitchen |||
+|  |||
+|---|---|---|
+| **Prep/Reinforce** | | |
+| Carefully remove bottom 5 or 6 treads. Retain for reuse. (Area below stairs is currently accessible from bathroom.) | | |
+| Place temporary half-tread stairs on side by rail. Start temporary treads near door and place elevated walkway 6'2" from ceiling.  | | |
+| Open up small portions of wall to determine if reinforcing uprights will be added | | |
+| Add reinforcement in walls. Might add additional cement footing under house | | |
+| Replace upstairs closet floor with angled stairway ceiling | | |
+| Open walls for access to pipes for upstairs tub drain | | |
+| Prep/Reinforce | $1,200 | $3,000 |
+| &nbsp; |||
+| **Move Stairs, Resurface Treads** | | |
+| Move stairs. Resurface treads (Patch, sand, stain, seal). Might flip treads. | $1,000 | $2,000 |
+| For narrow ceiling above shower entrance, use metal plate with right angle edge. Waterprrof barrier. | $500 | $1,000 |
+| &nbsp; |||
+
+
+## Phase 5 - Reposition 2 exterior AC Units.  Grate. Basement Door and Window.
+
+| Move AC Units |||
 |---|---|---|
 | Move AC Units, extend freon lines | $600 | $800 |
-| Install Mini-split in Downstairs Kitchen | $1,500 | $2,000 | 
-| Plumbing under kitchen. | $500 | $800 |
-| Insulate kitchen floor in crawlspace. | $500 | $800 |
 | Grate over HVAC units | $800 | $1,500 |
 | &nbsp; | | |
-| **Basement Details:** | | |
+| **Plumbing under kitchen** |||
+| Plumbing under kitchen. | $500 | $800 |
+| Insulate kitchen floor in crawlspace. | $500 | $800 |
+| &nbsp; | | |
+| **Basement Details: Stairway, Window within basement, sliding basement entrance** | | |
 | Metal stairway in basement | $1,000 | $4,000 |
 | Basement window under porch. Black frame, an old factory look. Slides or swings open fully.  | $900 | $1,400 |
 | Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
 | &nbsp; | | |
 | **Exterior Detail Work:** | | |
 | Wooden porch steps - detachable, over rain barrels | $500 | $700 |
-| Thick porch tiles laid out for rain absorption as back porch (small) | $400 | $800 |
-| Rain barrels and pipe hookup under south steps | $1,000 | $2,500 |
-| Install tiny door, install tiny sunburst (Abbey) |  |  |
+
 
 <br><br>
 <a href="../phases/img/AC/AC-units-2D.jpg"><img src="../phases/img/AC/AC-units-2D.jpg" style="width:100%; max-width:1200px"></a>  
@@ -143,14 +164,13 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <br><br>
 
 
-## Phase 4 - Framework, Roof, Stairways, Windows, Siding, Electric
+## Phase 6 - Framework, Roof, Stairways, Windows, Siding, Electric
 ||||
 |---|---|---|
 | "Base Isolated" House - pads to dampen earthquake vibration | $500 | $1,000 |
 | Framework including porch railings and lower kitchen extension | $20,000 | $50,000 |
 | Roofing for entire house (white surface for solar, close existing attic vent) | $8,000 | $20,000 |
 | 2 new wooden staircases - main floor and to attic (includes install of treads and banisters after drywall and painting) | $3,800 | $7,000 |
-| Purchase and place grey water tanks above master bedroom | $800 | $1,500 |
 | Remove old roof under newly added shed roof. Remove pulldown attic stairway. Create balcony by extending attic beams over new jut-out. | $3,000 | $4,500 |
 | 31 windows, including window between attic and master bedroom. 2 exterior doors. | $18,000 | $25,000 |
 | Consider triple pane windows with argon fill - maybe on north side. |||
@@ -169,35 +189,47 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <a href="../exterior/img/west.jpg"><img src="../exterior/img/west.jpg" style="width:100%; max-width: 1200px"></a><br>
 
 
-## Phase 5 - Painting Exterior, Replace Existing Storm Windows
+## Phase 7 - Painting Exterior, Gutters, Replace Existing Storm Windows
 |  |||
 |---|---|---|
 | Remove old storm windows and security bars, patch and repair | $800 | $2,000 |
 | Prep and paint entire exterior | $8,000 | $12,000 |
 | Add white storm windows - include some that open automatically with Google Home. | $10,000 | $18,000 |
+| Gutters with leaf guards on addition | $1,000 | $2,000 |
+| Copper gutter with leaf guard on north side of upper roof to reduce bacteria in future greywater system  | $500 | $800 |
 
 To get quote from:<br>
 [overeducatedpainters.com](http://overeducatedpainters.com/)  
 
-## Phase 6 - Two Mini-splits, Plumbing, Grey Water System
+## Phase 8 - Mini-splits, Plumbing
 | [Mini-split locations](../livingroom/#minisplits) |||
 |---|---|---|
-| Mini-split in south livingroom wall | $2,500 | $3,500 |
-| Mini-split above upstairs bathroom | $2,500 | $3,500 |
+| Mini-split in Downstairs Kitchen | $1,800 | $2,500 | 
+| Mini-split in south livingroom wall | $2,000 | $3,000 |
+| Mini-split above upstairs bathroom | $2,000 | $3,000 |
 | Move water heater to attic. Hook up water and gas lines (small) | $700 | $900 |
 | Kitchen and craft room vent covers, bathroom vent covers (small) | $300 | $500 |
+| &nbsp; |||
+| **Plumbing** | | |
 | Plumbing for location of new sink in craft room | $100 | $200 |
 | Plumbing for new upstairs bathrooms | $1,200 | $3,000 |  
-| Grey water system - use copper entry basin for water entrance from shed roof | $3,000 | $4,000 |
+| Existing bathrooms - Portion of pipes for bathroom modifications, including pipe to attic. (We may wait to add hole in roof.) | $400 | $700 |
+| Install new incoming valve under house to increase pressure. | $300 | $600 |
+| &nbsp; |||
+| <b>Downstairs Bathroom</b> | | |
+| Add downstairs shower under stairway, including movable towel shelf. Tile. Vent. | $2,000 | $5,000 |
+| &nbsp; |||
+| **Electric** | | |
+| Add new lights in stairway, update existing switches to be two-way | $400 | $1,500 |
+| Lights in new downstairs shower, investigate flickering  | $200 | $600 |
+| &nbsp; |||
+| **Drywall and Painting** | | |
+| Drywall/patch hallway, patch existing cracks | $200 | $500 |
+| Paint/stain stairway | $200 | $700 |
 
-2 attic grey water tanks will be used for BOTH toilet flushing and watering the yard.  
-3 rain barrel tanks below the porch steps will be pumped into the 2 attic tanks.
 
-<!--
-Later, energy could be generated during drip irrigation on cloudy days by turning a small turbine with the descending water.  Turbine could by bypassed when higher pressure is used to water lawn. 2 antique tanks within the backside of the fireplace could hold additional water.
--->
 
-## Phase 7 - Drywall, Interior Trim, Interior Painting, Stairway Completion
+## Phase 9 - Drywall, Interior Trim, Interior Painting, Stairway Completion
 | Interior Trim and Door Carpentry |||
 |---|---|---|
 | Expand window opening for doorway to new bathroom from center room (small) | $200 | $300 |
@@ -220,7 +252,7 @@ Later, energy could be generated during drip irrigation on cloudy days by turnin
 | Upstairs bathroom recessed lights and vanity light in  | $400 | $700 |
 
 
-## Phase 8 - Craft Room Shelf, Sink and Counter
+## Phase 10 - Craft Room Shelf, Sink and Counter
 |  Craft room can optionally serve as a second kitchen |||
 |---|---|---|
 | Tile wall in craftroom | $1,000 | $1,500 |
@@ -230,7 +262,7 @@ Later, energy could be generated during drip irrigation on cloudy days by turnin
 | Connect plumbing (small) | $50 | $150 |
 <a href="../kitchen/#craftroom">Craft Room Images</a><br>
 
-## Phase 9 - New Bathrooms
+## Phase 11 - New Bathrooms
 | Upstairs, south side of addition |||
 |---|---|---|
 | South upstairs bathroom fixtures, shelf-cabinets and laundry area | $10,000 | $15,000 |
@@ -241,11 +273,11 @@ Later, energy could be generated during drip irrigation on cloudy days by turnin
 <a href="../floorplan/img/second-3D.jpg"><img src="../floorplan/img/second-3D.jpg" style="width:100%; max-width:1200px"></a><br>
 
 
-## Phase 10 - New Kitchen, Cabinetry
+## Phase 12 - New Kitchen, Cabinetry
 | Downstairs kitchen remodel |||
 |---|---|---|
-| Deactivate existing plumbing, electric, remove counters and wall behind sink (small) | $400 | $500 |
-| Extend kitchen floor surface 3' into bumpout and resurface floor | $3,000 | $4,000 |
+| Deactivate existing kitchen plumbing, electric, remove counters and wall behind sink (small) | $400 | $500 |
+| Extend kitchen floor surface 3' into bumpout and resurface floor | $2,000 | $4,000 |
 | Tile and drywall | $1,000 | $1,300 |
 | Downstairs kitchen oven and hood | $1,200 | $3,000 |
 | Downstairs kitchen - counter. cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
@@ -255,33 +287,6 @@ Later, energy could be generated during drip irrigation on cloudy days by turnin
 <br><br>
 <a href="../kitchen/img/kitchen.jpg"><img src="../kitchen/img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
 <a href="../kitchen/">More Kitchen Images</a><br>
-
-## Phase 11 - Solar Panels
-| New rebates are expected. List of [solar contractors in Georgia](https://www.solarpowerworldonline.com/2020-top-georgia-contractors/)  |||
-|---|---|---|
-| Solar panels  | $20,000 | $30,000 |
-
-## Phase 12 - Exterior Wood Structures
-
-||||
-|---|---|---|
-| Wood structure for jasmin over exterior HVAC grate  | $1,500 | $2,000 |
-| Wood archway beside front porch. Wood archway on south side. | $800 | $1,300 |
-
-<br>
-
-<a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
-<br>
-
-## Extras
-| Optional, not in financing |||
-|---|---|---|
-| Exterior fireplace with barbecue grill within stone enclosure. | $3,000 | $8,000 |
-| Porch fireplace top with heat-transfer pipes connected to basement | $1,000 | $3,000 |
-| Existing front porches: Remove 2 extra columns by bricks and add 2x11 in ceiling. New ceilings with recessed lighting, dimmer. Add molding. Trim repairs.  | $800 | $3,000 |
-| 6 recessed lights in existing upstairs center bedroom (probably 3’ from corners). Dimmer switch on east wall. | $500 | $800 |
-| Light-well material within elevator shaft to redirect light from dormer roof window. | $1,000 | $3,000 |
-| <a href="https://docs.google.com/document/d/12DIpuRJvCAZmODl7M-jmEJEsM0hCdxiBljkXsaRpKSs/edit?usp=sharing">Crawl Space Encapsulation</a> | $2,000 | $5,000 |
 
 
 
