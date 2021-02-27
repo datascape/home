@@ -51,15 +51,15 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | **General Carpentry - Assemble shed, add reclaimed windows** | | |
 | Assemble shed reusing windows and roof from upstairs laundry area. | $1,000 | $1,500 |
 | &nbsp; | | |
-| **Demo Kitchens and Stairway - Remove ceiling plaster and one side of wall** | | |
-| Pickup truck at rear kitchen door for debris (plaster and wood slats). | $400 | $600 |
+| **On both levels, remove kitchen ceiling plaster and one side of south wall. Remove wall above stairway** | | |
+| Park disposal truck at rear kitchen door for debris (plaster and wood slats). | $400 | $600 |
 | Remove ceiling plaster and south interior wall plaster in both kitchens.  | $600 | $800 |
-| Remove entire wall at back of closet above stairway. | $400 | $800 |
+| Remove wall at back of closet above stairway. | $400 | $800 |
 | &nbsp; | | |
-| **Repoint Bricks** | | |
-| Seal crawl space at existing hole after removing laundry area. About 2' tall by 3.5' wide | $400 | $500 |
-| Repoint existing bricks to add stability prior to basement dig. Repair crawlspace vent openings, patch wood holes. | $1,400 | $2,000 |
+| **Add more supports in basement, repoint bricks** | | |
 | Add cement bases and 3 to 5 metal poles in crawlspace to reinforce west side of house. | $600 | $800 |
+| Seal existing hole into crawl space after removing laundry area. Hole is about 2' tall by 3.5' wide. | $400 | $500 |
+| Repoint existing bricks to add stability prior to basement dig. Repair crawlspace vent openings, patch wood holes. | $1,400 | $2,000 |
 
 <br><br>
 
