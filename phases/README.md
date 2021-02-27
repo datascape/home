@@ -98,6 +98,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Pour higher basement level, 2 sets of cement steps and backing for brick walls on Bass Street | $1,000 | $2,500 |
 | &nbsp; | | |
 | **Brickwork** | | |
+| Porch tiles laid out for rain absorption as back porch | $400 | $800 |
 | Brick patio area above stairway, weed barrier fabric, sand under bricks| $300 | $500 |
 | Reset sidewalk (center third of Bass frontage, create side slope away from basement, weed barrier. (Other areas of Bass Street have vulnerable trees, so avoid resetting bricks by 2 oak trees and at front of property by Grant Street) | $800 | $1000 |
 | Brick walls of porch | $1000 | $3000 |
@@ -213,6 +214,12 @@ Two exterior mini-split units could also be added during this phase.
 <a href="../exterior/img/west.jpg"><img src="../exterior/img/west.jpg" style="width:100%; max-width: 1200px"></a><br>
 
 ## Phase 7 - Exterior Painting, Gutters, Replace or Seal Existing Storm Windows, Remove Bars
+
+<!--
+To get quote from:<br>
+[overeducatedpainters.com](http://overeducatedpainters.com/)  
+-->
+
 |  |||
 |---|---|---|
 | Remove old storm windows and security bars, patch and repair | $800 | $2,000 |

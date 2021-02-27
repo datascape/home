@@ -1,0 +1,110 @@
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Grant Park Addition - Extras</title>
+  <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon"> 
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="text/javascript" src="../../js/jquery/jquery.min.js"></script>
+  <script type="text/javascript" src="../../js/d3/d3.v5.min.js"></script>
+  <script type="text/javascript" src="../../js/showdown.min.js"></script>
+  <script type="text/javascript" src="../../js/display.js"></script>
+  <link rel="stylesheet" href="https://neighborhood.org/localsite/css/base.css" />
+  <link rel="stylesheet" href="../../css/display.css" />
+
+  <style>
+    table {
+      width: 100%;
+      min-width: 500px;
+      max-width: 1200px;
+    }
+    tr:hover {
+      background-color: #efefef;
+    }
+    td {
+      border-bottom:1px solid #eee;
+      width:100px;
+    }
+    th {
+      text-align: right;
+      padding-bottom:10px;
+      border-bottom:1px solid #ccc;
+    }
+    th:nth-child(1) {
+      text-align: left;
+    }
+    td {
+      text-align: right;
+    }
+    td:nth-child(1) {
+      text-align: left;
+      width: auto;
+    }
+    .totalrow > td {
+      font-weight: bold
+    }
+    #totaltable td {
+      border-bottom:none
+    }
+  </style>
+</head>
+
+<body style="font-family: Lato, sans-serif;">
+
+<div style="border-top: 1px solid #ccc; padding:40px; clear:both; overflow: auto;">
+  <div id="readmeDiv"></div>
+</div>
+
+<script>
+$(document).ready(function () {
+function addColumns() {
+    $('.totalrow').remove();
+    $('#totals').html("");
+    let allTables = $('#readmeDiv table');
+    let grandTotalMin = 0;
+    let grandTotalMax = 0;
+    for (var i = 1; i <= allTables.length; i++) {
+      //alert(allTables[i].innerHTML); 
+
+      let min = 0;
+      let max = 0;
+
+      // the selector must be adjusted to the actual html
+      $('#readmeDiv table:nth-of-type(' + i + ') td:nth-child(2):visible').each(function(){
+         var value = $(this).text().slice(1).replace(/,/g,'');
+         min += +value;
+      });
+      //alert(min);
+
+      $('#readmeDiv table:nth-of-type(' + i + ') td:nth-child(3):visible').each(function(){
+         var value = $(this).text().slice(1).replace(/,/g,'');
+         max += +value;
+      });
+      //alert(max);
+
+      $('#readmeDiv table:nth-of-type(' + i + ') > tbody:last-child').append('<tr class="totalrow"><td></td><td>$' + min.toLocaleString("en") + '</td><td>$' + max.toLocaleString("en") + '</td></tr>');
+
+      grandTotalMin += min;
+      grandTotalMax += max;
+    }
+    let totalsText = "<table id='totaltable'><tr><td style='font-weight:bold;'>Estimated Cost Range</td><td>$" + grandTotalMin.toLocaleString("en") + "</td><td>$" + grandTotalMax.toLocaleString("en") + "</td></tr></table>";
+    $('#totals').html(totalsText)
+}
+addColumns();
+
+setTimeout( function() {
+  addColumns();
+}, 500 );
+
+setTimeout( function() {
+  addColumns();
+}, 1500 );
+
+setTimeout( function() {
+  addColumns();
+}, 3000 );
+
+});
+</script>
+</body>
+</html>
