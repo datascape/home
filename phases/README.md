@@ -297,7 +297,7 @@ To get quote from:<br>
 | **New bathroom and laundry area** | | |
 | South upstairs bathroom fixtures, shelf-cabinets and laundry area | $10,000 | $15,000 |
 | [Mirror in front of window](https://www.houzz.com/photos/mirror-in-front-of-window-phbr0lbl-bl~l_51234) | $400 | $800 |
-| Cabinet-closet in master bedroom | $500 | $800 |
+| Cabinet-closet in master bedroom - north wall | $500 | $800 |
 | &nbsp; |||
 | **Tile projects** | | |
 | Tile in downstairs shower | $800 | $1,200 |
@@ -316,10 +316,11 @@ To get quote from:<br>
 ||||
 |---|---|---|
 | **Craftroom counter and sink** | | |
-| Add new counter with sink in craftroom<br>(At this point, family will shift to using craftroom while kitchen is remodeled.) | $1,000 | $1,500 |
+| Add new counter with sink in craftroom<br>(At this point, family will shift to using craftroom while downstairs kitchen is remodeled.) | $1,000 | $1,500 |
 | &nbsp; |||
-| **Downstairs Kitchen Floor** | | |
-| Deactivate existing downstairs kitchen plumbing, electricity, remove counters and wall behind sink (reuse windows) | $400 | $500 |
+| **Downstairs Kitchen - Extend floor 3', Remove hallway walls** | | |
+| Deactivate existing downstairs kitchen plumbing, electricity, remove counters and remove wall behind sink (reuse windows) | $400 | $500 |
+| Remove wall above doorway, remove south side of hall closet, add framework | $400 | $800 |
 | Extend downstairs kitchen floor surface 3' into bumpout and resurface floor | $2,000 | $4,000 |
 | &nbsp; |||
 | **Downstairs Cabinetry** | | |
