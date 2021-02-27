@@ -28,6 +28,7 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | Spring 2021 | Min | Max |
 |---|---|---|
 | Advise on elevation documentation for city: Bass St entrance height, Basement 8' 3", Unfinished attic |  |  |
+| Basement plan finalization |  |  |
 
 
 ## Phase 2 - Move shed with crane. Interior Plaster Removal.
@@ -84,7 +85,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Shift HVAC Units closer to house | $10 | $200 |
 | Jackhammer existing north cement for AC pad.<br>Removed concrete will be used to fill void under kitchen bumpout. Store concrete on northeast side of house.  | $400 | $800 |
 | Remove remaining brick wall where trash resides. Retain bricks for reuse | $400 | $600 |
-| Remove existing slate patio stones and concrete. Retain for reuse as back porch. Store under exterior stairway. Store concrete on northeast side of house. | | |
+| Remove existing slate patio stones and concrete. Retain state for reuse as back porch. Store under exterior stairway. Store concrete on northeast side of house. | $200 | $400 |
 | &nbsp; | | |
 | **Basement/Cement Work** | | |
 | Pour cement pad for AC Units (small) | $600 | $800 |
@@ -94,13 +95,15 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Cemeent drain by porch with grate to catch leaves | $400 | $500 |
 | Drains from brick porch area down to street below entrance, drain going east next to short brick wall | $800 | $1,500
 | Pour higher basement level, 2 sets of cement steps and backing for brick walls on Bass Street | $1,000 | $2,500 |
-| Brick patio area above stairway, sand under bricks, weed barrier fabric | $300 | $500 |
+| &nbsp; | | |
+| **Brickwork** | | |
+| Brick patio area above stairway, weed barrier fabric, sand under bricks| $300 | $500 |
 | Reset sidewalk (center third of Bass frontage, create side slope away from basement, weed barrier. (Other areas of Bass Street have vulnerable trees, so avoid resetting bricks by 2 oak trees and at front of property by Grant Street) | $800 | $1000 |
 | Brick walls of porch | $1000 | $3000 |
 | &nbsp; | | |
-| **Hollow Core Install** | | |
+| **Hollow core install** | | |
 | Hollow core slabs, lifted into place by crane on truck | $15,000 | $25,000 |
-| Weatherproof plywood cover over basement stair opening, secure from below. Hinges on east side for access to basement stairway. | $100 | $200 |
+| Weatherproof plywood cover over basement stair opening, secure from below. Hinges on east side for access to basement stairway. | $100 | $400 |
 
 
 <br><br>
@@ -114,6 +117,8 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <br><br>
 
 ## Phase 4 - Move Interior Stairway
+
+May occur before phase 3 (basement) or before phase 7 (plumbing).
 
 |  |||
 |---|---|---|
@@ -132,24 +137,23 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | &nbsp; |||
 
 
-## Phase 5 - Reposition 2 exterior AC Units.  Grate. Basement Door and Window.
+## Phase 5 - Move exterior AC units, add grate. Add basement door and window.
 
-| Move AC Units |||
+Two exterior mini-split units could also be added during this phase.
+
+||||
 |---|---|---|
-| Move AC Units, extend freon lines | $600 | $800 |
-| Grate over HVAC units | $800 | $1,500 |
+| **Reposition 2 AC Units into new enclosure** | | |
+| Extend and insulate freon lines | $600 | $800 |
+| Grate over AC units | $800 | $1,500 |
 | &nbsp; | | |
-| **Plumbing under kitchen** |||
-| Plumbing under kitchen. | $500 | $800 |
-| Insulate kitchen floor in crawlspace. | $500 | $800 |
-| &nbsp; | | |
-| **Basement Details: Stairway, Window within basement, sliding basement entrance** | | |
+| **Sliding door to basement. Basement stairway, Window within basement.** | | |
+| Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
 | Metal stairway in basement | $1,000 | $4,000 |
 | Basement window under porch. Black frame, an old factory look. Slides or swings open fully.  | $900 | $1,400 |
-| Basement sliding doors adjacent to sidewalk | $2,000 | $5,000 |
 | &nbsp; | | |
-| **Exterior Detail Work:** | | |
-| Wooden porch steps - detachable, over rain barrels | $500 | $700 |
+| **Front Porch Steps** | | |
+| Detachable wooden porch steps over rain barrel area | $500 | $800 |
 
 
 <br><br>
@@ -164,24 +168,33 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 <br><br>
 
 
-## Phase 6 - Framework, Roof, Stairways, Windows, Siding, Electric
+## Phase 6 - Framework, Roof, Stairways (rough), Windows, Insulation, Siding, Electric
 ||||
 |---|---|---|
+| **Framework** | | |
 | "Base Isolated" House - pads to dampen earthquake vibration | $500 | $1,000 |
 | Framework including porch railings and lower kitchen extension | $20,000 | $50,000 |
 | Roofing for entire house (white surface for solar, close existing attic vent) | $8,000 | $20,000 |
 | 2 new wooden staircases - main floor and to attic (includes install of treads and banisters after drywall and painting) | $3,800 | $7,000 |
 | Remove old roof under newly added shed roof. Remove pulldown attic stairway. Create balcony by extending attic beams over new jut-out. | $3,000 | $4,500 |
-| 31 windows, including window between attic and master bedroom. 2 exterior doors. | $18,000 | $25,000 |
-| Consider triple pane windows with argon fill - maybe on north side. |||
+| 31 windows, including window between attic and master bedroom. 2 exterior doors.<br>Consider triple pane windows with argon fill - maybe on north side.| $18,000 | $25,000 |
 | Siding on addition | $8,000 | $10,000 | 
-| Separate fuse boxes for new electric work. “Whole-house protector” $178 on Amazon for 140,000 amp Siemens FS140 Whole House Surge Protector. | $500 | $1,000 |
+| &nbsp; |||
+| **Electric** | | |
 | Electrical work and lighting | $8,000 | $15,000 |
+| Separate fuse boxes for new electric work.  | $500 | $1,000 |
+| “Whole-house protector” $178 on Amazon for 140,000 amp Siemens FS140 Whole House Surge Protector. | $300 | $500 |
+| Add new lights in existing stairway, update existing switches to be two-way | $400 | $1,500 |
+| Lights in new downstairs shower, investigate flickering - probably bulbs not sitable for dimmer  | $200 | $600 |
+| Hookup for towel warming rack in downstairs bathroom | $200 | $300 |
+| &nbsp; |||
+| **North Storage Doors** | | |
 | Strong metal doors on two north storage compartments | $400 | $1,000 |
-| Move all existing wires to new fuse boxes (upstairs and down) | $2,000 | $5,000 |
+| &nbsp; |||
+| **Existing upstairs** | | |
+| Craft room walls and ceiling, move door frame to create bathroom sink area. Reinforce. | $1,000 | $2,000 |
 | And new waterproof window interior to existing upstairs bathroom | $800 | $1,500 |
-| Craft room walls and ceiling, move door frame to create bathroom sink area. reinforce. | $1,000 | $2,000 |
- 
+
 <br><br>
 <a href="../framework/img/framework-above.jpg"><img src="../framework/img/framework-above.jpg" style="width:100%; max-width: 1200px"></a><br>
 
@@ -198,84 +211,84 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 | Gutters with leaf guards on addition | $1,000 | $2,000 |
 | Copper gutter with leaf guard on north side of upper roof to reduce bacteria in future greywater system  | $500 | $800 |
 
-To get quote from:<br>
-[overeducatedpainters.com](http://overeducatedpainters.com/)  
 
 ## Phase 8 - Mini-splits, Plumbing
 | [Mini-split locations](../livingroom/#minisplits) |||
 |---|---|---|
+| Two exterior mini-split units | $2,000 | $3,000 |
 | Mini-split in Downstairs Kitchen | $1,800 | $2,500 | 
-| Mini-split in south livingroom wall | $2,000 | $3,000 |
-| Mini-split above upstairs bathroom | $2,000 | $3,000 |
-| Move water heater to attic. Hook up water and gas lines (small) | $700 | $900 |
-| Kitchen and craft room vent covers, bathroom vent covers (small) | $300 | $500 |
-| &nbsp; |||
-| **Plumbing** | | |
-| Plumbing for location of new sink in craft room | $100 | $200 |
-| Plumbing for new upstairs bathrooms | $1,200 | $3,000 |  
-| Existing bathrooms - Portion of pipes for bathroom modifications, including pipe to attic. (We may wait to add hole in roof.) | $400 | $700 |
-| Install new incoming valve under house to increase pressure. | $300 | $600 |
+| Mini-split in south livingroom wall | $2,000 | $2,800 |
+| Mini-split above upstairs bathroom | $2,000 | $2,800 |
 | &nbsp; |||
 | <b>Downstairs Bathroom</b> | | |
-| Add downstairs shower under stairway, including movable towel shelf. Tile. Vent. | $2,000 | $5,000 |
-| &nbsp; |||
-| **Electric** | | |
-| Add new lights in stairway, update existing switches to be two-way | $400 | $1,500 |
-| Lights in new downstairs shower, investigate flickering  | $200 | $600 |
-| &nbsp; |||
-| **Drywall and Painting** | | |
-| Drywall/patch hallway, patch existing cracks | $200 | $500 |
-| Paint/stain stairway | $200 | $700 |
-
-
-
-## Phase 9 - Drywall, Interior Trim, Interior Painting, Stairway Completion
-| Interior Trim and Door Carpentry |||
-|---|---|---|
-| Expand window opening for doorway to new bathroom from center room (small) | $200 | $300 |
-| Add closet to existing center room upstairs, hang bathroom door  | $800 | $2,000 |
-| Drywall new addition and craft room | $3,000 | $5,000 |
-| Interior painting | $2,000 | $4,000 |
-| Vent covers and switch covers (small) | $400 | $700 |
-| Build 3 step wood stairway and landing at south entrance interior | $900 | $1,200 |
-| Build 3 step wood stairway to master bedroom | $500 | $800 |
-| Build 3 step wood stairway to new bathrooms | $400 | $600 |
-| Build bathroom door frame from our wood trim collection. Hang door use 1 of 5 in attic | $500 | $800 |
-| Large sliding bathroom door | $800 | $1,200 |
-| 4 large sliding screens (shoji) between master bedroom and craft room (8'7" by 4'5") | $1,200 | $3,000 |
-| Existing crawl space door - replace plywood with verticle boards. sand, stain and seal and lock. Dark stain color to blend with bricks | $300 | $500 |
-| Stairway treads and banisters | $ | $|
-| Door Hardware - Repair/upgrade doorknobs - Front door, bedroom, upstairs bathroom | $400 | $800 |
+| Add downstairs shower under stairway.<br>Install pivoting towel shelf and vent. | $3,000 | $4,000 |
 | &nbsp; |||
 | **Upstairs Bathroom** | | |
 | Move sink and toilet mount, new wall mounted toilet, add tub - [Wall photos](https://docs.google.com/document/d/1J0A26a7-Dvm3mscBRTSgxIeMxft11VZoRADT_unegkE/edit?usp=sharing) | $3,000 | $6,000 |
 | Upstairs bathroom recessed lights and vanity light in  | $400 | $700 |
+| &nbsp; |||
+| **Plumbing** | | |
+| Move gas line in attic under plywood. | $400 | $800 |
+| Move water heater to attic. Hook up water and gas lines | $700 | $900 |
+| Plumbing for sink in kitchen island. | $500 | $800 |
+| Plumbing for sink in craft room | $100 | $200 |
+| Plumbing for new upstairs bathrooms | $1,200 | $3,000 |  
+| Existing bathrooms - Portion of pipes for bathroom modifications, including pipe to attic. (We may wait to add hole in roof.) | $400 | $700 |
+| Install new incoming valve under house to increase pressure. | $300 | $600 |
 
-
-## Phase 10 - Craft Room Shelf, Sink and Counter
-|  Craft room can optionally serve as a second kitchen |||
+## Phase 9 - Drywall, Interior Trim, Interior Painting, Stairway Completion, Interior Doors
+||||
 |---|---|---|
-| Tile wall in craftroom | $1,000 | $1,500 |
-| Craft room shelf | $400 | $600 |
+| **Existing front stairway** | | |
+| Open cracks in existing front stairway, patch | $500 | $800 |
+| Paint/stain existing front stairway | $200 | $700 |
+| Interior Trim and Door Carpentry |||
+| &nbsp; |||
+| **Drywall and Painting** | | |
+| Expand window opening into doorway to upstairs laundry area | $200 | $800 |
+| Drywall new addition, kitchen and craft room | $3,000 | $5,000 |
+| Interior painting | $2,000 | $4,000 |
+| Switch and plug covers | $400 | $800 |
+| &nbsp; |||
+| **New Stairways** | | |
+| 2 stairways and banisters | $3,000 | $5,500 |
+| Build 3 step wood stairway and landing on south side of living room | $900 | $1,200 |
+| Build 3 step wood stairway to master bedroom | $500 | $800 |
+| Build 3 step wood stairway to new bathrooms | $400 | $600 |
+| &nbsp; |||
+| **Doors** | | |
+| Build bathroom door frame from our wood trim collection. Hang door. Use 1 of 5 in attic | $500 | $800 |
+| Hang additional doors currently in attic | $800 | $1,200 |
+| Large sliding bathroom door | $800 | $1,200 |
+| Door Hardware - Repair/upgrade doorknobs - Front door, bedroom, upstairs bathroom | $400 | $800 |
+
+
+## Phase 10 - Tile and counter projects
+||||
+|---|---|---|
 | Disconnect upstairs kitchen sink | $50 | $100 |
 | New upstairs counter with sink in craft room | $1,000 | $1,500 |
-| Connect plumbing (small) | $50 | $150 |
-<a href="../kitchen/#craftroom">Craft Room Images</a><br>
-
-## Phase 11 - New Bathrooms
-| Upstairs, south side of addition |||
-|---|---|---|
 | South upstairs bathroom fixtures, shelf-cabinets and laundry area | $10,000 | $15,000 |
-| [mirror in front of window](https://www.houzz.com/photos/mirror-in-front-of-window-phbr0lbl-bl~l_51234) | | |
+| [Mirror in front of window](https://www.houzz.com/photos/mirror-in-front-of-window-phbr0lbl-bl~l_51234) | $400 | $800 |
 | Cabinet-closet in master bedroom | $500 | $800 |
+| &nbsp; |||
+| **Tile projects** | | |
+| Tile in downstairs shower | $800 | $1,200 |
+| Tile in upstairs shower existing bathroom | $800 | $1,200 |
+| Tile in upstairs shower new bathroom | $800 | $1,200 |
+| Tile in downstairs kitchen | $800 | $1,200 |
+| Tile in craftroom | $800 | $1,200 |
 
+<br><br>
+<a href="../kitchen/#craftroom">Craft Room Images</a><br>
 <br><br>
 <a href="../floorplan/img/second-3D.jpg"><img src="../floorplan/img/second-3D.jpg" style="width:100%; max-width:1200px"></a><br>
 
 
-## Phase 12 - New Kitchen, Cabinetry
+## Phase 11 - Cabinetry
 | Downstairs kitchen remodel |||
 |---|---|---|
+| **Upstaris and Downstairs** | | |
 | Deactivate existing kitchen plumbing, electric, remove counters and wall behind sink (small) | $400 | $500 |
 | Extend kitchen floor surface 3' into bumpout and resurface floor | $2,000 | $4,000 |
 | Tile and drywall | $1,000 | $1,300 |
@@ -283,6 +296,9 @@ To get quote from:<br>
 | Downstairs kitchen - counter. cabinets including south wall, sink, hookup dishwasher | $7,000 | $15,000 |
 | Cabinet-size freezer for new kitchen - Might place upstairs as island initially | $1,400 | $1,800 |
 | Upstairs craft room - cabinet on south wall | $1,500 | $1,800 |
+| &nbsp; |||
+| **Craft Room** | | |
+| Craft room shelf | $400 | $600 |
 
 <br><br>
 <a href="../kitchen/img/kitchen.jpg"><img src="../kitchen/img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br>
