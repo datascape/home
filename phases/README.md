@@ -236,7 +236,7 @@ To get quote from:<br>
 | Separate fuse boxes for new electric work.  | $500 | $1,000 |
 | “Whole-house protector” $178 on Amazon for 140,000 amp Siemens FS140 Whole House Surge Protector. | $300 | $500 |
 | Add new lights in existing stairway, update existing switches to be two-way | $400 | $1,500 |
-| Lights in new downstairs shower, investigate flickering - probably bulbs not sitable for dimmer  | $200 | $600 |
+| Lights in new downstairs shower | $200 | $600 |
 | Hookup for towel warming rack in downstairs bathroom | $200 | $300 |
 
 ## Phase 9 - Mini-splits, Plumbing
@@ -318,9 +318,10 @@ To get quote from:<br>
 | **Craftroom counter and sink** | | |
 | Add new counter with sink in craftroom<br>(At this point, family will shift to using craftroom while downstairs kitchen is remodeled.) | $1,000 | $1,500 |
 | &nbsp; |||
-| **Downstairs Kitchen - Extend floor 3', Remove hallway walls** | | |
+| **Downstairs Kitchen -  Remove hallway walls, Ceiling, Extend floor 3'** | | |
 | Deactivate existing downstairs kitchen plumbing, electricity, remove counters and remove wall behind sink (reuse windows) | $400 | $500 |
 | Remove wall above doorway, remove south side of hall closet, add framework | $400 | $800 |
+| Drywall kitchen ceiling | $400 | $800 |
 | Extend downstairs kitchen floor surface 3' into bumpout and resurface floor | $2,000 | $4,000 |
 | &nbsp; |||
 | **Downstairs Cabinetry** | | |
