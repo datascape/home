@@ -23,6 +23,7 @@ He assembles it all from wood and uses his spray shop.
 
 <a href="https://www.houzz.com/photos/shingle-style-home-in-hanover-nh-victorian-kitchen-burlington-phvw-vp~106086"><img src="img/kitchen-windows.jpg" style="width:100%; max-width: 1200px"></a>  
 
+<a href="https://www.google.com/search?q=fridge+under+counter&sxsrf=ALeKk02GU5j0dWZngOF80UpdOTu5UKlKqg:1614549505261&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi7u-7NyY3vAhWCxFkKHWrKDOwQ_AUoAnoECAcQBA&biw=1536&bih=885&dpr=2#imgrc=QSgLMOCidC_flM">Fridge under counter</a>  
 
 <a href="img/kitchen-blue-counters.jpg"><img src="img/kitchen-blue-counters.jpg" style="width:100%; max-width: 1200px"></a>  
 
