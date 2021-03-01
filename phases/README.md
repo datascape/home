@@ -120,7 +120,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 
 ## Phase 4 - Move Interior Stairway
 
-May occur before phase 3 (basement) or before phase 7 (plumbing).
+May occur before phase 3 (basement) or before phase 7 (plumbing). [Project Details](initial)
 
 |  |||
 |---|---|---|
@@ -133,9 +133,10 @@ May occur before phase 3 (basement) or before phase 7 (plumbing).
 | Open walls for access to pipes for upstairs tub drain | | |
 | Prep/Reinforce | $1,500 | $4,000 |
 | &nbsp; |||
-| **Move Stairs, Resurface Treads** | | |
-| Move stairs. Resurface treads (Patch, sand, stain, seal). Might flip treads. | $1,000 | $2,000 |
+| **Add shower framework, Move Stairs, Resurface Treads** | | |
+| Add framework and basin for shower in closet under stairs. | $1,000 | $2,000 |
 | For narrow ceiling above shower entrance, use metal plate(s) welded as box. Waterprrof barrier. Fan vent will go through box. | $500 | $1,000 |
+| Move stairs. Resurface treads (Patch, sand, stain, seal). Might flip treads. | $1,000 | $2,000 |
 | &nbsp; |||
 
 
@@ -257,7 +258,7 @@ To get quote from:<br>
 | **Plumbing** | | |
 | Move gas line in attic under plywood. | $400 | $800 |
 | Move water heater to attic. Hook up water and gas lines | $700 | $900 |
-| Plumbing for sink in kitchen island. | $500 | $800 |
+| Plumbing for sink in kitchen island. 4" Drain pipes already run to area. | $500 | $800 |
 | Plumbing for sink in craft room | $100 | $200 |
 | Plumbing for new upstairs bathrooms | $1,200 | $3,000 |  
 | Existing bathrooms - Portion of pipes for bathroom modifications, including pipe to attic. (We may wait to add hole in roof.) | $400 | $700 |
@@ -268,7 +269,9 @@ To get quote from:<br>
 |---|---|---|
 | **Existing front stairway** | | |
 | Open cracks in existing front stairway, patch | $500 | $800 |
+| Drywall in exisitng bathrooms. | $500| $800 |  
 | Paint/stain existing front stairway | $200 | $700 |
+| Paint existing bathrooms | $200 | $500 |
 | &nbsp; |||
 | **Drywall and Painting** | | |
 | Expand window opening into doorway to upstairs laundry area | $200 | $800 |

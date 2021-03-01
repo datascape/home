@@ -1,7 +1,16 @@
 
-# 721 Grant Street
+### [721 Grant Street](../../)
 
-## Moving existing stairway 5 feet. Upgrades to two existing bathrooms.
+# Front Stairway Project
+
+Occurs within the following [construction phases](../)
+
+**Phase 2:** Demo wall above stairs. Open up wall and reinforce support column.  
+**Phase 4:** Add framework for shower in closet under stairs. Move existing stairway 5 feet.  
+**Phase 6:** Framework for existing upstairs bathroom - move wall for sink. Open wall from kitchen side for toilet move.  
+**Phase 9:** Plumbing.  
+**Phase 10** Drywall in exisitng bathrooms.  
+**Phase 11:** Tile in downstairs shower. Tile in existing bathroom upstairs - shower around window.  
 
 <a href="img/stairway.jpg"><img src="img/stairway.jpg" style="width:100%; max-width:2000px; margin-top:20px"></a><br><br>
 

@@ -11,6 +11,15 @@ Using cashout after construction loan work completed.
 | **Framing** |||
 | Add closet to existing center room upstairs | $800 | $1,200 |
 
+## Craftroom
+||||
+|---|---|---|
+| **East Counter** |||
+| Extend countertop, Cabinets, Oven, Undercounter fridge | $3,000 | $5,200 |
+
+<a href="../../kitchen/img/undercounter-kitchen-refrigerator-drawers.jpg"><img src="../../kitchen/img/undercounter-kitchen-refrigerator-drawers.jpg" style="width:100%; max-width:400px"></a><br>
+<a href="https://www.google.com/search?q=fridge+under+counter&sxsrf=ALeKk02GU5j0dWZngOF80UpdOTu5UKlKqg:1614549505261&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi7u-7NyY3vAhWCxFkKHWrKDOwQ_AUoAnoECAcQBA&biw=1536&bih=885&dpr=2#imgrc=QSgLMOCidC_flM">more undercounter examples</a><br><br>
+
 ## Electrical
 ||||
 |---|---|---|
