@@ -9,6 +9,8 @@ Resides in location of current kitchen. Window wall moved 3' north. Pantry remov
 
 <a href="img/kitchen-cabinets.jpg"><img src="img/kitchen-cabinets.jpg" style="width:100%; max-width: 1200px"></a><br>
 
+<a href="img/kitchen-full-cabinets.jpg"><img src="img/kitchen-full-cabinets.jpg" style="width:100%; max-width: 1200px"></a><br>
+
 Spot lights on walls (adjustable eyeball). 3 medium pendant lights over island. 
 No divider in sink. Concealed trash and recycling bin pull out to left of sink.  
 
@@ -59,13 +61,15 @@ Home Depot Minwax White wash -
 
 # Craft Room
 
-Designed for optional conversion to an upstairs guest kitchen.<br><br>
+Designed for conversion to an upstairs guest kitchen by adding undercounter drawer-refrigerator.<br><br>
 
 <a href="img/craftroom.jpg"><img src="img/craftroom.jpg" style="width:100%; max-width: 1200px"></a><br><br>
 
 <a href="img/craftroom.png"><img src="img/craftroom.png" style="width:100%; max-width: 1200px"></a><br><br>
 
-Tiles behind open shelf.<br><br>
+
+<a href="img/undercounter-kitchen-refrigerator-drawers.jpg"><img src="img/undercounter-kitchen-refrigerator-drawers.jpg" style="width:100%; max-width:400px"></a><br>
+<a href="https://www.google.com/search?q=fridge+under+counter&sxsrf=ALeKk02GU5j0dWZngOF80UpdOTu5UKlKqg:1614549505261&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi7u-7NyY3vAhWCxFkKHWrKDOwQ_AUoAnoECAcQBA&biw=1536&bih=885&dpr=2#imgrc=QSgLMOCidC_flM">more undercounter examples</a><br><br>
 
 <!--
 Bathroom
