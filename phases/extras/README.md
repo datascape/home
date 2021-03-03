@@ -2,6 +2,10 @@
 # Extras
 Using cashout after construction loan work completed.
 
+## Chimney Cover
+Around: 56 3/4" by 16 3/4" (Ideal interior: 18" or 17.5" by 57.25")  
+Outer edge of bricks: 58" by 19"  
+
 ## Woodwork
 ||||
 |---|---|---|
@@ -74,5 +78,7 @@ Using cashout after construction loan work completed.
 <br>
 
 <!--
+Brackers for hanging shovels reside on north side of chminey.  
+
 Later, energy could be generated during drip irrigation on cloudy days by turning a small turbine with the descending water.  Turbine could by bypassed when higher pressure is used to water lawn. 2 antique tanks within the backside of the fireplace could hold additional water.
 -->

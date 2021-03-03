@@ -25,11 +25,11 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 
 ## Phase 1 - Pre-Construction Planning
 
-| Spring 2021 | Min | Max |
+| Spring and Summer 2021 | Min | Max |
 |---|---|---|
-| Advise on elevation documentation for city: Bass St entrance height, Basement 8' 3", Unfinished attic |  |  |
-| Basement plan finalized and submitted for estimates |  |  |
-
+| Advise on elevation documentation for city: Bass St entrance height, Basement 8' 3", Unfinished attic | $120 | $480 |
+| Basement plan finalized, submitted for estimates, subcontrator secured | $480 | $2,500 |
+| Ongoing Pre-Construction Planning, work with engineers to finalize material orders | $2,500 | $12,500 |
 
 ## Phase 2 - Move shed with crane. Interior Plaster Removal.
 
