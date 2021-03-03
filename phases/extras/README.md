@@ -6,13 +6,14 @@ Using cashout after construction loan work completed.
 Around: 56 3/4" by 16 3/4" (Ideal interior: 18" or 17.5" by 57.25")  
 Outer edge of bricks: 58" by 19"  
 
-## Woodwork
+## Woodwork/Framing
 ||||
 |---|---|---|
-| **Doors and Shoji** | | |
+| **Shoji** | | |
 | 4 large sliding screens (shoji) between master bedroom and craft room (8'7" by 4'5") - Loren's uncle may build screens | $1,200 | $3,000 |
 | &nbsp; |||
-| **Framing** |||
+| **Add 2 closets** |||
+| Add closet by south porch entrance | $800 | $1,500 |
 | Add closet to existing center room upstairs | $800 | $1,200 |
 
 ## Craftroom
