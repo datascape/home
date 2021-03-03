@@ -44,8 +44,8 @@ Rough estimates for construction phases.  <a href="sketchup/721-Grant-Street.skp
 | Add two 4x4s to reinforce open side of shed facing house. | $100 | $200 |
 | Fridge will be moved into small room downstairs, then moved upstairs after craftroom counter is added (phase 13) |||
 | &nbsp; | | |
-| **Small Crane** | | |
-| Move lower section of back laundry area as one unit using crane. Cut large branches and cut down tree too close to other tree. | $2,000 | $3,000 |
+| **Small Crane and Truck** | | |
+| Move lower section of back laundry area as one unit using crane and truck bed. Cut large branches and cut down tree too close to other tree. | $2,000 | $4,000 |
 | Cut up remaining branches of downed tree (small) | $200 | $300 |
 | &nbsp; | | |
 | **General Carpentry - Assemble shed, add reclaimed windows** | | |
