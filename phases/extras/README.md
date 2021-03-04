@@ -18,6 +18,7 @@ Outer edge of bricks: 58" by 19"
 
 <a href="../../bedroom/img/shoji/doors.jpg"><img src="../../bedroom/img/shoji/doors.jpg" style="max-height:400px"></a>
 <a href="../../bedroom/img/shoji/shoji-groove.jpg"><img src="../../bedroom/img/shoji/shoji-groove.jpg" style="max-height:400px"></a>
+<a href="../../bedroom/img/shoji/bifold.jpg"><img src="../../bedroom/img/shoji/bifold.jpg" style="max-height:400px"></a>
 <br>
 
 ## Craftroom
