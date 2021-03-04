@@ -3,8 +3,9 @@
 Using cashout after construction loan work completed.
 
 ## Chimney Cover
-Around: 56 3/4" by 16 3/4" (Ideal interior: 18" or 17.5" by 57.25")  
-Outer edge of bricks: 58" by 19"  
+||||
+|---|---|---|
+|Around: 56 3/4" by 16 3/4" (Ideal interior: 18" or 17.5" by 57.25")<br>Outer edge of bricks: 58" by 19"| $300 | $800 |
 
 ## Woodwork/Framing/Doors
 ||||
@@ -14,7 +15,7 @@ Outer edge of bricks: 58" by 19"
 | Add closet to existing center room upstairs | $800 | $1,200 |
 | &nbsp; |||
 | **Shoji Doors** | | |
-| 4 large sliding screens (shoji) between master bedroom and craft room (8'7" by 4'5") - Loren's uncle may build screens | $1,200 | $3,000 |
+| 4 large sliding screens (shoji) between master bedroom and craft room (8'7" by 4'5") - Loren's uncle may build screens. Also considering other sliding wall options. | $1,200 | $3,000 |
 
 <a href="../../bedroom/img/shoji/doors.jpg"><img src="../../bedroom/img/shoji/doors.jpg" style="max-height:400px"></a>
 <a href="../../bedroom/img/shoji/shoji-groove.jpg"><img src="../../bedroom/img/shoji/shoji-groove.jpg" style="max-height:400px"></a>
