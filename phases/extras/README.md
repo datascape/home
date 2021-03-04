@@ -89,3 +89,5 @@ Brackers for hanging shovels reside on north side of chminey.
 
 Later, energy could be generated during drip irrigation on cloudy days by turning a small turbine with the descending water.  Turbine could by bypassed when higher pressure is used to water lawn. 2 antique tanks within the backside of the fireplace could hold additional water.
 -->
+
+[Home](../../) | [Phases](../)
