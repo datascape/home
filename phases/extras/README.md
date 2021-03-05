@@ -14,12 +14,13 @@ Using cashout after construction loan work completed.
 | Add closet by south porch entrance | $800 | $1,500 |
 | Add closet to existing center room upstairs | $800 | $1,200 |
 | &nbsp; |||
-| **Shoji Doors** | | |
-| 4 large sliding screens (shoji) between master bedroom and craft room (8'7" by 4'5") - Loren's uncle may build screens. Also considering other sliding wall options. | $1,200 | $3,000 |
+| **Sliding Wall - 4 Door Panels** | | |
+| 4 large sliding barn doors or shoji screens between master bedroom and craft room (8'7" by 4'5") - Loren's uncle may build screens. Also considering other sliding wall options. | $1,200 | $3,000 |
 
+<br>
+<a href="../../bedroom/img/shoji/triple-barn-doors-amazon.jpg"><img src="../../bedroom/img/shoji/triple-barn-doors-amazon.jpg" style="max-height:400px"></a>
 <a href="../../bedroom/img/shoji/doors.jpg"><img src="../../bedroom/img/shoji/doors.jpg" style="max-height:400px"></a>
 <a href="../../bedroom/img/shoji/shoji-groove.jpg"><img src="../../bedroom/img/shoji/shoji-groove.jpg" style="max-height:400px"></a>
-<a href="../../bedroom/img/shoji/bifold.jpg"><img src="../../bedroom/img/shoji/bifold.jpg" style="max-height:400px"></a>
 <br>
 
 ## Craftroom
@@ -27,6 +28,7 @@ Using cashout after construction loan work completed.
 |---|---|---|
 | **East Counter** |||
 | Extend countertop, Cabinets, Oven, Undercounter fridge | $3,000 | $5,200 |
+
 
 <a href="../../kitchen/img/undercounter-kitchen-refrigerator-drawers.jpg"><img src="../../kitchen/img/undercounter-kitchen-refrigerator-drawers.jpg" style="width:100%; max-width:400px"></a><br>
 <a href="https://www.google.com/search?q=fridge+under+counter&sxsrf=ALeKk02GU5j0dWZngOF80UpdOTu5UKlKqg:1614549505261&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi7u-7NyY3vAhWCxFkKHWrKDOwQ_AUoAnoECAcQBA&biw=1536&bih=885&dpr=2#imgrc=QSgLMOCidC_flM">more undercounter examples</a><br><br>

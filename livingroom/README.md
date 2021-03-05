@@ -15,12 +15,6 @@
 <div style="clear:both"></div>
 <br><br><br>
 
-<!--
-![](livingroom/img/8-C12-main-sun-CR-Andrew-Pogue_800.jpg)
-![](livingroom/img/masstimber.jpg)
-![](livingroom/img/MGA-mass-timber-wood-innovation-design-centre-hero-886x590.jpg)
-![](livingroom/img/mass-timber-frame-e1569231844722.jpg)
--->
 
 <a href="img/grey-beams.jpg"><img src="img/grey-beams.jpg" class="floating"></a>
 <a href="img/REI.jpg"><img src="img/REI.jpg" class="floating"></a> 
