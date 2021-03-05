@@ -310,7 +310,10 @@ To get quote from:<br>
 | Tile in craftroom | $800 | $1,200 |
 
 <br><br>
-<a href="../kitchen/#craftroom">Craft Room Images</a><br>
+<a href="../kitchen/#craftroom">Craftroom Images</a><br>
+<br><br>
+<a href="../floorplan/img/second-3D-before.jpg"><img src="../floorplan/img/second-3D-before.jpg" style="width:100%; max-width:1200px"></a><br>
+
 <br><br>
 <a href="../floorplan/img/second-3D.jpg"><img src="../floorplan/img/second-3D.jpg" style="width:100%; max-width:1200px"></a><br>
 
